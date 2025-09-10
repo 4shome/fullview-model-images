@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Garden_20191102T085103_41.5s.mp4-00294.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1052</xmin>
+			<xmax>1543</xmax>
+			<ymin>133</ymin>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>609</xmin>
+			<xmax>766</xmax>
+			<ymin>124</ymin>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1716889163</timestamp>
+	</update_record>
+	<last_update_ts>1716889163</last_update_ts>
+</Annotation>
