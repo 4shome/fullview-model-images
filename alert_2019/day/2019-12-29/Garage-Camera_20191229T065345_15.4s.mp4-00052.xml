@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Garage-Camera_20191229T065345_15.4s.mp4-00052.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>524</xmin>
+			<xmax>1476</xmax>
+			<ymin>163</ymin>
+			<ymax>765</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1063</xmin>
+			<xmax>1281</xmax>
+			<ymin>502</ymin>
+			<ymax>981</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1718164035</timestamp>
+	</update_record>
+	<last_update_ts>1718164035</last_update_ts>
+</Annotation>
