@@ -1,0 +1,26 @@
+<Annotation>
+	<filename>AMC03496_4AC26E_20191104T212315_39.2s.mp4-00576.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1205</xmin>
+			<xmax>1373</xmax>
+			<ymin>626</ymin>
+			<ymax>763</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1716889491</timestamp>
+	</update_record>
+	<update_record>
+		<user>wuge</user>
+		<timestamp>1749024402</timestamp>
+	</update_record>
+	<last_update_ts>1749024402</last_update_ts>
+</Annotation>
