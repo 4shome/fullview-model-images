@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>1-front-porch_20191125T115006_25.3s.mp4-00064.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1513</xmin>
+			<xmax>1711</xmax>
+			<ymin>342</ymin>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1274</xmin>
+			<xmax>1459</xmax>
+			<ymin>213</ymin>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1717490117</timestamp>
+	</update_record>
+	<last_update_ts>1717490117</last_update_ts>
+</Annotation>
