@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Frontyard-Left_motion_20230929T163113_12.6s.mp4-00002.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>141</xmin>
+			<xmax>888</xmax>
+			<ymin>225</ymin>
+			<ymax>889</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1745222414</timestamp>
+	</update_record>
+	<last_update_ts>1745222414</last_update_ts>
+</Annotation>

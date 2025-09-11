@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Inrit-Voorkant_motion_20230415T222529_24.9s.mp4-00147.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>238</xmin>
+			<xmax>645</xmax>
+			<ymin>183</ymin>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>297</xmin>
+			<xmax>544</xmax>
+			<ymin>105</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735037458</timestamp>
+	</update_record>
+	<last_update_ts>1735037458</last_update_ts>
+</Annotation>

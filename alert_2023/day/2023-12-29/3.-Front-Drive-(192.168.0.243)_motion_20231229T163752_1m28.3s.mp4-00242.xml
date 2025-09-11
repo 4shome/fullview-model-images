@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>3.-Front-Drive-(192.168.0.243)_motion_20231229T163752_1m28.3s.mp4-00242.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>369</xmin>
+			<xmax>934</xmax>
+			<ymin>13</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735095065</timestamp>
+	</update_record>
+	<last_update_ts>1735095065</last_update_ts>
+</Annotation>

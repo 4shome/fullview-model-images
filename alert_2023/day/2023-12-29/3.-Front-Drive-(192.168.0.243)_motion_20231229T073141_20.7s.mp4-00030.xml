@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>3.-Front-Drive-(192.168.0.243)_motion_20231229T073141_20.7s.mp4-00030.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>743</xmin>
+			<xmax>1518</xmax>
+			<ymin>61</ymin>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1397</xmin>
+			<xmax>1620</xmax>
+			<ymin>246</ymin>
+			<ymax>696</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735094682</timestamp>
+	</update_record>
+	<last_update_ts>1735094682</last_update_ts>
+</Annotation>

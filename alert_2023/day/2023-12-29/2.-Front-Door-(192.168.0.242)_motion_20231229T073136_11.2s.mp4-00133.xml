@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>2.-Front-Door-(192.168.0.242)_motion_20231229T073136_11.2s.mp4-00133.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>927</xmin>
+			<xmax>1594</xmax>
+			<ymin>279</ymin>
+			<ymax>611</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735037506</timestamp>
+	</update_record>
+	<last_update_ts>1735037506</last_update_ts>
+</Annotation>

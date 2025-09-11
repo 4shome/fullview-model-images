@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>C01-Loiter_motion_20231111T122308_2m18.8s.mp4-00736.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>106</xmin>
+			<xmax>297</xmax>
+			<ymin>151</ymin>
+			<ymax>331</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744192288</timestamp>
+	</update_record>
+	<last_update_ts>1744192288</last_update_ts>
+</Annotation>

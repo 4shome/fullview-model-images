@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>C01-Loiter_motion_20231111T122308_2m18.8s.mp4-00078.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>172</xmin>
+			<xmax>411</xmax>
+			<ymin>122</ymin>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>651</xmin>
+			<xmax>850</xmax>
+			<ymin>0</ymin>
+			<ymax>103</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744192685</timestamp>
+	</update_record>
+	<last_update_ts>1744192685</last_update_ts>
+</Annotation>

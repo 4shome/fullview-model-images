@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>1.-Garage-Door-(192.168.0.241)_motion_20231229T164227_2.2s.mp4-00006.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>9</xmin>
+			<xmax>768</xmax>
+			<ymin>48</ymin>
+			<ymax>580</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735094410</timestamp>
+	</update_record>
+	<last_update_ts>1735094410</last_update_ts>
+</Annotation>
