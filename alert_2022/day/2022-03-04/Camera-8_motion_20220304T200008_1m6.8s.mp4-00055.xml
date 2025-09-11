@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Camera-8_motion_20220304T200008_1m6.8s.mp4-00055.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>732</xmin>
+			<xmax>1284</xmax>
+			<ymin>163</ymin>
+			<ymax>520</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730258376</timestamp>
+	</update_record>
+	<last_update_ts>1730258376</last_update_ts>
+</Annotation>

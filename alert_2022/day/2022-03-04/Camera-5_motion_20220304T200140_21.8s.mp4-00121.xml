@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Camera-5_motion_20220304T200140_21.8s.mp4-00121.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>877</xmin>
+			<xmax>1219</xmax>
+			<ymin>64</ymin>
+			<ymax>220</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730257574</timestamp>
+	</update_record>
+	<last_update_ts>1730257574</last_update_ts>
+</Annotation>

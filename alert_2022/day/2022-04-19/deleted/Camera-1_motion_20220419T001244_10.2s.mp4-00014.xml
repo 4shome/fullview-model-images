@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Camera-1_motion_20220419T001244_10.2s.mp4-00014.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<bndbox>
+			<xmin>313</xmin>
+			<xmax>703</xmax>
+			<ymin>227</ymin>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tractor</name>
+		<bndbox>
+			<xmin>639</xmin>
+			<xmax>905</xmax>
+			<ymin>137</ymin>
+			<ymax>405</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730197173</timestamp>
+	</update_record>
+	<last_update_ts>1730197173</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Camera-6_motion_20220304T200039_20.2s.mp4-00032.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1462</xmin>
+			<xmax>1915</xmax>
+			<ymin>176</ymin>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>561</xmin>
+			<xmax>769</xmax>
+			<ymin>71</ymin>
+			<ymax>183</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730257749</timestamp>
+	</update_record>
+	<last_update_ts>1730257749</last_update_ts>
+</Annotation>

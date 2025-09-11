@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Shed_motion_20220412T095741_35.3s.mp4-00455.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tractor</name>
+		<bndbox>
+			<xmin>682</xmin>
+			<xmax>1336</xmax>
+			<ymin>0</ymin>
+			<ymax>593</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730277447</timestamp>
+	</update_record>
+	<last_update_ts>1730277447</last_update_ts>
+</Annotation>

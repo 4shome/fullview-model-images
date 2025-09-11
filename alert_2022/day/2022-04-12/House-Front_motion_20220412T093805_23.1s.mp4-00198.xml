@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>House-Front_motion_20220412T093805_23.1s.mp4-00198.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>450</xmin>
+			<xmax>823</xmax>
+			<ymin>340</ymin>
+			<ymax>549</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>200</xmax>
+			<ymin>489</ymin>
+			<ymax>857</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730277334</timestamp>
+	</update_record>
+	<last_update_ts>1730277334</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Camera-5_20220304T081055_7.8s.mp4-00004.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>876</xmin>
+			<xmax>1220</xmax>
+			<ymin>65</ymin>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1638</xmin>
+			<xmax>1795</xmax>
+			<ymin>115</ymin>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730257327</timestamp>
+	</update_record>
+	<last_update_ts>1730257327</last_update_ts>
+</Annotation>
