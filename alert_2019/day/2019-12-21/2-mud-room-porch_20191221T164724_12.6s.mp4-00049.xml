@@ -1,0 +1,26 @@
+<Annotation>
+	<filename>2-mud-room-porch_20191221T164724_12.6s.mp4-00049.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>559</xmin>
+			<xmax>743</xmax>
+			<ymin>33</ymin>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1718161158</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1749029807</timestamp>
+	</update_record>
+	<last_update_ts>1749029807</last_update_ts>
+</Annotation>

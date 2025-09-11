@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Reolink-PTZ_20191105T112257_1m27s.mp4-00006.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>334</xmin>
+			<xmax>968</xmax>
+			<ymin>245</ymin>
+			<ymax>757</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>158</xmin>
+			<xmax>337</xmax>
+			<ymin>616</ymin>
+			<ymax>954</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1716891899</timestamp>
+	</update_record>
+	<last_update_ts>1716891899</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Driveway_20191105T085847_2m5.9s.mkv-00279.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>119</xmin>
+			<xmax>420</xmax>
+			<ymin>86</ymin>
+			<ymax>219</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1716890788</timestamp>
+	</update_record>
+	<last_update_ts>1716890788</last_update_ts>
+</Annotation>

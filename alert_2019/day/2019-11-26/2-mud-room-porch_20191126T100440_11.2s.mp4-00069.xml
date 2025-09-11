@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>2-mud-room-porch_20191126T100440_11.2s.mp4-00069.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>518</xmin>
+			<xmax>575</xmax>
+			<ymin>187</ymin>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1717579492</timestamp>
+	</update_record>
+	<last_update_ts>1717579492</last_update_ts>
+</Annotation>

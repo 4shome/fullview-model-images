@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Shed-Outside_20191221T124203_19.1s.mp4-00158.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>95</xmin>
+			<xmax>483</xmax>
+			<ymin>117</ymin>
+			<ymax>278</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>531</xmin>
+			<xmax>806</xmax>
+			<ymin>107</ymin>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1718161301</timestamp>
+	</update_record>
+	<last_update_ts>1718161301</last_update_ts>
+</Annotation>
