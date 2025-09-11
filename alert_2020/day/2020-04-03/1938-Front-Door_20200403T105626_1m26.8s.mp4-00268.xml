@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>1938-Front-Door_20200403T105626_1m26.8s.mp4-00268.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>204</xmin>
+			<xmax>650</xmax>
+			<ymin>478</ymin>
+			<ymax>937</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>16</xmin>
+			<xmax>233</xmax>
+			<ymin>112</ymin>
+			<ymax>378</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724226269</timestamp>
+	</update_record>
+	<last_update_ts>1724226269</last_update_ts>
+</Annotation>

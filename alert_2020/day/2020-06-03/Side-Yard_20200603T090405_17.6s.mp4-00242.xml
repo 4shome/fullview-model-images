@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Side-Yard_20200603T090405_17.6s.mp4-00242.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>247</xmax>
+			<ymin>705</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724825628</timestamp>
+	</update_record>
+	<last_update_ts>1724825628</last_update_ts>
+</Annotation>

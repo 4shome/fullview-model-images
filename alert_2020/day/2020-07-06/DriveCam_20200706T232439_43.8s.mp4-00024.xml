@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>DriveCam_20200706T232439_43.8s.mp4-00024.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>84</xmin>
+			<xmax>642</xmax>
+			<ymin>464</ymin>
+			<ymax>826</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>251</xmin>
+			<xmax>661</xmax>
+			<ymin>320</ymin>
+			<ymax>548</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725265972</timestamp>
+	</update_record>
+	<last_update_ts>1725265972</last_update_ts>
+</Annotation>

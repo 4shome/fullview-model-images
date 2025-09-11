@@ -1,0 +1,35 @@
+<Annotation>
+	<filename>Driveway_20200623T131315_21.6s.mp4-00052.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>821</xmin>
+			<xmax>1440</xmax>
+			<ymin>335</ymin>
+			<ymax>1042</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tractor</name>
+		<bndbox>
+			<xmin>417</xmin>
+			<xmax>663</xmax>
+			<ymin>348</ymin>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724829202</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1749465200</timestamp>
+	</update_record>
+	<last_update_ts>1749465200</last_update_ts>
+</Annotation>

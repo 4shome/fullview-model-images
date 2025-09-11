@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Garage-2_20200424T041436_11.7s.mp4-00031.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>383</xmin>
+			<xmax>1807</xmax>
+			<ymin>49</ymin>
+			<ymax>946</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1384</xmin>
+			<xmax>1742</xmax>
+			<ymin>2</ymin>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724664357</timestamp>
+	</update_record>
+	<last_update_ts>1724664357</last_update_ts>
+</Annotation>

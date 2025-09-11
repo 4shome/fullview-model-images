@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>4.-Wanni-Rorlig_20200423T174955_38.5s.mp4-00019.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1531</xmin>
+			<xmax>1920</xmax>
+			<ymin>441</ymin>
+			<ymax>1019</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>106</xmin>
+			<xmax>252</xmax>
+			<ymin>699</ymin>
+			<ymax>1032</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724664211</timestamp>
+	</update_record>
+	<last_update_ts>1724664211</last_update_ts>
+</Annotation>

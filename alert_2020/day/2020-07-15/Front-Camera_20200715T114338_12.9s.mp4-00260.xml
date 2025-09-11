@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Camera_20200715T114338_12.9s.mp4-00260.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>26</xmin>
+			<xmax>68</xmax>
+			<ymin>56</ymin>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725270131</timestamp>
+	</update_record>
+	<last_update_ts>1725270131</last_update_ts>
+</Annotation>

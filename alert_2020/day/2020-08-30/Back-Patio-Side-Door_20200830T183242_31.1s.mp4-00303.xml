@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Back-Patio-Side-Door_20200830T183242_31.1s.mp4-00303.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>369</xmin>
+			<xmax>452</xmax>
+			<ymin>0</ymin>
+			<ymax>180</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722247582</timestamp>
+	</update_record>
+	<last_update_ts>1722247582</last_update_ts>
+</Annotation>

@@ -1,0 +1,35 @@
+<Annotation>
+	<filename>Drive2_20200109T093242_31.1s.mp4-00348.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>615</xmin>
+			<xmax>861</xmax>
+			<ymin>172</ymin>
+			<ymax>489</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>311</xmin>
+			<xmax>558</xmax>
+			<ymin>171</ymin>
+			<ymax>462</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724144571</timestamp>
+	</update_record>
+	<update_record>
+		<user>wuge</user>
+		<timestamp>1750130923</timestamp>
+	</update_record>
+	<last_update_ts>1750130923</last_update_ts>
+</Annotation>

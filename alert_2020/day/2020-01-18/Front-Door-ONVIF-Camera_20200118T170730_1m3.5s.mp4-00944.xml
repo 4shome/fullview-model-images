@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Door-ONVIF-Camera_20200118T170730_1m3.5s.mp4-00944.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>651</xmin>
+			<xmax>977</xmax>
+			<ymin>210</ymin>
+			<ymax>837</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1178</xmin>
+			<xmax>1341</xmax>
+			<ymin>272</ymin>
+			<ymax>644</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1721633918</timestamp>
+	</update_record>
+	<last_update_ts>1721633918</last_update_ts>
+</Annotation>

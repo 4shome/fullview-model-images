@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Driveway-Circle_20200804T222918_22.8s.mp4-00140.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>126</xmin>
+			<xmax>506</xmax>
+			<ymin>263</ymin>
+			<ymax>511</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1329</xmin>
+			<xmax>1611</xmax>
+			<ymin>264</ymin>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722852442</timestamp>
+	</update_record>
+	<last_update_ts>1722852442</last_update_ts>
+</Annotation>

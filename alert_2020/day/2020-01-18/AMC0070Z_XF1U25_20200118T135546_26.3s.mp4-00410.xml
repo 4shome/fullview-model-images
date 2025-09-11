@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>AMC0070Z_XF1U25_20200118T135546_26.3s.mp4-00410.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1257</xmin>
+			<xmax>1372</xmax>
+			<ymin>558</ymin>
+			<ymax>902</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1721633353</timestamp>
+	</update_record>
+	<last_update_ts>1721633353</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Yard-Camera_20200724T094505_43s.mp4-00225.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1072</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1013</xmin>
+			<xmax>1294</xmax>
+			<ymin>187</ymin>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725871698</timestamp>
+	</update_record>
+	<last_update_ts>1725871698</last_update_ts>
+</Annotation>

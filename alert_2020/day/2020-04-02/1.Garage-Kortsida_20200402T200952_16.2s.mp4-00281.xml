@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>1.Garage-Kortsida_20200402T200952_16.2s.mp4-00281.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>762</xmin>
+			<xmax>1754</xmax>
+			<ymin>487</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>504</xmax>
+			<ymin>528</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724225588</timestamp>
+	</update_record>
+	<last_update_ts>1724225588</last_update_ts>
+</Annotation>

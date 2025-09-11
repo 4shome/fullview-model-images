@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Z-Farm-Driveway_20200514T155143_14.8s.mp4-00028.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1395</xmin>
+			<xmax>1920</xmax>
+			<ymin>674</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>943</xmin>
+			<xmax>1451</xmax>
+			<ymin>758</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724752486</timestamp>
+	</update_record>
+	<last_update_ts>1724752486</last_update_ts>
+</Annotation>

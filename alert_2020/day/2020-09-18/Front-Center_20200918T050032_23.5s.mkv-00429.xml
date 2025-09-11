@@ -1,0 +1,26 @@
+<Annotation>
+	<filename>Front-Center_20200918T050032_23.5s.mkv-00429.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1041</xmin>
+			<xmax>1303</xmax>
+			<ymin>275</ymin>
+			<ymax>482</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724222941</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1749631488</timestamp>
+	</update_record>
+	<last_update_ts>1749631488</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>2-Museum-baksida_20200913T130503_59.5s.mp4-00039.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>semi truck</name>
+		<bndbox>
+			<xmin>273</xmin>
+			<xmax>1484</xmax>
+			<ymin>116</ymin>
+			<ymax>915</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>150</xmin>
+			<xmax>272</xmax>
+			<ymin>299</ymin>
+			<ymax>432</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722235914</timestamp>
+	</update_record>
+	<last_update_ts>1722235914</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>AAGobo_20200114T161105_23.2s.mp4-00117.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>111</xmin>
+			<xmax>401</xmax>
+			<ymin>259</ymin>
+			<ymax>775</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1721205404</timestamp>
+	</update_record>
+	<last_update_ts>1721205404</last_update_ts>
+</Annotation>

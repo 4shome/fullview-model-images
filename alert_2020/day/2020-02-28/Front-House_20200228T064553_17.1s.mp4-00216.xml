@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-House_20200228T064553_17.1s.mp4-00216.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>774</xmin>
+			<xmax>1209</xmax>
+			<ymin>94</ymin>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1322</xmin>
+			<xmax>1556</xmax>
+			<ymin>258</ymin>
+			<ymax>420</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724221642</timestamp>
+	</update_record>
+	<last_update_ts>1724221642</last_update_ts>
+</Annotation>

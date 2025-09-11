@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Dome_20200525T205808_31s.mp4-00698.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>890</xmin>
+			<xmax>1193</xmax>
+			<ymin>65</ymin>
+			<ymax>268</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1428</xmin>
+			<xmax>1464</xmax>
+			<ymin>47</ymin>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724825173</timestamp>
+	</update_record>
+	<last_update_ts>1724825173</last_update_ts>
+</Annotation>

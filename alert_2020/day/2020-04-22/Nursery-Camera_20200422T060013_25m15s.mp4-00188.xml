@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Nursery-Camera_20200422T060013_25m15s.mp4-00188.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>448</xmin>
+			<xmax>995</xmax>
+			<ymin>548</ymin>
+			<ymax>1030</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724663706</timestamp>
+	</update_record>
+	<last_update_ts>1724663706</last_update_ts>
+</Annotation>

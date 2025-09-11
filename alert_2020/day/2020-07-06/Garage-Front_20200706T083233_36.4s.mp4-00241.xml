@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Garage-Front_20200706T083233_36.4s.mp4-00241.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>361</xmin>
+			<xmax>430</xmax>
+			<ymin>160</ymin>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725266033</timestamp>
+	</update_record>
+	<last_update_ts>1725266033</last_update_ts>
+</Annotation>

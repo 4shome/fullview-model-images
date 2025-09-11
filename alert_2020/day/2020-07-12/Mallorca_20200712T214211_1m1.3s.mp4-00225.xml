@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Mallorca_20200712T214211_1m1.3s.mp4-00225.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>401</xmin>
+			<xmax>1300</xmax>
+			<ymin>174</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725269796</timestamp>
+	</update_record>
+	<last_update_ts>1725269796</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Roof-1_20200226T225105_15.6s.mp4-00137.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>328</xmin>
+			<xmax>406</xmax>
+			<ymin>638</ymin>
+			<ymax>790</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724221364</timestamp>
+	</update_record>
+	<last_update_ts>1724221364</last_update_ts>
+</Annotation>

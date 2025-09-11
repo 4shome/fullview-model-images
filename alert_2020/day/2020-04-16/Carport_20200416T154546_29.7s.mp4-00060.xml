@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Carport_20200416T154546_29.7s.mp4-00060.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>68</xmin>
+			<xmax>1235</xmax>
+			<ymin>95</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724662827</timestamp>
+	</update_record>
+	<last_update_ts>1724662827</last_update_ts>
+</Annotation>

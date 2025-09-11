@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Yard-Camera_20200724T085051_30.2s.mp4-00397.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1072</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1009</xmin>
+			<xmax>1293</xmax>
+			<ymin>188</ymin>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1607</xmin>
+			<xmax>1646</xmax>
+			<ymin>334</ymin>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725852644</timestamp>
+	</update_record>
+	<last_update_ts>1725852644</last_update_ts>
+</Annotation>

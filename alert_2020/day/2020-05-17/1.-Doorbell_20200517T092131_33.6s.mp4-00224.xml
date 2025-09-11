@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>1.-Doorbell_20200517T092131_33.6s.mp4-00224.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>640</xmin>
+			<xmax>692</xmax>
+			<ymin>525</ymin>
+			<ymax>699</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1005</xmin>
+			<xmax>1087</xmax>
+			<ymin>528</ymin>
+			<ymax>578</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724815810</timestamp>
+	</update_record>
+	<last_update_ts>1724815810</last_update_ts>
+</Annotation>

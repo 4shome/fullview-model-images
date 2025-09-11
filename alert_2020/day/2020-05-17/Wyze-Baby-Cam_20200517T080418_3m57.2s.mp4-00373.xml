@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Wyze-Baby-Cam_20200517T080418_3m57.2s.mp4-00373.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>239</xmin>
+			<xmax>345</xmax>
+			<ymin>349</ymin>
+			<ymax>643</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>307</xmin>
+			<xmax>407</xmax>
+			<ymin>307</ymin>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724816220</timestamp>
+	</update_record>
+	<last_update_ts>1724816220</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Backyard_20200601T202802_1m24.8s.mp4-00456.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>37</xmin>
+			<xmax>204</xmax>
+			<ymin>334</ymin>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1749088892</timestamp>
+	</update_record>
+	<last_update_ts>1749088892</last_update_ts>
+</Annotation>

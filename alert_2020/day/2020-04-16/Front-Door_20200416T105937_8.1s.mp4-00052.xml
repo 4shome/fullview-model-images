@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Door_20200416T105937_8.1s.mp4-00052.jpeg</filename>
+	<size>
+		<width>810</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>282</xmin>
+			<xmax>412</xmax>
+			<ymin>522</ymin>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724662916</timestamp>
+	</update_record>
+	<last_update_ts>1724662916</last_update_ts>
+</Annotation>

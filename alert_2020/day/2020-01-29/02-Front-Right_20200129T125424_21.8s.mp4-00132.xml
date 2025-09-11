@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>02-Front-Right_20200129T125424_21.8s.mp4-00132.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>700</xmin>
+			<xmax>1855</xmax>
+			<ymin>267</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1676</xmin>
+			<xmax>1920</xmax>
+			<ymin>65</ymin>
+			<ymax>227</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724146488</timestamp>
+	</update_record>
+	<last_update_ts>1724146488</last_update_ts>
+</Annotation>

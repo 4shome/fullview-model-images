@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Backyard_20200721T191413_17.4s.mp4-00109.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>458</xmin>
+			<xmax>599</xmax>
+			<ymin>56</ymin>
+			<ymax>123</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725851515</timestamp>
+	</update_record>
+	<last_update_ts>1725851515</last_update_ts>
+</Annotation>

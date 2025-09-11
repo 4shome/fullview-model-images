@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Dock_20200623T213625_20.2s.mkv-00101.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1482</xmin>
+			<xmax>1684</xmax>
+			<ymin>224</ymin>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1233</xmin>
+			<xmax>1429</xmax>
+			<ymin>332</ymin>
+			<ymax>813</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1749092987</timestamp>
+	</update_record>
+	<last_update_ts>1749092987</last_update_ts>
+</Annotation>

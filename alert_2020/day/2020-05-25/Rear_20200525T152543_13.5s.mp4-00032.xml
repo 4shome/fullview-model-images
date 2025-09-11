@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Rear_20200525T152543_13.5s.mp4-00032.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>282</xmin>
+			<xmax>514</xmax>
+			<ymin>75</ymin>
+			<ymax>206</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>528</xmin>
+			<xmax>691</xmax>
+			<ymin>42</ymin>
+			<ymax>129</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724825251</timestamp>
+	</update_record>
+	<last_update_ts>1724825251</last_update_ts>
+</Annotation>
