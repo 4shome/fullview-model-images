@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Shop---Field_20191231T150921_27.2s.mp4-00225.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>671</xmin>
+			<xmax>697</xmax>
+			<ymin>234</ymin>
+			<ymax>313</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1718172755</timestamp>
+	</update_record>
+	<last_update_ts>1718172755</last_update_ts>
+</Annotation>
