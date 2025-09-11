@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Lair-Camera-1_motion_20230428T153825_59.2s.mp4-00195.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>768</xmin>
+			<xmax>837</xmax>
+			<ymin>485</ymin>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735095526</timestamp>
+	</update_record>
+	<last_update_ts>1735095526</last_update_ts>
+</Annotation>

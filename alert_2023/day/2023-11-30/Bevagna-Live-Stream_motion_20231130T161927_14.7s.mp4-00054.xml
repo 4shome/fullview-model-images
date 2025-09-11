@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Bevagna-Live-Stream_motion_20231130T161927_14.7s.mp4-00054.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>870</xmin>
+			<xmax>977</xmax>
+			<ymin>840</ymin>
+			<ymax>938</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737363378</timestamp>
+	</update_record>
+	<last_update_ts>1737363378</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Kid-Room_motion_20230101T161623_57.4s.mp4-00348.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>633</xmin>
+			<xmax>957</xmax>
+			<ymin>0</ymin>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>401</xmin>
+			<xmax>708</xmax>
+			<ymin>446</ymin>
+			<ymax>970</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730282231</timestamp>
+	</update_record>
+	<last_update_ts>1730282231</last_update_ts>
+</Annotation>

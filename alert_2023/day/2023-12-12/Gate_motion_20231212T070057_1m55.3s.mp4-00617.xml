@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Gate_motion_20231212T070057_1m55.3s.mp4-00617.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>344</xmin>
+			<xmax>512</xmax>
+			<ymin>754</ymin>
+			<ymax>1020</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>558</xmin>
+			<xmax>651</xmax>
+			<ymin>815</ymin>
+			<ymax>983</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737355651</timestamp>
+	</update_record>
+	<last_update_ts>1737355651</last_update_ts>
+</Annotation>

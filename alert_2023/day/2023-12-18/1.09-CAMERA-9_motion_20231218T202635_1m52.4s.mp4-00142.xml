@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>1.09-CAMERA-9_motion_20231218T202635_1m52.4s.mp4-00142.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>549</xmin>
+			<xmax>923</xmax>
+			<ymin>188</ymin>
+			<ymax>442</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737343479</timestamp>
+	</update_record>
+	<last_update_ts>1737343479</last_update_ts>
+</Annotation>

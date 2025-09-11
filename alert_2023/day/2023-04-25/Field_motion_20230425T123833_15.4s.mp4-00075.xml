@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Field_motion_20230425T123833_15.4s.mp4-00075.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1273</xmin>
+			<xmax>1373</xmax>
+			<ymin>99</ymin>
+			<ymax>172</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735094670</timestamp>
+	</update_record>
+	<last_update_ts>1735094670</last_update_ts>
+</Annotation>

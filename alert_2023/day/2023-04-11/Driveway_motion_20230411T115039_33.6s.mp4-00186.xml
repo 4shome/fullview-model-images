@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Driveway_motion_20230411T115039_33.6s.mp4-00186.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1084</xmin>
+			<xmax>1527</xmax>
+			<ymin>334</ymin>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735036503</timestamp>
+	</update_record>
+	<last_update_ts>1735036503</last_update_ts>
+</Annotation>

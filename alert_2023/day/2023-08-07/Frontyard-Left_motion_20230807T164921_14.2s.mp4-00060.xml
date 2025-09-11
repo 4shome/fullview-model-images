@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Frontyard-Left_motion_20230807T164921_14.2s.mp4-00060.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>568</xmin>
+			<xmax>1171</xmax>
+			<ymin>61</ymin>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742957456</timestamp>
+	</update_record>
+	<last_update_ts>1742957456</last_update_ts>
+</Annotation>

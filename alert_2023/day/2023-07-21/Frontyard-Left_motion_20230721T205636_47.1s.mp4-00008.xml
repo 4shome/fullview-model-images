@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Frontyard-Left_motion_20230721T205636_47.1s.mp4-00008.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>165</xmin>
+			<xmax>903</xmax>
+			<ymin>232</ymin>
+			<ymax>893</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>234</xmin>
+			<xmax>455</xmax>
+			<ymin>191</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742896991</timestamp>
+	</update_record>
+	<last_update_ts>1742896991</last_update_ts>
+</Annotation>

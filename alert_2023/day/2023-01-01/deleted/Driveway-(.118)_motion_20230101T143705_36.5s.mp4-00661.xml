@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Driveway-(.118)_motion_20230101T143705_36.5s.mp4-00661.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bicycle</name>
+		<bndbox>
+			<xmin>606</xmin>
+			<xmax>1178</xmax>
+			<ymin>538</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>769</xmin>
+			<xmax>1184</xmax>
+			<ymin>373</ymin>
+			<ymax>934</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730282068</timestamp>
+	</update_record>
+	<last_update_ts>1730282068</last_update_ts>
+</Annotation>

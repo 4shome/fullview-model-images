@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>OutFrontEast_motion_20230721T021113_1m13.7s.mp4-00179.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>228</xmin>
+			<xmax>435</xmax>
+			<ymin>103</ymin>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>309</xmin>
+			<xmax>337</xmax>
+			<ymin>135</ymin>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742897441</timestamp>
+	</update_record>
+	<last_update_ts>1742897441</last_update_ts>
+</Annotation>

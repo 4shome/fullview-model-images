@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Frontyard-Left_motion_20230807T165305_36.2s.mp4-00102.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>760</xmin>
+			<xmax>1253</xmax>
+			<ymin>86</ymin>
+			<ymax>304</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>851</xmin>
+			<xmax>895</xmax>
+			<ymin>131</ymin>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742957698</timestamp>
+	</update_record>
+	<last_update_ts>1742957698</last_update_ts>
+</Annotation>
