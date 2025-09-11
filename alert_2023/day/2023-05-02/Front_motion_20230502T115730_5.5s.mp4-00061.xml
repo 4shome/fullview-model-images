@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front_motion_20230502T115730_5.5s.mp4-00061.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>807</xmin>
+			<xmax>1207</xmax>
+			<ymin>318</ymin>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735096538</timestamp>
+	</update_record>
+	<last_update_ts>1735096538</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>C32-Retail-Doors-3_motion_20230517T175603_22.9s.mp4-00046.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>104</xmin>
+			<xmax>152</xmax>
+			<ymin>168</ymin>
+			<ymax>306</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1736329507</timestamp>
+	</update_record>
+	<last_update_ts>1736329507</last_update_ts>
+</Annotation>

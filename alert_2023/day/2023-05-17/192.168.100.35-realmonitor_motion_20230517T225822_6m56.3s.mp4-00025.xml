@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>192.168.100.35-realmonitor_motion_20230517T225822_6m56.3s.mp4-00025.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>635</xmin>
+			<xmax>720</xmax>
+			<ymin>288</ymin>
+			<ymax>529</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1736323429</timestamp>
+	</update_record>
+	<last_update_ts>1736323429</last_update_ts>
+</Annotation>

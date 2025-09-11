@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Parking-Voorkant_motion_20230717T224044_30.1s.mp4-00357.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>498</xmin>
+			<xmax>1297</xmax>
+			<ymin>458</ymin>
+			<ymax>996</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742895876</timestamp>
+	</update_record>
+	<last_update_ts>1742895876</last_update_ts>
+</Annotation>

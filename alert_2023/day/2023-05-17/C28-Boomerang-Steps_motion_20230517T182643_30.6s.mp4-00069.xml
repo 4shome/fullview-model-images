@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>C28-Boomerang-Steps_motion_20230517T182643_30.6s.mp4-00069.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>499</xmin>
+			<xmax>662</xmax>
+			<ymin>107</ymin>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>197</xmin>
+			<xmax>332</xmax>
+			<ymin>266</ymin>
+			<ymax>617</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1736329191</timestamp>
+	</update_record>
+	<last_update_ts>1736329191</last_update_ts>
+</Annotation>

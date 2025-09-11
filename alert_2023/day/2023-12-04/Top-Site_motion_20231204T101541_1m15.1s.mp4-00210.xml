@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Top-Site_motion_20231204T101541_1m15.1s.mp4-00210.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1127</xmin>
+			<xmax>1299</xmax>
+			<ymin>466</ymin>
+			<ymax>893</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737359721</timestamp>
+	</update_record>
+	<last_update_ts>1737359721</last_update_ts>
+</Annotation>

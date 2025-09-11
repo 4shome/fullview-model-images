@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Carpark_motion_20231204T201319_13.7s.mp4-00007.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>588</xmin>
+			<xmax>906</xmax>
+			<ymin>342</ymin>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737359589</timestamp>
+	</update_record>
+	<last_update_ts>1737359589</last_update_ts>
+</Annotation>

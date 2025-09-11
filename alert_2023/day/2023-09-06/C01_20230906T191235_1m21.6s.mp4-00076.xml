@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>C01_20230906T191235_1m21.6s.mp4-00076.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1301</xmin>
+			<xmax>1464</xmax>
+			<ymin>735</ymin>
+			<ymax>956</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>779</xmin>
+			<xmax>883</xmax>
+			<ymin>40</ymin>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744616431</timestamp>
+	</update_record>
+	<last_update_ts>1744616431</last_update_ts>
+</Annotation>

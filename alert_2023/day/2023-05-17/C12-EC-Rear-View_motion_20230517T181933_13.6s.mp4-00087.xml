@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>C12-EC-Rear-View_motion_20230517T181933_13.6s.mp4-00087.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>56</xmin>
+			<xmax>285</xmax>
+			<ymin>619</ymin>
+			<ymax>970</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>14</xmin>
+			<xmax>147</xmax>
+			<ymin>586</ymin>
+			<ymax>881</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1736328475</timestamp>
+	</update_record>
+	<last_update_ts>1736328475</last_update_ts>
+</Annotation>

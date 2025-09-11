@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>7K02C3FPAGE2FAC_motion_20230517T231243_2m34.3s.mp4-00145.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>589</xmin>
+			<xmax>696</xmax>
+			<ymin>539</ymin>
+			<ymax>770</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1736323516</timestamp>
+	</update_record>
+	<last_update_ts>1736323516</last_update_ts>
+</Annotation>

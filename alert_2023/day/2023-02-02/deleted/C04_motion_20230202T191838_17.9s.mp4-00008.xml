@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>C04_motion_20230202T191838_17.9s.mp4-00008.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bicycle</name>
+		<bndbox>
+			<xmin>1586</xmin>
+			<xmax>1765</xmax>
+			<ymin>494</ymin>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1639</xmin>
+			<xmax>1778</xmax>
+			<ymin>412</ymin>
+			<ymax>672</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1731406791</timestamp>
+	</update_record>
+	<last_update_ts>1731406791</last_update_ts>
+</Annotation>

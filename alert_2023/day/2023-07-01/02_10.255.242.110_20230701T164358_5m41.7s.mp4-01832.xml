@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>02_10.255.242.110_20230701T164358_5m41.7s.mp4-01832.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1012</xmin>
+			<xmax>1132</xmax>
+			<ymin>120</ymin>
+			<ymax>481</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>915</xmin>
+			<xmax>1025</xmax>
+			<ymin>0</ymin>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742891139</timestamp>
+	</update_record>
+	<last_update_ts>1742891139</last_update_ts>
+</Annotation>

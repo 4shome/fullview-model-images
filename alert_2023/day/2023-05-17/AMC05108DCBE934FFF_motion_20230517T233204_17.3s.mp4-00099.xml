@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>AMC05108DCBE934FFF_motion_20230517T233204_17.3s.mp4-00099.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>265</xmin>
+			<xmax>610</xmax>
+			<ymin>158</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>672</xmin>
+			<xmax>861</xmax>
+			<ymin>264</ymin>
+			<ymax>792</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1736323796</timestamp>
+	</update_record>
+	<last_update_ts>1736323796</last_update_ts>
+</Annotation>

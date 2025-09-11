@@ -1,0 +1,35 @@
+<Annotation>
+	<filename>C11-WOW-Burger-View_motion_20230517T183453_28.3s.mp4-00202.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>464</xmin>
+			<xmax>611</xmax>
+			<ymin>217</ymin>
+			<ymax>609</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1664</xmin>
+			<xmax>1920</xmax>
+			<ymin>848</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1736324438</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1750240141</timestamp>
+	</update_record>
+	<last_update_ts>1750240141</last_update_ts>
+</Annotation>

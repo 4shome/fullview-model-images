@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>IDF_motion_20231120T121059_10.9s.mp4-00138.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>774</xmin>
+			<xmax>1034</xmax>
+			<ymin>162</ymin>
+			<ymax>806</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737452253</timestamp>
+	</update_record>
+	<last_update_ts>1737452253</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Oprit_motion_20230701T113835_56.2s.mp4-00051.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>108</xmin>
+			<xmax>487</xmax>
+			<ymin>262</ymin>
+			<ymax>486</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742891246</timestamp>
+	</update_record>
+	<last_update_ts>1742891246</last_update_ts>
+</Annotation>

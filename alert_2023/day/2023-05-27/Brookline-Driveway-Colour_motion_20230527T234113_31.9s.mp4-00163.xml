@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Brookline-Driveway-Colour_motion_20230527T234113_31.9s.mp4-00163.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>260</xmin>
+			<xmax>370</xmax>
+			<ymin>846</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1736331710</timestamp>
+	</update_record>
+	<last_update_ts>1736331710</last_update_ts>
+</Annotation>
