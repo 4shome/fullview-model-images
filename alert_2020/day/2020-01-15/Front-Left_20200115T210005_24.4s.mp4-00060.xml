@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Left_20200115T210005_24.4s.mp4-00060.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>150</xmin>
+			<xmax>1181</xmax>
+			<ymin>175</ymin>
+			<ymax>949</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>896</xmin>
+			<xmax>1007</xmax>
+			<ymin>89</ymin>
+			<ymax>151</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725002082</timestamp>
+	</update_record>
+	<last_update_ts>1725002082</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>BackPorch_20200224T111537_56.3s.mp4-00065.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>672</xmin>
+			<xmax>734</xmax>
+			<ymin>69</ymin>
+			<ymax>198</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724221219</timestamp>
+	</update_record>
+	<last_update_ts>1724221219</last_update_ts>
+</Annotation>

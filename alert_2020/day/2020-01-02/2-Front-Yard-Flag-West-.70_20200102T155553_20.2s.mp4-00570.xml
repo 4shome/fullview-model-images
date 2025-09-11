@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>2-Front-Yard-Flag-West-.70_20200102T155553_20.2s.mp4-00570.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1504</xmin>
+			<xmax>1646</xmax>
+			<ymin>181</ymin>
+			<ymax>264</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1719569269</timestamp>
+	</update_record>
+	<last_update_ts>1719569269</last_update_ts>
+</Annotation>

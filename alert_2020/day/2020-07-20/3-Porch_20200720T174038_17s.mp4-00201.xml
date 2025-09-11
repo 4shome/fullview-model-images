@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>3-Porch_20200720T174038_17s.mp4-00201.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>133</xmin>
+			<xmax>541</xmax>
+			<ymin>67</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>388</xmin>
+			<xmax>536</xmax>
+			<ymin>561</ymin>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725272810</timestamp>
+	</update_record>
+	<last_update_ts>1725272810</last_update_ts>
+</Annotation>

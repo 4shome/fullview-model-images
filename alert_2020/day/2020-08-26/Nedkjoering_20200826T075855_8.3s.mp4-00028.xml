@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Nedkjoering_20200826T075855_8.3s.mp4-00028.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>592</xmin>
+			<xmax>825</xmax>
+			<ymin>275</ymin>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722310016</timestamp>
+	</update_record>
+	<last_update_ts>1722310016</last_update_ts>
+</Annotation>

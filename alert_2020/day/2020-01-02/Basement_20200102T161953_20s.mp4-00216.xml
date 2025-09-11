@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Basement_20200102T161953_20s.mp4-00216.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>750</xmin>
+			<xmax>1319</xmax>
+			<ymin>515</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1719571336</timestamp>
+	</update_record>
+	<last_update_ts>1719571336</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Kitchen-Pan_20200331T205026_5.8s.mp4-00789.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>31</xmin>
+			<xmax>471</xmax>
+			<ymin>104</ymin>
+			<ymax>962</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724224588</timestamp>
+	</update_record>
+	<last_update_ts>1724224588</last_update_ts>
+</Annotation>

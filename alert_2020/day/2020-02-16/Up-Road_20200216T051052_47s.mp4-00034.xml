@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Up-Road_20200216T051052_47s.mp4-00034.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1192</xmin>
+			<xmax>1311</xmax>
+			<ymin>264</ymin>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>677</xmin>
+			<xmax>790</xmax>
+			<ymin>280</ymin>
+			<ymax>341</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724210009</timestamp>
+	</update_record>
+	<last_update_ts>1724210009</last_update_ts>
+</Annotation>

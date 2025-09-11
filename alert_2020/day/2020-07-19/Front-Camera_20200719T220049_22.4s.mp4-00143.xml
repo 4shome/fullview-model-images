@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Camera_20200719T220049_22.4s.mp4-00143.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>310</xmax>
+			<ymin>256</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>735</xmin>
+			<xmax>937</xmax>
+			<ymin>307</ymin>
+			<ymax>680</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725272574</timestamp>
+	</update_record>
+	<last_update_ts>1725272574</last_update_ts>
+</Annotation>

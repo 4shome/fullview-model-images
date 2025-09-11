@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Great-Room-Camera_20200421T101608_1m48.5s.mp4-00153.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1217</xmin>
+			<xmax>1535</xmax>
+			<ymin>335</ymin>
+			<ymax>834</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1267</xmin>
+			<xmax>1476</xmax>
+			<ymin>713</ymin>
+			<ymax>912</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724663280</timestamp>
+	</update_record>
+	<last_update_ts>1724663280</last_update_ts>
+</Annotation>

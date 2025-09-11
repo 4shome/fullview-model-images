@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Back-Patio_20200831T090129_46.9s.mp4-00322.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1071</xmin>
+			<xmax>1179</xmax>
+			<ymin>489</ymin>
+			<ymax>797</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722246433</timestamp>
+	</update_record>
+	<last_update_ts>1722246433</last_update_ts>
+</Annotation>

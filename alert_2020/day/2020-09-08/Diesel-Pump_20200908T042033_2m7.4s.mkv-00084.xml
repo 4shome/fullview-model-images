@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Diesel-Pump_20200908T042033_2m7.4s.mkv-00084.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>semi truck</name>
+		<bndbox>
+			<xmin>1176</xmin>
+			<xmax>1512</xmax>
+			<ymin>296</ymin>
+			<ymax>521</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722239212</timestamp>
+	</update_record>
+	<last_update_ts>1722239212</last_update_ts>
+</Annotation>

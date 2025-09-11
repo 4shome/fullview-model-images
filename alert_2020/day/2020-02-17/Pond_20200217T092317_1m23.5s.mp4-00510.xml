@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Pond_20200217T092317_1m23.5s.mp4-00510.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>580</xmin>
+			<xmax>633</xmax>
+			<ymin>131</ymin>
+			<ymax>282</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>777</xmin>
+			<xmax>818</xmax>
+			<ymin>129</ymin>
+			<ymax>235</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724220585</timestamp>
+	</update_record>
+	<last_update_ts>1724220585</last_update_ts>
+</Annotation>

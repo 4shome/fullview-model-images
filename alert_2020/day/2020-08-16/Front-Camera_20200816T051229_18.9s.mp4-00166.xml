@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Camera_20200816T051229_18.9s.mp4-00166.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>299</xmax>
+			<ymin>248</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>431</xmin>
+			<xmax>870</xmax>
+			<ymin>199</ymin>
+			<ymax>645</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724232562</timestamp>
+	</update_record>
+	<last_update_ts>1724232562</last_update_ts>
+</Annotation>

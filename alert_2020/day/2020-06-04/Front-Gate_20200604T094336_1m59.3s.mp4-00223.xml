@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Gate_20200604T094336_1m59.3s.mp4-00223.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1283</xmin>
+			<xmax>1513</xmax>
+			<ymin>479</ymin>
+			<ymax>648</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724825682</timestamp>
+	</update_record>
+	<last_update_ts>1724825682</last_update_ts>
+</Annotation>

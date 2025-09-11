@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>04-Rear-Drive_20200624T063254_12.9s.mp4-00003.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>183</xmin>
+			<xmax>895</xmax>
+			<ymin>206</ymin>
+			<ymax>866</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724829361</timestamp>
+	</update_record>
+	<last_update_ts>1724829361</last_update_ts>
+</Annotation>

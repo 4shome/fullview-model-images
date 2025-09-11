@@ -1,0 +1,26 @@
+<Annotation>
+	<filename>5-Kitchen_20200625T022241_1m56.1s.mp4-00382.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>508</xmin>
+			<xmax>787</xmax>
+			<ymin>0</ymin>
+			<ymax>458</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1749089284</timestamp>
+	</update_record>
+	<update_record>
+		<user>test</user>
+		<timestamp>1749093046</timestamp>
+	</update_record>
+	<last_update_ts>1749093046</last_update_ts>
+</Annotation>

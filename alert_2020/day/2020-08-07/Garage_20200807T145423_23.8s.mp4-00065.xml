@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Garage_20200807T145423_23.8s.mp4-00065.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1302</xmin>
+			<xmax>1537</xmax>
+			<ymin>121</ymin>
+			<ymax>259</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>758</xmin>
+			<xmax>905</xmax>
+			<ymin>88</ymin>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722850826</timestamp>
+	</update_record>
+	<last_update_ts>1722850826</last_update_ts>
+</Annotation>

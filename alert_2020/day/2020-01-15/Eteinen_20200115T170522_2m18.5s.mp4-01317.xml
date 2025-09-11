@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Eteinen_20200115T170522_2m18.5s.mp4-01317.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>42</xmin>
+			<xmax>694</xmax>
+			<ymin>0</ymin>
+			<ymax>608</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1721206700</timestamp>
+	</update_record>
+	<last_update_ts>1721206700</last_update_ts>
+</Annotation>

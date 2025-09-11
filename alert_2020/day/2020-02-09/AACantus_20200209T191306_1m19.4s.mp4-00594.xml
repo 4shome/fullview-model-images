@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>AACantus_20200209T191306_1m19.4s.mp4-00594.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>272</xmin>
+			<xmax>431</xmax>
+			<ymin>152</ymin>
+			<ymax>398</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724208465</timestamp>
+	</update_record>
+	<last_update_ts>1724208465</last_update_ts>
+</Annotation>

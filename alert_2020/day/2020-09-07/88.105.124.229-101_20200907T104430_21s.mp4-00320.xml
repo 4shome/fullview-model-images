@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>88.105.124.229-101_20200907T104430_21s.mp4-00320.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>582</xmin>
+			<xmax>820</xmax>
+			<ymin>540</ymin>
+			<ymax>748</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722240451</timestamp>
+	</update_record>
+	<last_update_ts>1722240451</last_update_ts>
+</Annotation>

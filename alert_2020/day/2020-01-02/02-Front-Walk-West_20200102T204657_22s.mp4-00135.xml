@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>02-Front-Walk-West_20200102T204657_22s.mp4-00135.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>220</xmin>
+			<xmax>549</xmax>
+			<ymin>169</ymin>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1719568551</timestamp>
+	</update_record>
+	<last_update_ts>1719568551</last_update_ts>
+</Annotation>

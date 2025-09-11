@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Trail-(East)_20200907T182150_32.1s.mp4-00136.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1509</xmin>
+			<xmax>1552</xmax>
+			<ymin>151</ymin>
+			<ymax>253</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722240710</timestamp>
+	</update_record>
+	<last_update_ts>1722240710</last_update_ts>
+</Annotation>

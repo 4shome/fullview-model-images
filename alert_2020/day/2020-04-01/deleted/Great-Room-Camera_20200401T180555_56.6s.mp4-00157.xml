@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Great-Room-Camera_20200401T180555_56.6s.mp4-00157.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>46</xmin>
+			<xmax>127</xmax>
+			<ymin>85</ymin>
+			<ymax>263</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1749031877</timestamp>
+	</update_record>
+	<last_update_ts>1749031877</last_update_ts>
+</Annotation>

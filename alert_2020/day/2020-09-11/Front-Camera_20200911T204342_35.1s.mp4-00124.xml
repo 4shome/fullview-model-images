@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Camera_20200911T204342_35.1s.mp4-00124.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>231</xmin>
+			<xmax>454</xmax>
+			<ymin>39</ymin>
+			<ymax>130</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722236822</timestamp>
+	</update_record>
+	<last_update_ts>1722236822</last_update_ts>
+</Annotation>

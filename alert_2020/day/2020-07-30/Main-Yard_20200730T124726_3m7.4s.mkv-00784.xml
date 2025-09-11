@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Main-Yard_20200730T124726_3m7.4s.mkv-00784.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>710</xmin>
+			<xmax>1165</xmax>
+			<ymin>188</ymin>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>165</xmin>
+			<xmax>317</xmax>
+			<ymin>394</ymin>
+			<ymax>601</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725873157</timestamp>
+	</update_record>
+	<last_update_ts>1725873157</last_update_ts>
+</Annotation>

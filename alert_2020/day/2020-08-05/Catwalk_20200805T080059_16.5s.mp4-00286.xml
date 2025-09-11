@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Catwalk_20200805T080059_16.5s.mp4-00286.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>653</xmin>
+			<xmax>737</xmax>
+			<ymin>464</ymin>
+			<ymax>670</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722851781</timestamp>
+	</update_record>
+	<last_update_ts>1722851781</last_update_ts>
+</Annotation>

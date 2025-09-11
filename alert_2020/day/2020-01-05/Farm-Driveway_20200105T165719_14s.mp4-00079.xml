@@ -1,0 +1,35 @@
+<Annotation>
+	<filename>Farm-Driveway_20200105T165719_14s.mp4-00079.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1304</xmin>
+			<xmax>1894</xmax>
+			<ymin>630</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>848</xmin>
+			<xmax>1401</xmax>
+			<ymin>715</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724144044</timestamp>
+	</update_record>
+	<update_record>
+		<user>wuge</user>
+		<timestamp>1750070684</timestamp>
+	</update_record>
+	<last_update_ts>1750070684</last_update_ts>
+</Annotation>

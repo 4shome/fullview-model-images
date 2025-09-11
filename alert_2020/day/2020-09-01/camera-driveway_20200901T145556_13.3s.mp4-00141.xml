@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>camera-driveway_20200901T145556_13.3s.mp4-00141.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>525</xmin>
+			<xmax>723</xmax>
+			<ymin>537</ymin>
+			<ymax>787</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1064</xmin>
+			<xmax>1108</xmax>
+			<ymin>620</ymin>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722245505</timestamp>
+	</update_record>
+	<last_update_ts>1722245505</last_update_ts>
+</Annotation>

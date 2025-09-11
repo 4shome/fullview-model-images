@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Shed-Outside_20200130T110526_15.7s.mp4-00223.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>535</xmin>
+			<xmax>814</xmax>
+			<ymin>106</ymin>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724149518</timestamp>
+	</update_record>
+	<last_update_ts>1724149518</last_update_ts>
+</Annotation>

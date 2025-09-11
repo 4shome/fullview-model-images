@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Receiving_20200113T162520_15.9s.mp4-00162.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>827</xmin>
+			<xmax>1525</xmax>
+			<ymin>176</ymin>
+			<ymax>506</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1721205118</timestamp>
+	</update_record>
+	<last_update_ts>1721205118</last_update_ts>
+</Annotation>

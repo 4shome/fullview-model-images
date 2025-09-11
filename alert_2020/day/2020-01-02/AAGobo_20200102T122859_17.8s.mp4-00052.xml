@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>AAGobo_20200102T122859_17.8s.mp4-00052.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>115</xmin>
+			<xmax>232</xmax>
+			<ymin>206</ymin>
+			<ymax>297</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>263</xmin>
+			<xmax>419</xmax>
+			<ymin>43</ymin>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1719570978</timestamp>
+	</update_record>
+	<last_update_ts>1719570978</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>02---Driveway_20200719T202714_41.4s.mp4-00266.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>260</xmin>
+			<xmax>421</xmax>
+			<ymin>190</ymin>
+			<ymax>300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>755</xmin>
+			<xmax>831</xmax>
+			<ymin>102</ymin>
+			<ymax>241</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725272324</timestamp>
+	</update_record>
+	<last_update_ts>1725272324</last_update_ts>
+</Annotation>

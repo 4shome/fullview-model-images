@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Wyze-Baby-Cam_20200428T193807_38.5s.mp4-00044.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>222</xmin>
+			<xmax>320</xmax>
+			<ymin>297</ymin>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724664964</timestamp>
+	</update_record>
+	<last_update_ts>1724664964</last_update_ts>
+</Annotation>

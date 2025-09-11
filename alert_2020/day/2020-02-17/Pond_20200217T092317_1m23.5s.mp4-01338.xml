@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Pond_20200217T092317_1m23.5s.mp4-01338.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>987</xmin>
+			<xmax>1051</xmax>
+			<ymin>152</ymin>
+			<ymax>292</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724220639</timestamp>
+	</update_record>
+	<last_update_ts>1724220639</last_update_ts>
+</Annotation>

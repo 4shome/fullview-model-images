@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front_20200704T155519_35.7s.mp4-00030.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>382</xmin>
+			<xmax>780</xmax>
+			<ymin>211</ymin>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725260760</timestamp>
+	</update_record>
+	<last_update_ts>1725260760</last_update_ts>
+</Annotation>

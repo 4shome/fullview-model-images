@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Winter-Park-Back-Yard1_20200720T185915_26.9s.mp4-00146.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1024</xmin>
+			<xmax>1166</xmax>
+			<ymin>171</ymin>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>662</xmin>
+			<xmax>766</xmax>
+			<ymin>151</ymin>
+			<ymax>414</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725851415</timestamp>
+	</update_record>
+	<last_update_ts>1725851415</last_update_ts>
+</Annotation>

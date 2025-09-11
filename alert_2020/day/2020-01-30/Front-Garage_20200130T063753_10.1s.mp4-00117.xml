@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Garage_20200130T063753_10.1s.mp4-00117.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>806</xmin>
+			<xmax>923</xmax>
+			<ymin>28</ymin>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>40</xmin>
+			<xmax>138</xmax>
+			<ymin>114</ymin>
+			<ymax>249</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724149404</timestamp>
+	</update_record>
+	<last_update_ts>1724149404</last_update_ts>
+</Annotation>

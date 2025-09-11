@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Pool-(Hikvison-192.168.1.126)_20200831T150618_14.4s.mp4-00071.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1380</xmin>
+			<xmax>1920</xmax>
+			<ymin>50</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722246972</timestamp>
+	</update_record>
+	<last_update_ts>1722246972</last_update_ts>
+</Annotation>
