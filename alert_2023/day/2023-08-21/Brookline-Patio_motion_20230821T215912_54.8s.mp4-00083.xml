@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Brookline-Patio_motion_20230821T215912_54.8s.mp4-00083.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>502</xmin>
+			<xmax>557</xmax>
+			<ymin>239</ymin>
+			<ymax>393</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742970170</timestamp>
+	</update_record>
+	<last_update_ts>1742970170</last_update_ts>
+</Annotation>

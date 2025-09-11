@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>SIDE-DOOR-10602_motion_20231207T222919_49.5s.mp4-00151.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>313</xmin>
+			<xmax>1244</xmax>
+			<ymin>344</ymin>
+			<ymax>957</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737358153</timestamp>
+	</update_record>
+	<last_update_ts>1737358153</last_update_ts>
+</Annotation>

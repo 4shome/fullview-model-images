@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>AAAtkins(FrontDoor)_motion_20230121T195839_18.8s.mp4-00116.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>704</xmin>
+			<xmax>1252</xmax>
+			<ymin>406</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730714600</timestamp>
+	</update_record>
+	<last_update_ts>1730714600</last_update_ts>
+</Annotation>

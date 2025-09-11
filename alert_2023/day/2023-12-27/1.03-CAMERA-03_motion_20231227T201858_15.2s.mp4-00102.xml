@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>1.03-CAMERA-03_motion_20231227T201858_15.2s.mp4-00102.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<bndbox>
+			<xmin>1416</xmin>
+			<xmax>1693</xmax>
+			<ymin>494</ymin>
+			<ymax>865</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>497</xmin>
+			<xmax>944</xmax>
+			<ymin>413</ymin>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735112588</timestamp>
+	</update_record>
+	<last_update_ts>1735112588</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>behindoak_motion_20230121T084911_14s.mp4-00034.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1519</xmin>
+			<xmax>1592</xmax>
+			<ymin>205</ymin>
+			<ymax>392</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730714899</timestamp>
+	</update_record>
+	<last_update_ts>1730714899</last_update_ts>
+</Annotation>

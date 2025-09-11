@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>BASSIN_20230325T130439_1m14.3s.mp4-00039.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>396</xmin>
+			<xmax>761</xmax>
+			<ymin>192</ymin>
+			<ymax>775</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735022031</timestamp>
+	</update_record>
+	<last_update_ts>1735022031</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>THERMIQUE_motion_20230325T130417_1m30s.mp4-00099.jpeg</filename>
+	<size>
+		<width>1350</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>158</xmin>
+			<xmax>284</xmax>
+			<ymin>495</ymin>
+			<ymax>820</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735022321</timestamp>
+	</update_record>
+	<last_update_ts>1735022321</last_update_ts>
+</Annotation>

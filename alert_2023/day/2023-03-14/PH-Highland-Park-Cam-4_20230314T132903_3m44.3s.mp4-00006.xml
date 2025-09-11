@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>PH-Highland-Park-Cam-4_20230314T132903_3m44.3s.mp4-00006.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>386</xmin>
+			<xmax>720</xmax>
+			<ymin>50</ymin>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>855</xmin>
+			<xmax>1165</xmax>
+			<ymin>65</ymin>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735011003</timestamp>
+	</update_record>
+	<last_update_ts>1735011003</last_update_ts>
+</Annotation>

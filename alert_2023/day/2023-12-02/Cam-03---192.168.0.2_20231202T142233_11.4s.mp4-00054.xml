@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Cam-03---192.168.0.2_20231202T142233_11.4s.mp4-00054.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>810</xmin>
+			<xmax>903</xmax>
+			<ymin>72</ymin>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737360893</timestamp>
+	</update_record>
+	<last_update_ts>1737360893</last_update_ts>
+</Annotation>

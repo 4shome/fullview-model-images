@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Patio_motion_20230306T190231_12.8s.mp4-00010.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>970</xmin>
+			<xmax>1385</xmax>
+			<ymin>190</ymin>
+			<ymax>505</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1024</xmin>
+			<xmax>1443</xmax>
+			<ymin>0</ymin>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1733136296</timestamp>
+	</update_record>
+	<last_update_ts>1733136296</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-West_motion_20231015T074357_28.5s.mp4-00209.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>909</xmin>
+			<xmax>990</xmax>
+			<ymin>120</ymin>
+			<ymax>384</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1745289802</timestamp>
+	</update_record>
+	<last_update_ts>1745289802</last_update_ts>
+</Annotation>

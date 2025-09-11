@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Camera4---Dahua-4MP-WiFi_motion_20230523T153425_11.3s.mp4-00052.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1538</xmin>
+			<xmax>1618</xmax>
+			<ymin>743</ymin>
+			<ymax>898</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1736330418</timestamp>
+	</update_record>
+	<last_update_ts>1736330418</last_update_ts>
+</Annotation>

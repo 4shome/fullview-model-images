@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>1.19-CAMERA-19_motion_20231227T201904_1m2.8s.mp4-00443.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>618</xmin>
+			<xmax>1013</xmax>
+			<ymin>386</ymin>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735112766</timestamp>
+	</update_record>
+	<last_update_ts>1735112766</last_update_ts>
+</Annotation>
