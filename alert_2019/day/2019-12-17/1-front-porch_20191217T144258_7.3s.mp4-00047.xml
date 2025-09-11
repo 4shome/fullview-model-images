@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>1-front-porch_20191217T144258_7.3s.mp4-00047.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>901</xmin>
+			<xmax>1168</xmax>
+			<ymin>36</ymin>
+			<ymax>178</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1717750196</timestamp>
+	</update_record>
+	<last_update_ts>1717750196</last_update_ts>
+</Annotation>
