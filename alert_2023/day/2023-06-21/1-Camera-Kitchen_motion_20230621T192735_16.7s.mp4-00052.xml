@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>1-Camera-Kitchen_motion_20230621T192735_16.7s.mp4-00052.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>44</xmin>
+			<xmax>372</xmax>
+			<ymin>299</ymin>
+			<ymax>395</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1244</xmin>
+			<xmax>1363</xmax>
+			<ymin>264</ymin>
+			<ymax>327</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737368103</timestamp>
+	</update_record>
+	<last_update_ts>1737368103</last_update_ts>
+</Annotation>

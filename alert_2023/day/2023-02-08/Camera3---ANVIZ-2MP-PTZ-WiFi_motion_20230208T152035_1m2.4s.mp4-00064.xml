@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Camera3---ANVIZ-2MP-PTZ-WiFi_motion_20230208T152035_1m2.4s.mp4-00064.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1283</xmin>
+			<xmax>1541</xmax>
+			<ymin>688</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1733130160</timestamp>
+	</update_record>
+	<last_update_ts>1733130160</last_update_ts>
+</Annotation>

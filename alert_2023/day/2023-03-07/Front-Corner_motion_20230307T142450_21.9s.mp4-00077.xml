@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Corner_motion_20230307T142450_21.9s.mp4-00077.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1467</xmin>
+			<xmax>1658</xmax>
+			<ymin>120</ymin>
+			<ymax>255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1241</xmin>
+			<xmax>1352</xmax>
+			<ymin>206</ymin>
+			<ymax>403</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1733136670</timestamp>
+	</update_record>
+	<last_update_ts>1733136670</last_update_ts>
+</Annotation>

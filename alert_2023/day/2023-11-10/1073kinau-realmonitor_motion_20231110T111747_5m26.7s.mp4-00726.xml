@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>1073kinau-realmonitor_motion_20231110T111747_5m26.7s.mp4-00726.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1142</xmin>
+			<xmax>1483</xmax>
+			<ymin>9</ymin>
+			<ymax>210</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1355</xmin>
+			<xmax>1558</xmax>
+			<ymin>523</ymin>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744193279</timestamp>
+	</update_record>
+	<last_update_ts>1744193279</last_update_ts>
+</Annotation>

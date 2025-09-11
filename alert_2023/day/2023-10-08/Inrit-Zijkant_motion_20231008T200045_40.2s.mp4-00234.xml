@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Inrit-Zijkant_motion_20231008T200045_40.2s.mp4-00234.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1074</xmin>
+			<xmax>1360</xmax>
+			<ymin>64</ymin>
+			<ymax>289</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1745225518</timestamp>
+	</update_record>
+	<last_update_ts>1745225518</last_update_ts>
+</Annotation>

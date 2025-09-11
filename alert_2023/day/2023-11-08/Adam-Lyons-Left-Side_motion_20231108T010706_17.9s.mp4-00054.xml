@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Adam-Lyons-Left-Side_motion_20231108T010706_17.9s.mp4-00054.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1207</xmin>
+			<xmax>1591</xmax>
+			<ymin>230</ymin>
+			<ymax>479</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744965156</timestamp>
+	</update_record>
+	<last_update_ts>1744965156</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Corner_20230417T143913_12.8s.mp4-00057.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1478</xmin>
+			<xmax>1535</xmax>
+			<ymin>224</ymin>
+			<ymax>354</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735093922</timestamp>
+	</update_record>
+	<last_update_ts>1735093922</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Basement-Door_motion_20231129T204710_1m44s.mp4-00033.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>483</xmin>
+			<xmax>1329</xmax>
+			<ymin>348</ymin>
+			<ymax>955</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>928</xmin>
+			<xmax>1595</xmax>
+			<ymin>327</ymin>
+			<ymax>620</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737364160</timestamp>
+	</update_record>
+	<last_update_ts>1737364160</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>R3D7-SW-Pole_motion_20231126T225115_24.4s.mp4-00011.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>912</xmin>
+			<xmax>956</xmax>
+			<ymin>433</ymin>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737447994</timestamp>
+	</update_record>
+	<last_update_ts>1737447994</last_update_ts>
+</Annotation>

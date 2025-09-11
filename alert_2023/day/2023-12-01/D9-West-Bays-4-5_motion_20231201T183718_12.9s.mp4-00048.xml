@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>D9-West-Bays-4-5_motion_20231201T183718_12.9s.mp4-00048.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>318</xmin>
+			<xmax>448</xmax>
+			<ymin>121</ymin>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>680</xmin>
+			<xmax>851</xmax>
+			<ymin>131</ymin>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737363026</timestamp>
+	</update_record>
+	<last_update_ts>1737363026</last_update_ts>
+</Annotation>

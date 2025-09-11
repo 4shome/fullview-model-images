@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>ONVIF_motion_20230307T135048_11.2s.mp4-00086.jpeg</filename>
+	<size>
+		<width>1841</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>836</xmin>
+			<xmax>921</xmax>
+			<ymin>46</ymin>
+			<ymax>299</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735010021</timestamp>
+	</update_record>
+	<last_update_ts>1735010021</last_update_ts>
+</Annotation>
