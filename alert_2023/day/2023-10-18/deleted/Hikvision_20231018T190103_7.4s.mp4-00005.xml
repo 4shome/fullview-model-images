@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Hikvision_20231018T190103_7.4s.mp4-00005.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1238</xmin>
+			<xmax>1730</xmax>
+			<ymin>189</ymin>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>668</xmin>
+			<xmax>1082</xmax>
+			<ymin>46</ymin>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1719226441</timestamp>
+	</update_record>
+	<last_update_ts>1719226441</last_update_ts>
+</Annotation>

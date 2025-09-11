@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>TERRASSE_motion_20230403T115338_1m1.2s.mp4-00715.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1355</xmin>
+			<xmax>1720</xmax>
+			<ymin>466</ymin>
+			<ymax>1033</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735025674</timestamp>
+	</update_record>
+	<last_update_ts>1735025674</last_update_ts>
+</Annotation>

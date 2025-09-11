@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>ENTREE_motion_20230330T173357_49.7s.mp4-00096.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>927</xmin>
+			<xmax>1313</xmax>
+			<ymin>225</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735023615</timestamp>
+	</update_record>
+	<last_update_ts>1735023615</last_update_ts>
+</Annotation>

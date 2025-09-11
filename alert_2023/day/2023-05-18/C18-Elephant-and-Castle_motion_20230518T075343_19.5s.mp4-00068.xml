@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>C18-Elephant-and-Castle_motion_20230518T075343_19.5s.mp4-00068.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>578</xmin>
+			<xmax>739</xmax>
+			<ymin>181</ymin>
+			<ymax>561</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1736329751</timestamp>
+	</update_record>
+	<last_update_ts>1736329751</last_update_ts>
+</Annotation>

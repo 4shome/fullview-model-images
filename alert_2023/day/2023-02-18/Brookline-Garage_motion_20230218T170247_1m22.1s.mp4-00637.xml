@@ -1,0 +1,35 @@
+<Annotation>
+	<filename>Brookline-Garage_motion_20230218T170247_1m22.1s.mp4-00637.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>997</xmin>
+			<xmax>1127</xmax>
+			<ymin>433</ymin>
+			<ymax>756</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1121</xmin>
+			<xmax>1251</xmax>
+			<ymin>310</ymin>
+			<ymax>466</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1733131817</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1750239260</timestamp>
+	</update_record>
+	<last_update_ts>1750239260</last_update_ts>
+</Annotation>

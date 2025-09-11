@@ -1,0 +1,35 @@
+<Annotation>
+	<filename>OutFrontWest_motion_20230518T043421_27s.mp4-00194.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>226</xmin>
+			<xmax>567</xmax>
+			<ymin>210</ymin>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>297</xmin>
+			<xmax>369</xmax>
+			<ymin>167</ymin>
+			<ymax>237</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1736329963</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1750240524</timestamp>
+	</update_record>
+	<last_update_ts>1750240524</last_update_ts>
+</Annotation>

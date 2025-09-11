@@ -1,0 +1,26 @@
+<Annotation>
+	<filename>172.16.60.11-live_motion_20231221T015717_2m5.9s.mp4-00567.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>629</xmin>
+			<xmax>1654</xmax>
+			<ymin>124</ymin>
+			<ymax>732</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735122423</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1750819038</timestamp>
+	</update_record>
+	<last_update_ts>1750819038</last_update_ts>
+</Annotation>

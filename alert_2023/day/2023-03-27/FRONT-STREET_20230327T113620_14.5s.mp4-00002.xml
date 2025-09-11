@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>FRONT-STREET_20230327T113620_14.5s.mp4-00002.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>767</xmin>
+			<xmax>1061</xmax>
+			<ymin>151</ymin>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735022791</timestamp>
+	</update_record>
+	<last_update_ts>1735022791</last_update_ts>
+</Annotation>

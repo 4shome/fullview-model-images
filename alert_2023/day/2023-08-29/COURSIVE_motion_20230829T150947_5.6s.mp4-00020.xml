@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>COURSIVE_motion_20230829T150947_5.6s.mp4-00020.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1507</xmin>
+			<xmax>1812</xmax>
+			<ymin>445</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744601572</timestamp>
+	</update_record>
+	<last_update_ts>1744601572</last_update_ts>
+</Annotation>

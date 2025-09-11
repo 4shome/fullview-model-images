@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Kitchen_motion_20230114T113842_4m23.3s.mp4-02548.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1115</xmin>
+			<xmax>1300</xmax>
+			<ymin>564</ymin>
+			<ymax>990</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1298</xmin>
+			<xmax>1461</xmax>
+			<ymin>881</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730453902</timestamp>
+	</update_record>
+	<last_update_ts>1730453902</last_update_ts>
+</Annotation>

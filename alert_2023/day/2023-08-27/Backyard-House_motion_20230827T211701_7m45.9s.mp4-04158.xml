@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Backyard-House_motion_20230827T211701_7m45.9s.mp4-04158.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1511</xmin>
+			<xmax>1623</xmax>
+			<ymin>332</ymin>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1289</xmin>
+			<xmax>1377</xmax>
+			<ymin>223</ymin>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1743417646</timestamp>
+	</update_record>
+	<last_update_ts>1743417646</last_update_ts>
+</Annotation>

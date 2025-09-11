@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>72.234.89.248-realmonitor_motion_20231228T085320_25.1s.mp4-00050.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1293</xmin>
+			<xmax>1557</xmax>
+			<ymin>245</ymin>
+			<ymax>475</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>975</xmin>
+			<xmax>1060</xmax>
+			<ymin>266</ymin>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735096781</timestamp>
+	</update_record>
+	<last_update_ts>1735096781</last_update_ts>
+</Annotation>
