@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Driveway---Left_motion_20230622T040343_1m3.8s.mp4-00053.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>775</xmin>
+			<xmax>1672</xmax>
+			<ymin>110</ymin>
+			<ymax>999</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>341</xmin>
+			<xmax>1093</xmax>
+			<ymin>210</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737368396</timestamp>
+	</update_record>
+	<last_update_ts>1737368396</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>EQ-International-Sand-Entrance_motion_20230912T021523_1m35.1s.mp4-00523.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tractor</name>
+		<bndbox>
+			<xmin>540</xmin>
+			<xmax>1379</xmax>
+			<ymin>183</ymin>
+			<ymax>995</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744618900</timestamp>
+	</update_record>
+	<last_update_ts>1744618900</last_update_ts>
+</Annotation>

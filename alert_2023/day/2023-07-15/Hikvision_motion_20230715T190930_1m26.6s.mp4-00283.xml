@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Hikvision_motion_20230715T190930_1m26.6s.mp4-00283.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>219</xmin>
+			<xmax>536</xmax>
+			<ymin>185</ymin>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742894971</timestamp>
+	</update_record>
+	<last_update_ts>1742894971</last_update_ts>
+</Annotation>

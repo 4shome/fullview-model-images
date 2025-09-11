@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>BackYardE_motion_20231010T073335_15m36.5s.mp4-00576.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1341</xmin>
+			<xmax>1418</xmax>
+			<ymin>131</ymin>
+			<ymax>286</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1745226489</timestamp>
+	</update_record>
+	<last_update_ts>1745226489</last_update_ts>
+</Annotation>

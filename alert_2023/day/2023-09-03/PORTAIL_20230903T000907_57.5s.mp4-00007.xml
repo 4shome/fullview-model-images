@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>PORTAIL_20230903T000907_57.5s.mp4-00007.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>582</xmin>
+			<xmax>1299</xmax>
+			<ymin>339</ymin>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1044</xmin>
+			<xmax>1249</xmax>
+			<ymin>401</ymin>
+			<ymax>857</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744615771</timestamp>
+	</update_record>
+	<last_update_ts>1744615771</last_update_ts>
+</Annotation>

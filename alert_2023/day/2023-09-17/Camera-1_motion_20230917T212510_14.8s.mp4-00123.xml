@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Camera-1_motion_20230917T212510_14.8s.mp4-00123.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1337</xmin>
+			<xmax>1920</xmax>
+			<ymin>282</ymin>
+			<ymax>721</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744962068</timestamp>
+	</update_record>
+	<last_update_ts>1744962068</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Gate-Front-Fence-to-Office_motion_20230927T025257_49.7s.mp4-00208.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>8</xmin>
+			<xmax>464</xmax>
+			<ymin>559</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>480</xmin>
+			<xmax>880</xmax>
+			<ymin>130</ymin>
+			<ymax>516</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1745219367</timestamp>
+	</update_record>
+	<last_update_ts>1745219367</last_update_ts>
+</Annotation>

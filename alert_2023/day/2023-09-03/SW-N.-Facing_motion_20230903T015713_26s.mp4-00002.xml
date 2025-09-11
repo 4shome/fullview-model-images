@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>SW-N.-Facing_motion_20230903T015713_26s.mp4-00002.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>128</xmin>
+			<xmax>385</xmax>
+			<ymin>237</ymin>
+			<ymax>321</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>421</xmin>
+			<xmax>514</xmax>
+			<ymin>201</ymin>
+			<ymax>230</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744615837</timestamp>
+	</update_record>
+	<last_update_ts>1744615837</last_update_ts>
+</Annotation>

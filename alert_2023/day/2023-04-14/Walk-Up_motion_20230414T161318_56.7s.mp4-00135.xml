@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Walk-Up_motion_20230414T161318_56.7s.mp4-00135.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>256</xmin>
+			<xmax>584</xmax>
+			<ymin>12</ymin>
+			<ymax>907</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735037209</timestamp>
+	</update_record>
+	<last_update_ts>1735037209</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>PORTAIL_20230903T000907_57.5s.mp4-00001.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>582</xmin>
+			<xmax>1295</xmax>
+			<ymin>339</ymin>
+			<ymax>650</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744615708</timestamp>
+	</update_record>
+	<last_update_ts>1744615708</last_update_ts>
+</Annotation>
