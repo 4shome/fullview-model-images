@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Wanni-Rorlig_motion_20220416T042927_11.1s.mp4-00116.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>574</xmin>
+			<xmax>713</xmax>
+			<ymin>613</ymin>
+			<ymax>970</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730271767</timestamp>
+	</update_record>
+	<last_update_ts>1730271767</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Driveway-Camera_motion_20220105T094527_7s.mp4-00037.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1152</xmin>
+			<xmax>1695</xmax>
+			<ymin>788</ymin>
+			<ymax>1052</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1284</xmin>
+			<xmax>1552</xmax>
+			<ymin>484</ymin>
+			<ymax>800</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730105378</timestamp>
+	</update_record>
+	<last_update_ts>1730105378</last_update_ts>
+</Annotation>

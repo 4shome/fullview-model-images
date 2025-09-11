@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Out-Front-Center_motion_20220415T124943_42.3s.mp4-00080.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1485</xmin>
+			<xmax>1598</xmax>
+			<ymin>176</ymin>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730272342</timestamp>
+	</update_record>
+	<last_update_ts>1730272342</last_update_ts>
+</Annotation>

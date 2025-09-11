@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Side-of-House-Septic_motion_20220116T161442_1m10.8s.mp4-01365.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>856</xmin>
+			<xmax>928</xmax>
+			<ymin>616</ymin>
+			<ymax>695</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>958</xmin>
+			<xmax>1018</xmax>
+			<ymin>573</ymin>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730106899</timestamp>
+	</update_record>
+	<last_update_ts>1730106899</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front_motion_20220427T191849_1m19.8s.mp4-01548.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>919</xmin>
+			<xmax>1223</xmax>
+			<ymin>263</ymin>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>168</xmin>
+			<xmax>301</xmax>
+			<ymin>213</ymin>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730110676</timestamp>
+	</update_record>
+	<last_update_ts>1730110676</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Camera2_motion_20220422T091104_26.4s.mp4-00160.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1253</xmin>
+			<xmax>1315</xmax>
+			<ymin>539</ymin>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1357</xmin>
+			<xmax>1420</xmax>
+			<ymin>554</ymin>
+			<ymax>706</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730195123</timestamp>
+	</update_record>
+	<last_update_ts>1730195123</last_update_ts>
+</Annotation>

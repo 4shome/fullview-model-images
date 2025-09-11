@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Kid-Room_motion_20220317T010205_22.6s.mp4-00012.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>544</xmin>
+			<xmax>857</xmax>
+			<ymin>271</ymin>
+			<ymax>714</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730271186</timestamp>
+	</update_record>
+	<last_update_ts>1730271186</last_update_ts>
+</Annotation>

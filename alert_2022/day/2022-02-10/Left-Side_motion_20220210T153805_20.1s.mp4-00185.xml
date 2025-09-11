@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Left-Side_motion_20220210T153805_20.1s.mp4-00185.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>900</xmin>
+			<xmax>1046</xmax>
+			<ymin>134</ymin>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730195721</timestamp>
+	</update_record>
+	<last_update_ts>1730195721</last_update_ts>
+</Annotation>

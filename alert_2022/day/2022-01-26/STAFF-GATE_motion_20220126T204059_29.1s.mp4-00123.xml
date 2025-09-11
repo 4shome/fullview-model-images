@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>STAFF-GATE_motion_20220126T204059_29.1s.mp4-00123.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1599</xmin>
+			<xmax>1760</xmax>
+			<ymin>356</ymin>
+			<ymax>705</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730187598</timestamp>
+	</update_record>
+	<last_update_ts>1730187598</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Factory-Front_20220105T164635_4m38.8s.mkv-00079.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>696</xmin>
+			<xmax>1048</xmax>
+			<ymin>423</ymin>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1118</xmin>
+			<xmax>1158</xmax>
+			<ymin>295</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730105522</timestamp>
+	</update_record>
+	<last_update_ts>1730105522</last_update_ts>
+</Annotation>
