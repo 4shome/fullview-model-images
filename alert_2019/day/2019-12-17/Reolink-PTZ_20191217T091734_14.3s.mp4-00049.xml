@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Reolink-PTZ_20191217T091734_14.3s.mp4-00049.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1293</xmin>
+			<xmax>1482</xmax>
+			<ymin>463</ymin>
+			<ymax>913</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1749017688</timestamp>
+	</update_record>
+	<last_update_ts>1749017688</last_update_ts>
+</Annotation>
