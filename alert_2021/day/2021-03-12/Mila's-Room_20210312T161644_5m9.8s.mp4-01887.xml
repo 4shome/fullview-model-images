@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Mila&#39;s-Room_20210312T161644_5m9.8s.mp4-01887.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>920</xmin>
+			<xmax>1301</xmax>
+			<ymin>511</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1184</xmin>
+			<xmax>1462</xmax>
+			<ymin>683</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727257844</timestamp>
+	</update_record>
+	<last_update_ts>1727257844</last_update_ts>
+</Annotation>

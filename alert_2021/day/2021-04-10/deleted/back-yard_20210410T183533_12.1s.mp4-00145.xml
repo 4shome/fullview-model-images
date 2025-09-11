@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>back-yard_20210410T183533_12.1s.mp4-00145.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>885</xmin>
+			<xmax>1370</xmax>
+			<ymin>217</ymin>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1123</xmin>
+			<xmax>1476</xmax>
+			<ymin>180</ymin>
+			<ymax>365</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727172314</timestamp>
+	</update_record>
+	<last_update_ts>1727172314</last_update_ts>
+</Annotation>

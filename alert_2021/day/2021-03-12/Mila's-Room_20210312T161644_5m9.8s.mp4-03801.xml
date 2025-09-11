@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Mila&#39;s-Room_20210312T161644_5m9.8s.mp4-03801.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1613</xmin>
+			<xmax>1771</xmax>
+			<ymin>156</ymin>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727257864</timestamp>
+	</update_record>
+	<last_update_ts>1727257864</last_update_ts>
+</Annotation>
