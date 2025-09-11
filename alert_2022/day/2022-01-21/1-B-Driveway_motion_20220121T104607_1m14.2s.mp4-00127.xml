@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>1-B-Driveway_motion_20220121T104607_1m14.2s.mp4-00127.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>469</xmin>
+			<xmax>979</xmax>
+			<ymin>398</ymin>
+			<ymax>1072</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>garbage truck</name>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>860</xmax>
+			<ymin>0</ymin>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730108851</timestamp>
+	</update_record>
+	<last_update_ts>1730108851</last_update_ts>
+</Annotation>

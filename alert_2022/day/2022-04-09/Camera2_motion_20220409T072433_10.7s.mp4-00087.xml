@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Camera2_motion_20220409T072433_10.7s.mp4-00087.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1751</xmin>
+			<xmax>1808</xmax>
+			<ymin>681</ymin>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730276589</timestamp>
+	</update_record>
+	<last_update_ts>1730276589</last_update_ts>
+</Annotation>

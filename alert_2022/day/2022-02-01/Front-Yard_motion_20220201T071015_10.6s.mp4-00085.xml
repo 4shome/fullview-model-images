@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Yard_motion_20220201T071015_10.6s.mp4-00085.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>school bus</name>
+		<bndbox>
+			<xmin>1238</xmin>
+			<xmax>1733</xmax>
+			<ymin>267</ymin>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730187838</timestamp>
+	</update_record>
+	<last_update_ts>1730187838</last_update_ts>
+</Annotation>

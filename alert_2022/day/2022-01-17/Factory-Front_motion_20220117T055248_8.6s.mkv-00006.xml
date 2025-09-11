@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Factory-Front_motion_20220117T055248_8.6s.mkv-00006.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>547</xmin>
+			<xmax>928</xmax>
+			<ymin>470</ymin>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1367</xmin>
+			<xmax>1440</xmax>
+			<ymin>392</ymin>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730108239</timestamp>
+	</update_record>
+	<last_update_ts>1730108239</last_update_ts>
+</Annotation>

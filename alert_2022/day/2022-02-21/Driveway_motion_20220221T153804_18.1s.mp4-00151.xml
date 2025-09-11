@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Driveway_motion_20220221T153804_18.1s.mp4-00151.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1072</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1107</xmin>
+			<xmax>1883</xmax>
+			<ymin>414</ymin>
+			<ymax>1072</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>576</xmin>
+			<xmax>928</xmax>
+			<ymin>40</ymin>
+			<ymax>244</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730197575</timestamp>
+	</update_record>
+	<last_update_ts>1730197575</last_update_ts>
+</Annotation>

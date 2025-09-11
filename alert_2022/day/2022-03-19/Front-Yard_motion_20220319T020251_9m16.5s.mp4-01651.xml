@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Yard_motion_20220319T020251_9m16.5s.mp4-01651.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>244</xmin>
+			<xmax>1048</xmax>
+			<ymin>608</ymin>
+			<ymax>963</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730271335</timestamp>
+	</update_record>
+	<last_update_ts>1730271335</last_update_ts>
+</Annotation>

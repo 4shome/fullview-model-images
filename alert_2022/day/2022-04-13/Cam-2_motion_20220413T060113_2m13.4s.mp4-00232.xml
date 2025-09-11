@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Cam-2_motion_20220413T060113_2m13.4s.mp4-00232.jpeg</filename>
+	<size>
+		<width>1620</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>80</xmin>
+			<xmax>209</xmax>
+			<ymin>351</ymin>
+			<ymax>474</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>162</xmin>
+			<xmax>258</xmax>
+			<ymin>291</ymin>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730274036</timestamp>
+	</update_record>
+	<last_update_ts>1730274036</last_update_ts>
+</Annotation>

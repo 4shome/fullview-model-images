@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Dome_motion_20220108T214659_11.2s.mp4-00083.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>855</xmin>
+			<xmax>1546</xmax>
+			<ymin>162</ymin>
+			<ymax>805</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>901</xmin>
+			<xmax>1313</xmax>
+			<ymin>68</ymin>
+			<ymax>218</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730105971</timestamp>
+	</update_record>
+	<last_update_ts>1730105971</last_update_ts>
+</Annotation>

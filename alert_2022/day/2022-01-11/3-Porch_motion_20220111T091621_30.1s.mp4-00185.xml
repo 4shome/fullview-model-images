@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>3-Porch_motion_20220111T091621_30.1s.mp4-00185.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>333</xmin>
+			<xmax>428</xmax>
+			<ymin>479</ymin>
+			<ymax>668</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>614</xmin>
+			<xmax>717</xmax>
+			<ymin>474</ymin>
+			<ymax>559</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730106298</timestamp>
+	</update_record>
+	<last_update_ts>1730106298</last_update_ts>
+</Annotation>

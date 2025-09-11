@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Yard_motion_20220330T124356_25.2s.mp4-00448.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1385</xmin>
+			<xmax>1735</xmax>
+			<ymin>124</ymin>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730274215</timestamp>
+	</update_record>
+	<last_update_ts>1730274215</last_update_ts>
+</Annotation>

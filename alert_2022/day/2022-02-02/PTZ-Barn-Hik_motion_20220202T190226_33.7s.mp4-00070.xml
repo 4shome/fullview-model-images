@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>PTZ-Barn-Hik_motion_20220202T190226_33.7s.mp4-00070.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1072</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>763</xmax>
+			<ymin>388</ymin>
+			<ymax>1072</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1161</xmin>
+			<xmax>1672</xmax>
+			<ymin>387</ymin>
+			<ymax>888</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730187896</timestamp>
+	</update_record>
+	<last_update_ts>1730187896</last_update_ts>
+</Annotation>

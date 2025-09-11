@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Baby-Cam_20220115T081404_20220115T091250.mp4-00045.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>483</xmin>
+			<xmax>1004</xmax>
+			<ymin>564</ymin>
+			<ymax>842</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>300</xmax>
+			<ymin>482</ymin>
+			<ymax>1022</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730106495</timestamp>
+	</update_record>
+	<last_update_ts>1730106495</last_update_ts>
+</Annotation>

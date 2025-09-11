@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>52-Drive_motion_20220117T052245_1m42.2s.mp4-00106.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>996</xmax>
+			<ymin>223</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730107022</timestamp>
+	</update_record>
+	<last_update_ts>1730107022</last_update_ts>
+</Annotation>

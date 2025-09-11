@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>PTZ-Barn-Hik_20220331T200805_17.7s.mp4-00007.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1072</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1231</xmin>
+			<xmax>1753</xmax>
+			<ymin>387</ymin>
+			<ymax>894</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>277</xmin>
+			<xmax>823</xmax>
+			<ymin>387</ymin>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730274304</timestamp>
+	</update_record>
+	<last_update_ts>1730274304</last_update_ts>
+</Annotation>
