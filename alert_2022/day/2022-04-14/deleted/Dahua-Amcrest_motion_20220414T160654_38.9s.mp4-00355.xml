@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Dahua-Amcrest_motion_20220414T160654_38.9s.mp4-00355.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1114</xmin>
+			<xmax>1182</xmax>
+			<ymin>547</ymin>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730273006</timestamp>
+	</update_record>
+	<last_update_ts>1730273006</last_update_ts>
+</Annotation>

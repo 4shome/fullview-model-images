@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Driveway-Camera_motion_20220123T141732_53.8s.mp4-01530.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1367</xmin>
+			<xmax>1626</xmax>
+			<ymin>525</ymin>
+			<ymax>853</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730183380</timestamp>
+	</update_record>
+	<last_update_ts>1730183380</last_update_ts>
+</Annotation>

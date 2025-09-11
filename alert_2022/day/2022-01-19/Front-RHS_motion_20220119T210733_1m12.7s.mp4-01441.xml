@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-RHS_motion_20220119T210733_1m12.7s.mp4-01441.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>409</xmin>
+			<xmax>1445</xmax>
+			<ymin>146</ymin>
+			<ymax>840</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1268</xmin>
+			<xmax>1780</xmax>
+			<ymin>102</ymin>
+			<ymax>317</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730108580</timestamp>
+	</update_record>
+	<last_update_ts>1730108580</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Garden-2_motion_20220326T021806_33s.mp4-00019.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>18</xmin>
+			<xmax>359</xmax>
+			<ymin>640</ymin>
+			<ymax>1040</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730272874</timestamp>
+	</update_record>
+	<last_update_ts>1730272874</last_update_ts>
+</Annotation>

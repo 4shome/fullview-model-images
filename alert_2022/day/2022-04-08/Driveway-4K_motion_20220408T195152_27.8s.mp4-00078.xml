@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Driveway-4K_motion_20220408T195152_27.8s.mp4-00078.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1181</xmin>
+			<xmax>1264</xmax>
+			<ymin>137</ymin>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730276373</timestamp>
+	</update_record>
+	<last_update_ts>1730276373</last_update_ts>
+</Annotation>

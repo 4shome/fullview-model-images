@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Walkway-(HD)_motion_20220306T062549_24.5s.mp4-00041.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>952</xmin>
+			<xmax>1054</xmax>
+			<ymin>97</ymin>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730268041</timestamp>
+	</update_record>
+	<last_update_ts>1730268041</last_update_ts>
+</Annotation>

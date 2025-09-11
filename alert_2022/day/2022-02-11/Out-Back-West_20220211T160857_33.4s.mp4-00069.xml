@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Out-Back-West_20220211T160857_33.4s.mp4-00069.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>373</xmin>
+			<xmax>544</xmax>
+			<ymin>165</ymin>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730195993</timestamp>
+	</update_record>
+	<last_update_ts>1730195993</last_update_ts>
+</Annotation>

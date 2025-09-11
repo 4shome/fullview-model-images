@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Garden_motion_20220326T021828_21.4s.mp4-00203.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>63</xmin>
+			<xmax>384</xmax>
+			<ymin>659</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>763</xmin>
+			<xmax>944</xmax>
+			<ymin>335</ymin>
+			<ymax>810</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730273359</timestamp>
+	</update_record>
+	<last_update_ts>1730273359</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>RSU-3-Camera-2_motion_20220414T195134_24.9s.mp4-00189.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1501</xmin>
+			<xmax>1569</xmax>
+			<ymin>299</ymin>
+			<ymax>426</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730273429</timestamp>
+	</update_record>
+	<last_update_ts>1730273429</last_update_ts>
+</Annotation>

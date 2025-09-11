@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Factory-Front-4MP-Motion-Blur-Night_motion_20220123T160554_1m56.8s.mkv-00181.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1065</xmin>
+			<xmax>1274</xmax>
+			<ymin>363</ymin>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1269</xmin>
+			<xmax>1317</xmax>
+			<ymin>387</ymin>
+			<ymax>508</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730183498</timestamp>
+	</update_record>
+	<last_update_ts>1730183498</last_update_ts>
+</Annotation>

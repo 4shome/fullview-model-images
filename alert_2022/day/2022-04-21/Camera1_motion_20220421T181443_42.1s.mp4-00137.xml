@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Camera1_motion_20220421T181443_42.1s.mp4-00137.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>885</xmin>
+			<xmax>1324</xmax>
+			<ymin>750</ymin>
+			<ymax>971</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>821</xmin>
+			<xmax>1015</xmax>
+			<ymin>496</ymin>
+			<ymax>585</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730280646</timestamp>
+	</update_record>
+	<last_update_ts>1730280646</last_update_ts>
+</Annotation>
