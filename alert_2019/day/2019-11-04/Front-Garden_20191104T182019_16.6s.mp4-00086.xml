@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Garden_20191104T182019_16.6s.mp4-00086.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>447</xmin>
+			<xmax>1007</xmax>
+			<ymin>164</ymin>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1716890037</timestamp>
+	</update_record>
+	<last_update_ts>1716890037</last_update_ts>
+</Annotation>
