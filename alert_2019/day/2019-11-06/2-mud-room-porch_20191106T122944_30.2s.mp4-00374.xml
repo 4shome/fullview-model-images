@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>2-mud-room-porch_20191106T122944_30.2s.mp4-00374.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>522</xmin>
+			<xmax>760</xmax>
+			<ymin>20</ymin>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>159</xmin>
+			<xmax>254</xmax>
+			<ymin>454</ymin>
+			<ymax>553</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1716892414</timestamp>
+	</update_record>
+	<last_update_ts>1716892414</last_update_ts>
+</Annotation>
