@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Trail-(East)_motion_20220424T183740_38.2s.mp4-00202.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1021</xmin>
+			<xmax>1092</xmax>
+			<ymin>107</ymin>
+			<ymax>247</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730188380</timestamp>
+	</update_record>
+	<last_update_ts>1730188380</last_update_ts>
+</Annotation>

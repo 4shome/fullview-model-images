@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Camera2_motion_20220418T115142_1m1.7s.mp4-00078.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1325</xmin>
+			<xmax>1412</xmax>
+			<ymin>872</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1227</xmin>
+			<xmax>1471</xmax>
+			<ymin>458</ymin>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730198102</timestamp>
+	</update_record>
+	<last_update_ts>1730198102</last_update_ts>
+</Annotation>

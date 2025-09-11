@@ -1,0 +1,35 @@
+<Annotation>
+	<filename>Pool_motion_20220303T085927_1m18.7s.mp4-00387.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1350</xmin>
+			<xmax>1412</xmax>
+			<ymin>293</ymin>
+			<ymax>449</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1253</xmin>
+			<xmax>1300</xmax>
+			<ymin>361</ymin>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730255686</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1749808429</timestamp>
+	</update_record>
+	<last_update_ts>1749808429</last_update_ts>
+</Annotation>

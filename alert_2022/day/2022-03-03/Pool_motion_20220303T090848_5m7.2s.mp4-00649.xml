@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Pool_motion_20220303T090848_5m7.2s.mp4-00649.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1343</xmin>
+			<xmax>1406</xmax>
+			<ymin>293</ymin>
+			<ymax>439</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730255746</timestamp>
+	</update_record>
+	<last_update_ts>1730255746</last_update_ts>
+</Annotation>

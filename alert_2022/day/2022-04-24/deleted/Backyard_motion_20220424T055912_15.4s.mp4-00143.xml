@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Backyard_motion_20220424T055912_15.4s.mp4-00143.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tractor</name>
+		<bndbox>
+			<xmin>639</xmin>
+			<xmax>875</xmax>
+			<ymin>60</ymin>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730187585</timestamp>
+	</update_record>
+	<last_update_ts>1730187585</last_update_ts>
+</Annotation>

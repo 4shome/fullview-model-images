@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Road_motion_20220424T074008_1m3.4s.mp4-00938.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1517</xmin>
+			<xmax>1674</xmax>
+			<ymin>490</ymin>
+			<ymax>898</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730188453</timestamp>
+	</update_record>
+	<last_update_ts>1730188453</last_update_ts>
+</Annotation>

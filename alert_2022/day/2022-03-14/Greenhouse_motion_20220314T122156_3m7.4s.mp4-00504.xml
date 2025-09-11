@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Greenhouse_motion_20220314T122156_3m7.4s.mp4-00504.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>926</xmin>
+			<xmax>1649</xmax>
+			<ymin>290</ymin>
+			<ymax>960</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730268978</timestamp>
+	</update_record>
+	<last_update_ts>1730268978</last_update_ts>
+</Annotation>

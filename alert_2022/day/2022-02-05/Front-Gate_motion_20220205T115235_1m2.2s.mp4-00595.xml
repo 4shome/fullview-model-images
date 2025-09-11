@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Gate_motion_20220205T115235_1m2.2s.mp4-00595.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1547</xmin>
+			<xmax>1631</xmax>
+			<ymin>257</ymin>
+			<ymax>478</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730188164</timestamp>
+	</update_record>
+	<last_update_ts>1730188164</last_update_ts>
+</Annotation>

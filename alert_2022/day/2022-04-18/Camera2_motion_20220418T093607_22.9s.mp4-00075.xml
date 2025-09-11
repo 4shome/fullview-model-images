@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Camera2_motion_20220418T093607_22.9s.mp4-00075.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>motorcycle</name>
+		<bndbox>
+			<xmin>1440</xmin>
+			<xmax>1568</xmax>
+			<ymin>579</ymin>
+			<ymax>700</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1481</xmin>
+			<xmax>1531</xmax>
+			<ymin>558</ymin>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730197964</timestamp>
+	</update_record>
+	<last_update_ts>1730197964</last_update_ts>
+</Annotation>
