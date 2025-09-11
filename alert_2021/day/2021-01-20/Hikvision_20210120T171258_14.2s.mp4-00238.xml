@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Hikvision_20210120T171258_14.2s.mp4-00238.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>448</xmin>
+			<xmax>503</xmax>
+			<ymin>65</ymin>
+			<ymax>248</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727166167</timestamp>
+	</update_record>
+	<last_update_ts>1727166167</last_update_ts>
+</Annotation>

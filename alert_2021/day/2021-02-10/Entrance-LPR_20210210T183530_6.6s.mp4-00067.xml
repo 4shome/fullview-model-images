@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Entrance-LPR_20210210T183530_6.6s.mp4-00067.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>156</xmin>
+			<xmax>801</xmax>
+			<ymin>205</ymin>
+			<ymax>698</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727172897</timestamp>
+	</update_record>
+	<last_update_ts>1727172897</last_update_ts>
+</Annotation>

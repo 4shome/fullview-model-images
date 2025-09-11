@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Rear-Left_20210211T014709_1m59.9s.mp4-00009.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1294</xmin>
+			<xmax>1920</xmax>
+			<ymin>537</ymin>
+			<ymax>1008</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>851</xmin>
+			<xmax>1126</xmax>
+			<ymin>268</ymin>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727251989</timestamp>
+	</update_record>
+	<last_update_ts>1727251989</last_update_ts>
+</Annotation>

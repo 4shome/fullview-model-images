@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Tiandy-PTZ_20210116T095159_32.3s.mp4-01028.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1465</xmin>
+			<xmax>1892</xmax>
+			<ymin>0</ymin>
+			<ymax>232</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727165745</timestamp>
+	</update_record>
+	<last_update_ts>1727165745</last_update_ts>
+</Annotation>

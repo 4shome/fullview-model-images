@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Door_20210223T123643_43.2s.mp4-00999.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>596</xmin>
+			<xmax>849</xmax>
+			<ymin>175</ymin>
+			<ymax>689</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>838</xmin>
+			<xmax>1051</xmax>
+			<ymin>261</ymin>
+			<ymax>630</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727254647</timestamp>
+	</update_record>
+	<last_update_ts>1727254647</last_update_ts>
+</Annotation>

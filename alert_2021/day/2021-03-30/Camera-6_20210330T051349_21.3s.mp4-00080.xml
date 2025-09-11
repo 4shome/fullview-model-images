@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Camera-6_20210330T051349_21.3s.mp4-00080.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1203</xmin>
+			<xmax>1282</xmax>
+			<ymin>243</ymin>
+			<ymax>430</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1729740823</timestamp>
+	</update_record>
+	<last_update_ts>1729740823</last_update_ts>
+</Annotation>

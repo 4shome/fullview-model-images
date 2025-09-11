@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Gate_20210325T192020_40.6s.mp4-00077.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>737</xmin>
+			<xmax>1192</xmax>
+			<ymin>313</ymin>
+			<ymax>586</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1028</xmin>
+			<xmax>1336</xmax>
+			<ymin>302</ymin>
+			<ymax>431</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1729736956</timestamp>
+	</update_record>
+	<last_update_ts>1729736956</last_update_ts>
+</Annotation>

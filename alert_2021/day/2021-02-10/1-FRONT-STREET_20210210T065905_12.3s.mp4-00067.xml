@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>1-FRONT-STREET_20210210T065905_12.3s.mp4-00067.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>school bus</name>
+		<bndbox>
+			<xmin>1104</xmin>
+			<xmax>1341</xmax>
+			<ymin>306</ymin>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727172352</timestamp>
+	</update_record>
+	<last_update_ts>1727172352</last_update_ts>
+</Annotation>

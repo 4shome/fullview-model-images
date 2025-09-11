@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Door_20210402T215312_25.8s.mp4-00267.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>770</xmin>
+			<xmax>1342</xmax>
+			<ymin>109</ymin>
+			<ymax>437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1497</xmin>
+			<xmax>1640</xmax>
+			<ymin>140</ymin>
+			<ymax>457</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730103987</timestamp>
+	</update_record>
+	<last_update_ts>1730103987</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Rover-2_20210330T134804_5m35.6s.mp4-03089.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1159</xmin>
+			<xmax>1338</xmax>
+			<ymin>443</ymin>
+			<ymax>860</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1729741062</timestamp>
+	</update_record>
+	<last_update_ts>1729741062</last_update_ts>
+</Annotation>

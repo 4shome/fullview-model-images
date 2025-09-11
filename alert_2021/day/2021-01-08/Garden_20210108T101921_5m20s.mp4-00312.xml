@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Garden_20210108T101921_5m20s.mp4-00312.jpeg</filename>
+	<size>
+		<width>1620</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>68</xmin>
+			<xmax>274</xmax>
+			<ymin>50</ymin>
+			<ymax>202</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727163482</timestamp>
+	</update_record>
+	<last_update_ts>1727163482</last_update_ts>
+</Annotation>
