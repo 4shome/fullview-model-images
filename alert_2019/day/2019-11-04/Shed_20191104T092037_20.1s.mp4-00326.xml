@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Shed_20191104T092037_20.1s.mp4-00326.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1019</xmin>
+			<xmax>1206</xmax>
+			<ymin>356</ymin>
+			<ymax>766</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1716890205</timestamp>
+	</update_record>
+	<last_update_ts>1716890205</last_update_ts>
+</Annotation>
