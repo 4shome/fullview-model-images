@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Reolink-camera_20200210T102020_32.8s.mp4-00240.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>327</xmin>
+			<xmax>573</xmax>
+			<ymin>175</ymin>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>473</xmin>
+			<xmax>711</xmax>
+			<ymin>780</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724209249</timestamp>
+	</update_record>
+	<last_update_ts>1724209249</last_update_ts>
+</Annotation>

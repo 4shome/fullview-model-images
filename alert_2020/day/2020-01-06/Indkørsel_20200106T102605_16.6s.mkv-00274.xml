@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Indkørsel_20200106T102605_16.6s.mkv-00274.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>698</xmin>
+			<xmax>928</xmax>
+			<ymin>106</ymin>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724144398</timestamp>
+	</update_record>
+	<last_update_ts>1724144398</last_update_ts>
+</Annotation>

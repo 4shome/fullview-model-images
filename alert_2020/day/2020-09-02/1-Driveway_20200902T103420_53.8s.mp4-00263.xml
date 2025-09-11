@@ -1,0 +1,40 @@
+<Annotation>
+	<filename>1-Driveway_20200902T103420_53.8s.mp4-00263.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>garbage truck</name>
+		<bndbox>
+			<xmin>167</xmin>
+			<xmax>1307</xmax>
+			<ymin>0</ymin>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>189</xmin>
+			<xmax>914</xmax>
+			<ymin>463</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>39</xmin>
+			<xmax>406</xmax>
+			<ymin>370</ymin>
+			<ymax>573</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722242844</timestamp>
+	</update_record>
+	<last_update_ts>1722242844</last_update_ts>
+</Annotation>

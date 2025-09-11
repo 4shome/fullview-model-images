@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Trail-(East)_20200824T150915_40.7s.mp4-00284.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>901</xmin>
+			<xmax>958</xmax>
+			<ymin>111</ymin>
+			<ymax>256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>740</xmin>
+			<xmax>794</xmax>
+			<ymin>123</ymin>
+			<ymax>266</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722416132</timestamp>
+	</update_record>
+	<last_update_ts>1722416132</last_update_ts>
+</Annotation>

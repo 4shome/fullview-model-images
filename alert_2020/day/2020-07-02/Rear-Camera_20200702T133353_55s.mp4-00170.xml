@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Rear-Camera_20200702T133353_55s.mp4-00170.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>475</xmin>
+			<xmax>564</xmax>
+			<ymin>291</ymin>
+			<ymax>488</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725260309</timestamp>
+	</update_record>
+	<last_update_ts>1725260309</last_update_ts>
+</Annotation>

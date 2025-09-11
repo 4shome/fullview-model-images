@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>AMC027FB_232214_20200815T191335_26.9s.mp4-00595.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1434</xmin>
+			<xmax>1890</xmax>
+			<ymin>577</ymin>
+			<ymax>997</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722589313</timestamp>
+	</update_record>
+	<last_update_ts>1722589313</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Doorbell_20200815T103030_14s.mp4-00076.jpeg</filename>
+	<size>
+		<width>810</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>680</xmin>
+			<xmax>742</xmax>
+			<ymin>534</ymin>
+			<ymax>563</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722589349</timestamp>
+	</update_record>
+	<last_update_ts>1722589349</last_update_ts>
+</Annotation>

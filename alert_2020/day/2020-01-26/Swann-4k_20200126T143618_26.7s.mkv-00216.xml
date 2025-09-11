@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Swann-4k_20200126T143618_26.7s.mkv-00216.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>899</xmin>
+			<xmax>1064</xmax>
+			<ymin>390</ymin>
+			<ymax>749</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1721635335</timestamp>
+	</update_record>
+	<last_update_ts>1721635335</last_update_ts>
+</Annotation>

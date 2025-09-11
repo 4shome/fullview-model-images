@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>07-Lower-Driveway_20200708T050332_30.9s.mp4-00046.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>265</xmin>
+			<xmax>647</xmax>
+			<ymin>190</ymin>
+			<ymax>564</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>730</xmin>
+			<xmax>1103</xmax>
+			<ymin>280</ymin>
+			<ymax>631</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725266645</timestamp>
+	</update_record>
+	<last_update_ts>1725266645</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>9.-Living-room_20200211T140459_1m5.6s.mp4-00091.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>383</xmin>
+			<xmax>515</xmax>
+			<ymin>96</ymin>
+			<ymax>404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>166</xmin>
+			<xmax>286</xmax>
+			<ymin>72</ymin>
+			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725010869</timestamp>
+	</update_record>
+	<last_update_ts>1725010869</last_update_ts>
+</Annotation>

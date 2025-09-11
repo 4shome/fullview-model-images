@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Hikvision_20201016T125659_9.1s.mkv-00061.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1260</xmin>
+			<xmax>1909</xmax>
+			<ymin>313</ymin>
+			<ymax>724</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1721643279</timestamp>
+	</update_record>
+	<last_update_ts>1721643279</last_update_ts>
+</Annotation>

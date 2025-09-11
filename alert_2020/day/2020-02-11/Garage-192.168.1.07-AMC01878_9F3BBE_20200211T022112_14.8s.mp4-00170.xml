@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Garage-192.168.1.07-AMC01878_9F3BBE_20200211T022112_14.8s.mp4-00170.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>491</xmin>
+			<xmax>1531</xmax>
+			<ymin>165</ymin>
+			<ymax>779</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724209701</timestamp>
+	</update_record>
+	<last_update_ts>1724209701</last_update_ts>
+</Annotation>

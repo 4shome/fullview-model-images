@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>03-Front-Walk-West_20200727T105044_1m15.8s.mp4-00219.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>672</xmin>
+			<xmax>972</xmax>
+			<ymin>145</ymin>
+			<ymax>287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>946</xmin>
+			<xmax>1105</xmax>
+			<ymin>116</ymin>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725872017</timestamp>
+	</update_record>
+	<last_update_ts>1725872017</last_update_ts>
+</Annotation>

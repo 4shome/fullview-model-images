@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>AMC0346C_E084C1_20200307T181210_13.8s.mp4-00214.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1460</xmin>
+			<xmax>1541</xmax>
+			<ymin>47</ymin>
+			<ymax>181</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724222229</timestamp>
+	</update_record>
+	<last_update_ts>1724222229</last_update_ts>
+</Annotation>

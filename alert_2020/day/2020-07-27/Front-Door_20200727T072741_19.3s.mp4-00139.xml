@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Door_20200727T072741_19.3s.mp4-00139.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>368</xmin>
+			<xmax>534</xmax>
+			<ymin>589</ymin>
+			<ymax>772</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>927</xmin>
+			<xmax>1115</xmax>
+			<ymin>604</ymin>
+			<ymax>677</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725872268</timestamp>
+	</update_record>
+	<last_update_ts>1725872268</last_update_ts>
+</Annotation>

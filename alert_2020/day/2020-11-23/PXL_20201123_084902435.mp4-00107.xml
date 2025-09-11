@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>PXL_20201123_084902435.mp4-00107.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>259</xmin>
+			<xmax>564</xmax>
+			<ymin>374</ymin>
+			<ymax>541</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>561</xmin>
+			<xmax>730</xmax>
+			<ymin>401</ymin>
+			<ymax>517</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724139939</timestamp>
+	</update_record>
+	<last_update_ts>1724139939</last_update_ts>
+</Annotation>

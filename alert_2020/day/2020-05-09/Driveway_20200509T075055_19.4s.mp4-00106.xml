@@ -1,0 +1,35 @@
+<Annotation>
+	<filename>Driveway_20200509T075055_19.4s.mp4-00106.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>841</xmin>
+			<xmax>1491</xmax>
+			<ymin>339</ymin>
+			<ymax>1072</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>tractor</name>
+		<bndbox>
+			<xmin>408</xmin>
+			<xmax>653</xmax>
+			<ymin>354</ymin>
+			<ymax>567</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724666751</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1749463225</timestamp>
+	</update_record>
+	<last_update_ts>1749463225</last_update_ts>
+</Annotation>

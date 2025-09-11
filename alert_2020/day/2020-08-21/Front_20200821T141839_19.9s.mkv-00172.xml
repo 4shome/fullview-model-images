@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front_20200821T141839_19.9s.mkv-00172.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1131</xmin>
+			<xmax>1450</xmax>
+			<ymin>232</ymin>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>737</xmin>
+			<xmax>1000</xmax>
+			<ymin>68</ymin>
+			<ymax>245</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1722417243</timestamp>
+	</update_record>
+	<last_update_ts>1722417243</last_update_ts>
+</Annotation>

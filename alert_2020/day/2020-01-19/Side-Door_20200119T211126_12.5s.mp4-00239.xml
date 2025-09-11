@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Side-Door_20200119T211126_12.5s.mp4-00239.jpeg</filename>
+	<size>
+		<width>607</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>262</xmin>
+			<xmax>342</xmax>
+			<ymin>97</ymin>
+			<ymax>261</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1721635008</timestamp>
+	</update_record>
+	<last_update_ts>1721635008</last_update_ts>
+</Annotation>

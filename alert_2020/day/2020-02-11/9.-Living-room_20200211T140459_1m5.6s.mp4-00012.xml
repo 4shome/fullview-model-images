@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>9.-Living-room_20200211T140459_1m5.6s.mp4-00012.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>293</xmin>
+			<xmax>391</xmax>
+			<ymin>26</ymin>
+			<ymax>177</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724209418</timestamp>
+	</update_record>
+	<last_update_ts>1724209418</last_update_ts>
+</Annotation>

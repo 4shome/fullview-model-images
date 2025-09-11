@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>PXL_20201123_085359646.mp4-00395.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>307</xmin>
+			<xmax>755</xmax>
+			<ymin>245</ymin>
+			<ymax>546</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1718174734</timestamp>
+	</update_record>
+	<last_update_ts>1718174734</last_update_ts>
+</Annotation>

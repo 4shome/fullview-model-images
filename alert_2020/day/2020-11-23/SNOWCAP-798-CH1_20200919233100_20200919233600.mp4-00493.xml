@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>SNOWCAP-798-CH1_20200919233100_20200919233600.mp4-00493.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1691</xmin>
+			<xmax>1821</xmax>
+			<ymin>268</ymin>
+			<ymax>355</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1718172977</timestamp>
+	</update_record>
+	<last_update_ts>1718172977</last_update_ts>
+</Annotation>

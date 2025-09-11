@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Garage-Camera_20200512T162317_31.3s.mp4-00049.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1159</xmin>
+			<xmax>1652</xmax>
+			<ymin>631</ymin>
+			<ymax>1066</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1724727495</timestamp>
+	</update_record>
+	<last_update_ts>1724727495</last_update_ts>
+</Annotation>
