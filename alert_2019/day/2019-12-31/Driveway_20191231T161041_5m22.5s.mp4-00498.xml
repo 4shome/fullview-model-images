@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Driveway_20191231T161041_5m22.5s.mp4-00498.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>620</xmin>
+			<xmax>1378</xmax>
+			<ymin>142</ymin>
+			<ymax>796</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>632</xmin>
+			<xmax>884</xmax>
+			<ymin>14</ymin>
+			<ymax>106</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1718172504</timestamp>
+	</update_record>
+	<last_update_ts>1718172504</last_update_ts>
+</Annotation>
