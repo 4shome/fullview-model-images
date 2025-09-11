@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>K5_motion_20230831T091227_41.6s.mp4-00142.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1102</xmin>
+			<xmax>1159</xmax>
+			<ymin>121</ymin>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744614919</timestamp>
+	</update_record>
+	<last_update_ts>1744614919</last_update_ts>
+</Annotation>

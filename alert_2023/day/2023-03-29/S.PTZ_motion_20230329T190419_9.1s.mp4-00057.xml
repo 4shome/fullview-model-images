@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>S.PTZ_motion_20230329T190419_9.1s.mp4-00057.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1685</xmin>
+			<xmax>1887</xmax>
+			<ymin>173</ymin>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1538</xmin>
+			<xmax>1787</xmax>
+			<ymin>6</ymin>
+			<ymax>94</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735023450</timestamp>
+	</update_record>
+	<last_update_ts>1735023450</last_update_ts>
+</Annotation>

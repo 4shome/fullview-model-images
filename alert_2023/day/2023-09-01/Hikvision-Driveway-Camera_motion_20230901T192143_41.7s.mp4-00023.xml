@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Hikvision-Driveway-Camera_motion_20230901T192143_41.7s.mp4-00023.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>443</xmin>
+			<xmax>1620</xmax>
+			<ymin>51</ymin>
+			<ymax>842</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744615277</timestamp>
+	</update_record>
+	<last_update_ts>1744615277</last_update_ts>
+</Annotation>
