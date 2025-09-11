@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>05-Driveway-Circle_20191222T192221_25.3s.mp4-00091.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>38</xmin>
+			<xmax>458</xmax>
+			<ymin>245</ymin>
+			<ymax>493</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1718161446</timestamp>
+	</update_record>
+	<last_update_ts>1718161446</last_update_ts>
+</Annotation>
