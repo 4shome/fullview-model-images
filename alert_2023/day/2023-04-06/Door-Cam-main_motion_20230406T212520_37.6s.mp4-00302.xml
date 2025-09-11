@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Door-Cam-main_motion_20230406T212520_37.6s.mp4-00302.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>519</xmin>
+			<xmax>597</xmax>
+			<ymin>545</ymin>
+			<ymax>642</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735036223</timestamp>
+	</update_record>
+	<last_update_ts>1735036223</last_update_ts>
+</Annotation>

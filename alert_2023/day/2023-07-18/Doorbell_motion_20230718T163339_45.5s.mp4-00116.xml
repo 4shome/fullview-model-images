@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Doorbell_motion_20230718T163339_45.5s.mp4-00116.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>342</xmin>
+			<xmax>801</xmax>
+			<ymin>216</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742896453</timestamp>
+	</update_record>
+	<last_update_ts>1742896453</last_update_ts>
+</Annotation>

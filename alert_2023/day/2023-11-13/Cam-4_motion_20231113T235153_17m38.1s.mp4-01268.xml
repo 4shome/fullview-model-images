@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Cam-4_motion_20231113T235153_17m38.1s.mp4-01268.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>125</xmin>
+			<xmax>759</xmax>
+			<ymin>554</ymin>
+			<ymax>1001</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>881</xmin>
+			<xmax>918</xmax>
+			<ymin>530</ymin>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744190729</timestamp>
+	</update_record>
+	<last_update_ts>1744190729</last_update_ts>
+</Annotation>

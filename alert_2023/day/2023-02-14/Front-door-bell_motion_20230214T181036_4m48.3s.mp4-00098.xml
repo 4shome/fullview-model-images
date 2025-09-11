@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-door-bell_motion_20230214T181036_4m48.3s.mp4-00098.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>748</xmin>
+			<xmax>824</xmax>
+			<ymin>321</ymin>
+			<ymax>523</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>740</xmin>
+			<xmax>781</xmax>
+			<ymin>815</ymin>
+			<ymax>880</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1733131303</timestamp>
+	</update_record>
+	<last_update_ts>1733131303</last_update_ts>
+</Annotation>

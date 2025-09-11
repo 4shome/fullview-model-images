@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Camera-1_motion_20230919T033107_23.6s.mp4-00060.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1036</xmin>
+			<xmax>1107</xmax>
+			<ymin>470</ymin>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>821</xmin>
+			<xmax>922</xmax>
+			<ymin>480</ymin>
+			<ymax>694</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744968373</timestamp>
+	</update_record>
+	<last_update_ts>1744968373</last_update_ts>
+</Annotation>

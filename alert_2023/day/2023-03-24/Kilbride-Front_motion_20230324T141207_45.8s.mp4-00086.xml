@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Kilbride-Front_motion_20230324T141207_45.8s.mp4-00086.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>668</xmin>
+			<xmax>1208</xmax>
+			<ymin>167</ymin>
+			<ymax>490</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735021163</timestamp>
+	</update_record>
+	<last_update_ts>1735021163</last_update_ts>
+</Annotation>

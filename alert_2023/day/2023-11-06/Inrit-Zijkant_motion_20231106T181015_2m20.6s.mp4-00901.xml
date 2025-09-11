@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Inrit-Zijkant_motion_20231106T181015_2m20.6s.mp4-00901.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1449</xmin>
+			<xmax>1576</xmax>
+			<ymin>44</ymin>
+			<ymax>361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1039</xmin>
+			<xmax>1350</xmax>
+			<ymin>86</ymin>
+			<ymax>338</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1745308958</timestamp>
+	</update_record>
+	<last_update_ts>1745308958</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Yard_motion_20230709T124320_27s.mp4-00142.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>530</xmin>
+			<xmax>755</xmax>
+			<ymin>105</ymin>
+			<ymax>228</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742892257</timestamp>
+	</update_record>
+	<last_update_ts>1742892257</last_update_ts>
+</Annotation>
