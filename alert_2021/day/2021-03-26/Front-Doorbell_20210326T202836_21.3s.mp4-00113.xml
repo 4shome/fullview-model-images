@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Doorbell_20210326T202836_21.3s.mp4-00113.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>507</xmin>
+			<xmax>1087</xmax>
+			<ymin>850</ymin>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1729738241</timestamp>
+	</update_record>
+	<last_update_ts>1729738241</last_update_ts>
+</Annotation>

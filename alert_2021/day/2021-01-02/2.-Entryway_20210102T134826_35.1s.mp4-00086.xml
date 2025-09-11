@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>2.-Entryway_20210102T134826_35.1s.mp4-00086.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>897</xmin>
+			<xmax>1030</xmax>
+			<ymin>478</ymin>
+			<ymax>552</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725958084</timestamp>
+	</update_record>
+	<last_update_ts>1725958084</last_update_ts>
+</Annotation>

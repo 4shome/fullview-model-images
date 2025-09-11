@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>2.-Entryway_20210328T191031_42.8s.mp4-00256.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>22</xmin>
+			<xmax>168</xmax>
+			<ymin>754</ymin>
+			<ymax>1047</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1729738844</timestamp>
+	</update_record>
+	<last_update_ts>1729738844</last_update_ts>
+</Annotation>

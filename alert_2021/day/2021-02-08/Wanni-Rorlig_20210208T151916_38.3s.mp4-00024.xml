@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Wanni-Rorlig_20210208T151916_38.3s.mp4-00024.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1</xmin>
+			<xmax>396</xmax>
+			<ymin>367</ymin>
+			<ymax>634</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727172201</timestamp>
+	</update_record>
+	<last_update_ts>1727172201</last_update_ts>
+</Annotation>

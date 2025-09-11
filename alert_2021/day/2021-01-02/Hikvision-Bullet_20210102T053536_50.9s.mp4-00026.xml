@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Hikvision-Bullet_20210102T053536_50.9s.mp4-00026.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>744</xmin>
+			<xmax>1177</xmax>
+			<ymin>612</ymin>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>546</xmin>
+			<xmax>641</xmax>
+			<ymin>610</ymin>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725958244</timestamp>
+	</update_record>
+	<last_update_ts>1725958244</last_update_ts>
+</Annotation>

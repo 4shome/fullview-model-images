@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Road_20210406T195550_38.2s.mp4-00138.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>381</xmin>
+			<xmax>661</xmax>
+			<ymin>71</ymin>
+			<ymax>200</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727174597</timestamp>
+	</update_record>
+	<last_update_ts>1727174597</last_update_ts>
+</Annotation>

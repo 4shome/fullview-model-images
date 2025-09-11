@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Side-Gate_20210128T164602_12.2s.mp4-00092.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1301</xmin>
+			<xmax>1603</xmax>
+			<ymin>520</ymin>
+			<ymax>1028</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727167706</timestamp>
+	</update_record>
+	<last_update_ts>1727167706</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>OutBackPool_20210103T212237_12.4s.mp4-00078.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>73</xmin>
+			<xmax>231</xmax>
+			<ymin>313</ymin>
+			<ymax>669</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725960000</timestamp>
+	</update_record>
+	<last_update_ts>1725960000</last_update_ts>
+</Annotation>

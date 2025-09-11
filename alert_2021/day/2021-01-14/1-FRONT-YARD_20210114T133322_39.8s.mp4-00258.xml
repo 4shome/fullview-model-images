@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>1-FRONT-YARD_20210114T133322_39.8s.mp4-00258.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1259</xmin>
+			<xmax>1372</xmax>
+			<ymin>475</ymin>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727164795</timestamp>
+	</update_record>
+	<last_update_ts>1727164795</last_update_ts>
+</Annotation>

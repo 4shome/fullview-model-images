@@ -1,0 +1,35 @@
+<Annotation>
+	<filename>Outside_20210128T174939_14.8s.mp4-00088.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>347</xmax>
+			<ymin>0</ymin>
+			<ymax>433</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1158</xmin>
+			<xmax>1333</xmax>
+			<ymin>371</ymin>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727167594</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1749803918</timestamp>
+	</update_record>
+	<last_update_ts>1749803918</last_update_ts>
+</Annotation>

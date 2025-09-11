@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Side-Gate_20210331T143222_1m17s.mp4-00125.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>372</xmin>
+			<xmax>658</xmax>
+			<ymin>52</ymin>
+			<ymax>716</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>161</xmin>
+			<xmax>335</xmax>
+			<ymin>84</ymin>
+			<ymax>503</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730103637</timestamp>
+	</update_record>
+	<last_update_ts>1730103637</last_update_ts>
+</Annotation>

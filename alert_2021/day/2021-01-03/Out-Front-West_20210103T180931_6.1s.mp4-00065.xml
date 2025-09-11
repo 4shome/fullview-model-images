@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Out-Front-West_20210103T180931_6.1s.mp4-00065.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>614</xmax>
+			<ymin>295</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1716530787</timestamp>
+	</update_record>
+	<last_update_ts>1716530787</last_update_ts>
+</Annotation>

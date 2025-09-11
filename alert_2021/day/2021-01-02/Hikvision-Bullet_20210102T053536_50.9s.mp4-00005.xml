@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Hikvision-Bullet_20210102T053536_50.9s.mp4-00005.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>742</xmin>
+			<xmax>1178</xmax>
+			<ymin>612</ymin>
+			<ymax>776</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725958172</timestamp>
+	</update_record>
+	<last_update_ts>1725958172</last_update_ts>
+</Annotation>

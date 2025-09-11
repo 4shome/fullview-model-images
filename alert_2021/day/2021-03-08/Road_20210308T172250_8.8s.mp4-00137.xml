@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Road_20210308T172250_8.8s.mp4-00137.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>196</xmin>
+			<xmax>492</xmax>
+			<ymin>61</ymin>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727256421</timestamp>
+	</update_record>
+	<last_update_ts>1727256421</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Driveway_20210115T123813_28.7s.mp4-00384.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1102</xmin>
+			<xmax>1611</xmax>
+			<ymin>302</ymin>
+			<ymax>726</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1265</xmin>
+			<xmax>1633</xmax>
+			<ymin>182</ymin>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727165184</timestamp>
+	</update_record>
+	<last_update_ts>1727165184</last_update_ts>
+</Annotation>

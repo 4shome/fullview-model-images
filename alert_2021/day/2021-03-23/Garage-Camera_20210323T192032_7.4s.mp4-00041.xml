@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Garage-Camera_20210323T192032_7.4s.mp4-00041.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>380</xmin>
+			<xmax>1461</xmax>
+			<ymin>315</ymin>
+			<ymax>964</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>39</xmin>
+			<xmax>139</xmax>
+			<ymin>506</ymin>
+			<ymax>711</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1729680592</timestamp>
+	</update_record>
+	<last_update_ts>1729680592</last_update_ts>
+</Annotation>

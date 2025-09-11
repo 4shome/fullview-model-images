@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Outside_20210128T171453_36.9s.mp4-00305.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1265</xmin>
+			<xmax>1420</xmax>
+			<ymin>29</ymin>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727167483</timestamp>
+	</update_record>
+	<last_update_ts>1727167483</last_update_ts>
+</Annotation>

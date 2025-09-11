@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Mailbox_20210323T212826_7.3s.mp4-00091.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>940</xmin>
+			<xmax>1049</xmax>
+			<ymin>213</ymin>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1729680704</timestamp>
+	</update_record>
+	<last_update_ts>1729680704</last_update_ts>
+</Annotation>

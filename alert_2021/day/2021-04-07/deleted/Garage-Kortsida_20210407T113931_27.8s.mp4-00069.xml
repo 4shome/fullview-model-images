@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Garage-Kortsida_20210407T113931_27.8s.mp4-00069.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1115</xmin>
+			<xmax>1920</xmax>
+			<ymin>261</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727173777</timestamp>
+	</update_record>
+	<last_update_ts>1727173777</last_update_ts>
+</Annotation>

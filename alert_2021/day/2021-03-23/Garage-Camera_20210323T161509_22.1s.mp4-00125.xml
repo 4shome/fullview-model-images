@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Garage-Camera_20210323T161509_22.1s.mp4-00125.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>37</xmin>
+			<xmax>243</xmax>
+			<ymin>402</ymin>
+			<ymax>539</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1729680449</timestamp>
+	</update_record>
+	<last_update_ts>1729680449</last_update_ts>
+</Annotation>

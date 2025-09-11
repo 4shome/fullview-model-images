@@ -1,0 +1,35 @@
+<Annotation>
+	<filename>Frontdoor-(Flex)_20210114T082613_1m17.3s.mp4-00138.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>244</xmin>
+			<xmax>380</xmax>
+			<ymin>616</ymin>
+			<ymax>682</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1249</xmin>
+			<xmax>1334</xmax>
+			<ymin>629</ymin>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727164980</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1749795430</timestamp>
+	</update_record>
+	<last_update_ts>1749795430</last_update_ts>
+</Annotation>

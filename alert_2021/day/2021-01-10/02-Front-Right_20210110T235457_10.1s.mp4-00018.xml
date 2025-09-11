@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>02-Front-Right_20210110T235457_10.1s.mp4-00018.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>221</xmin>
+			<xmax>1349</xmax>
+			<ymin>86</ymin>
+			<ymax>785</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727163874</timestamp>
+	</update_record>
+	<last_update_ts>1727163874</last_update_ts>
+</Annotation>

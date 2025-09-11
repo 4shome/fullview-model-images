@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Gate_20210407T104820_15.3s.mp4-00066.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1534</xmin>
+			<xmax>1674</xmax>
+			<ymin>169</ymin>
+			<ymax>509</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727173866</timestamp>
+	</update_record>
+	<last_update_ts>1727173866</last_update_ts>
+</Annotation>
