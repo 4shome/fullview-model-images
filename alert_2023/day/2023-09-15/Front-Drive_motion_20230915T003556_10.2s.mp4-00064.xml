@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Drive_motion_20230915T003556_10.2s.mp4-00064.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>479</xmin>
+			<xmax>1221</xmax>
+			<ymin>322</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>376</xmax>
+			<ymin>165</ymin>
+			<ymax>786</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744961767</timestamp>
+	</update_record>
+	<last_update_ts>1744961767</last_update_ts>
+</Annotation>

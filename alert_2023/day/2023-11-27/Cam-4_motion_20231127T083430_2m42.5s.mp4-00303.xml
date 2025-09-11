@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Cam-4_motion_20231127T083430_2m42.5s.mp4-00303.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>420</xmin>
+			<xmax>455</xmax>
+			<ymin>532</ymin>
+			<ymax>625</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>503</xmin>
+			<xmax>540</xmax>
+			<ymin>498</ymin>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737445663</timestamp>
+	</update_record>
+	<last_update_ts>1737445663</last_update_ts>
+</Annotation>

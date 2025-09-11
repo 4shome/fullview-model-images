@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Cars_motion_20230106T180306_16s.mp4-00043.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1116</xmin>
+			<xmax>1920</xmax>
+			<ymin>0</ymin>
+			<ymax>594</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>37</xmin>
+			<xmax>858</xmax>
+			<ymin>0</ymin>
+			<ymax>544</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730283482</timestamp>
+	</update_record>
+	<last_update_ts>1730283482</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>caméra-terrasse-avant_motion_20230918T164210_23.5s.mp4-00254.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>198</xmin>
+			<xmax>534</xmax>
+			<ymin>699</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744962566</timestamp>
+	</update_record>
+	<last_update_ts>1744962566</last_update_ts>
+</Annotation>

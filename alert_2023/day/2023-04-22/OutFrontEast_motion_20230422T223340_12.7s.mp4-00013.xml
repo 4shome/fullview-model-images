@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>OutFrontEast_motion_20230422T223340_12.7s.mp4-00013.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1167</xmin>
+			<xmax>1453</xmax>
+			<ymin>14</ymin>
+			<ymax>138</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735094279</timestamp>
+	</update_record>
+	<last_update_ts>1735094279</last_update_ts>
+</Annotation>

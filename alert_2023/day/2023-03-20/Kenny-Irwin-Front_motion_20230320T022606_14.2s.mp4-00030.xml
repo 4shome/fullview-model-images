@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Kenny-Irwin-Front_motion_20230320T022606_14.2s.mp4-00030.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>343</xmin>
+			<xmax>1409</xmax>
+			<ymin>211</ymin>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735021011</timestamp>
+	</update_record>
+	<last_update_ts>1735021011</last_update_ts>
+</Annotation>

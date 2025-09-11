@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>PARKING-LARGE_motion_20230326T155103_1m2.7s.mp4-00256.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1129</xmin>
+			<xmax>1236</xmax>
+			<ymin>291</ymin>
+			<ymax>656</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735022496</timestamp>
+	</update_record>
+	<last_update_ts>1735022496</last_update_ts>
+</Annotation>

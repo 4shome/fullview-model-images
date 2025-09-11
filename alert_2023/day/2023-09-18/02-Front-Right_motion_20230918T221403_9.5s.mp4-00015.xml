@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>02-Front-Right_motion_20230918T221403_9.5s.mp4-00015.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>686</xmin>
+			<xmax>1793</xmax>
+			<ymin>246</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>344</xmin>
+			<xmax>1301</xmax>
+			<ymin>55</ymin>
+			<ymax>654</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744962268</timestamp>
+	</update_record>
+	<last_update_ts>1744962268</last_update_ts>
+</Annotation>

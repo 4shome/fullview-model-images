@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Garage_motion_20231209T021159_1m7.4s.mp4-00102.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>389</xmin>
+			<xmax>1440</xmax>
+			<ymin>385</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>657</xmax>
+			<ymin>381</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737357800</timestamp>
+	</update_record>
+	<last_update_ts>1737357800</last_update_ts>
+</Annotation>

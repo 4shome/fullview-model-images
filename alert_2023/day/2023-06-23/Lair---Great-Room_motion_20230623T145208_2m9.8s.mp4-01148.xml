@@ -1,0 +1,35 @@
+<Annotation>
+	<filename>Lair---Great-Room_motion_20230623T145208_2m9.8s.mp4-01148.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>412</xmin>
+			<xmax>809</xmax>
+			<ymin>528</ymin>
+			<ymax>1073</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>820</xmin>
+			<xmax>892</xmax>
+			<ymin>255</ymin>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737424847</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1750241737</timestamp>
+	</update_record>
+	<last_update_ts>1750241737</last_update_ts>
+</Annotation>
