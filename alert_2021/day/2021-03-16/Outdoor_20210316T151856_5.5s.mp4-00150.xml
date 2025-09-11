@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Outdoor_20210316T151856_5.5s.mp4-00150.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1459</xmin>
+			<xmax>1783</xmax>
+			<ymin>137</ymin>
+			<ymax>270</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727258893</timestamp>
+	</update_record>
+	<last_update_ts>1727258893</last_update_ts>
+</Annotation>

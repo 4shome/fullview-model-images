@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>breezeway_20210212T122802_34.1s.mp4-00081.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1274</xmin>
+			<xmax>1545</xmax>
+			<ymin>530</ymin>
+			<ymax>930</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727252136</timestamp>
+	</update_record>
+	<last_update_ts>1727252136</last_update_ts>
+</Annotation>

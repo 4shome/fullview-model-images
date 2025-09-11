@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Tomt_20210205T164131_22.9s.mp4-00124.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>148</xmin>
+			<xmax>244</xmax>
+			<ymin>266</ymin>
+			<ymax>500</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>551</xmin>
+			<xmax>592</xmax>
+			<ymin>389</ymin>
+			<ymax>501</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727169345</timestamp>
+	</update_record>
+	<last_update_ts>1727169345</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>2-On-Deck_20210311T085301_1m2.7s.mp4-00454.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1497</xmin>
+			<xmax>1572</xmax>
+			<ymin>238</ymin>
+			<ymax>357</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727257546</timestamp>
+	</update_record>
+	<last_update_ts>1727257546</last_update_ts>
+</Annotation>

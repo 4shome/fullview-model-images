@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Out-Front-Center_20210202T152741_13.5s.mp4-00122.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1417</xmin>
+			<xmax>1515</xmax>
+			<ymin>150</ymin>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>353</xmin>
+			<xmax>392</xmax>
+			<ymin>98</ymin>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730712923</timestamp>
+	</update_record>
+	<last_update_ts>1730712923</last_update_ts>
+</Annotation>

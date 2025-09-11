@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Driveway_20210301T203056_8.3s.mp4-00007.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>918</xmax>
+			<ymin>84</ymin>
+			<ymax>767</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727255099</timestamp>
+	</update_record>
+	<last_update_ts>1727255099</last_update_ts>
+</Annotation>

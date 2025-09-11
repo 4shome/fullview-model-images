@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Driveway-Cam_20210324T214743_39.3s.mp4-00041.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>672</xmin>
+			<xmax>1363</xmax>
+			<ymin>120</ymin>
+			<ymax>988</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1360</xmin>
+			<xmax>1920</xmax>
+			<ymin>34</ymin>
+			<ymax>704</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1729736519</timestamp>
+	</update_record>
+	<last_update_ts>1729736519</last_update_ts>
+</Annotation>

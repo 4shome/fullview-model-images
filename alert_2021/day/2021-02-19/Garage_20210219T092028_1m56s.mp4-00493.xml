@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Garage_20210219T092028_1m56s.mp4-00493.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1652</xmin>
+			<xmax>1807</xmax>
+			<ymin>521</ymin>
+			<ymax>761</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727253574</timestamp>
+	</update_record>
+	<last_update_ts>1727253574</last_update_ts>
+</Annotation>

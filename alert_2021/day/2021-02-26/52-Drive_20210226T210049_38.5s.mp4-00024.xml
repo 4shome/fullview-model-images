@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>52-Drive_20210226T210049_38.5s.mp4-00024.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>711</xmin>
+			<xmax>1392</xmax>
+			<ymin>211</ymin>
+			<ymax>606</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727254826</timestamp>
+	</update_record>
+	<last_update_ts>1727254826</last_update_ts>
+</Annotation>

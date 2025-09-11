@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Garage_20210412T205353_5.3s.mp4-00039.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>806</xmin>
+			<xmax>960</xmax>
+			<ymin>99</ymin>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>483</xmin>
+			<xmax>596</xmax>
+			<ymin>150</ymin>
+			<ymax>208</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725960049</timestamp>
+	</update_record>
+	<last_update_ts>1725960049</last_update_ts>
+</Annotation>

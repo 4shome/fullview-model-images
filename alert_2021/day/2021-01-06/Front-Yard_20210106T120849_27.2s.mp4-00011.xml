@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Yard_20210106T120849_27.2s.mp4-00011.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1649</xmin>
+			<xmax>1706</xmax>
+			<ymin>261</ymin>
+			<ymax>383</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727162834</timestamp>
+	</update_record>
+	<last_update_ts>1727162834</last_update_ts>
+</Annotation>

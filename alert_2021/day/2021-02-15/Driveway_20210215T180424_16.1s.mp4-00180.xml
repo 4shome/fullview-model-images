@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Driveway_20210215T180424_16.1s.mp4-00180.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>942</xmin>
+			<xmax>1096</xmax>
+			<ymin>230</ymin>
+			<ymax>502</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727252548</timestamp>
+	</update_record>
+	<last_update_ts>1727252548</last_update_ts>
+</Annotation>

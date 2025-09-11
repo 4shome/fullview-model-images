@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Building_20210316T200359_1m26.9s.mp4-00160.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>476</xmin>
+			<xmax>780</xmax>
+			<ymin>189</ymin>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>777</xmin>
+			<xmax>884</xmax>
+			<ymin>417</ymin>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727258612</timestamp>
+	</update_record>
+	<last_update_ts>1727258612</last_update_ts>
+</Annotation>

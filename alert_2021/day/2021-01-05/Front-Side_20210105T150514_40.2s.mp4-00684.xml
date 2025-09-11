@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Side_20210105T150514_40.2s.mp4-00684.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>441</xmin>
+			<xmax>514</xmax>
+			<ymin>180</ymin>
+			<ymax>293</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725960438</timestamp>
+	</update_record>
+	<last_update_ts>1725960438</last_update_ts>
+</Annotation>

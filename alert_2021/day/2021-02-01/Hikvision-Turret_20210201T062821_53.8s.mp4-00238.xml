@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Hikvision-Turret_20210201T062821_53.8s.mp4-00238.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>427</xmin>
+			<xmax>712</xmax>
+			<ymin>478</ymin>
+			<ymax>629</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727168128</timestamp>
+	</update_record>
+	<last_update_ts>1727168128</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>1-Carport_20210111T135403_37s.mp4-00103.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>388</xmin>
+			<xmax>915</xmax>
+			<ymin>36</ymin>
+			<ymax>236</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727163980</timestamp>
+	</update_record>
+	<last_update_ts>1727163980</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>1-Carport_20210111T135403_37s.mp4-00413.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>369</xmin>
+			<xmax>905</xmax>
+			<ymin>36</ymin>
+			<ymax>239</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>686</xmin>
+			<xmax>859</xmax>
+			<ymin>139</ymin>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727164054</timestamp>
+	</update_record>
+	<last_update_ts>1727164054</last_update_ts>
+</Annotation>

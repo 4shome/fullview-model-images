@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front-Side_20210105T150514_40.2s.mp4-00433.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>471</xmin>
+			<xmax>502</xmax>
+			<ymin>139</ymin>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>512</xmin>
+			<xmax>552</xmax>
+			<ymin>122</ymin>
+			<ymax>204</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725960399</timestamp>
+	</update_record>
+	<last_update_ts>1725960399</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Dörr_20210311T193436_49.5s.mp4-00279.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1011</xmin>
+			<xmax>1209</xmax>
+			<ymin>207</ymin>
+			<ymax>768</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1727257645</timestamp>
+	</update_record>
+	<last_update_ts>1727257645</last_update_ts>
+</Annotation>

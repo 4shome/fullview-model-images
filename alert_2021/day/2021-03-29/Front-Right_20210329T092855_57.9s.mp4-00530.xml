@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Right_20210329T092855_57.9s.mp4-00530.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>445</xmin>
+			<xmax>611</xmax>
+			<ymin>270</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1729739396</timestamp>
+	</update_record>
+	<last_update_ts>1729739396</last_update_ts>
+</Annotation>

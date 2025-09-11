@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Garage_20210104T192641_18.8s.mp4-00047.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>996</xmin>
+			<xmax>1708</xmax>
+			<ymin>558</ymin>
+			<ymax>819</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1725960193</timestamp>
+	</update_record>
+	<last_update_ts>1725960193</last_update_ts>
+</Annotation>
