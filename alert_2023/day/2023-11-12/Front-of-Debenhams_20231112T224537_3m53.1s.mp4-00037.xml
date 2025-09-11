@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-of-Debenhams_20231112T224537_3m53.1s.mp4-00037.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>909</xmin>
+			<xmax>939</xmax>
+			<ymin>68</ymin>
+			<ymax>134</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744191245</timestamp>
+	</update_record>
+	<last_update_ts>1744191245</last_update_ts>
+</Annotation>

@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Caméra-garages_motion_20230916T224941_6m23.6s.mp4-00970.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>804</xmin>
+			<xmax>1688</xmax>
+			<ymin>335</ymin>
+			<ymax>1031</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1744961888</timestamp>
+	</update_record>
+	<last_update_ts>1744961888</last_update_ts>
+</Annotation>

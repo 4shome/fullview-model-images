@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Hikvision_20230302T101252_10.9s.mp4-00003.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>646</xmin>
+			<xmax>684</xmax>
+			<ymin>386</ymin>
+			<ymax>543</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1733135692</timestamp>
+	</update_record>
+	<last_update_ts>1733135692</last_update_ts>
+</Annotation>

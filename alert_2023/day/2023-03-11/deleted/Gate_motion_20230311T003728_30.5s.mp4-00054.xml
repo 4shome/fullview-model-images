@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Gate_motion_20230311T003728_30.5s.mp4-00054.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>664</xmin>
+			<xmax>930</xmax>
+			<ymin>145</ymin>
+			<ymax>258</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1735010323</timestamp>
+	</update_record>
+	<last_update_ts>1735010323</last_update_ts>
+</Annotation>

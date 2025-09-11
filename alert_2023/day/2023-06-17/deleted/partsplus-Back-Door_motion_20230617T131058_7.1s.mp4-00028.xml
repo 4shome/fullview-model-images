@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>partsplus-Back-Door_motion_20230617T131058_7.1s.mp4-00028.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1114</xmin>
+			<xmax>1302</xmax>
+			<ymin>24</ymin>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737366828</timestamp>
+	</update_record>
+	<last_update_ts>1737366828</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Garage_motion_20231128T110803_4.9s.mp4-00038.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>108</xmin>
+			<xmax>1183</xmax>
+			<ymin>49</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1565</xmin>
+			<xmax>1920</xmax>
+			<ymin>105</ymin>
+			<ymax>817</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737368965</timestamp>
+	</update_record>
+	<last_update_ts>1737368965</last_update_ts>
+</Annotation>

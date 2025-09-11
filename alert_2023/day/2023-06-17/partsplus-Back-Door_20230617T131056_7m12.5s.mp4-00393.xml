@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>partsplus-Back-Door_20230617T131056_7m12.5s.mp4-00393.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1287</xmin>
+			<xmax>1673</xmax>
+			<ymin>136</ymin>
+			<ymax>471</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1113</xmin>
+			<xmax>1301</xmax>
+			<ymin>24</ymin>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737366656</timestamp>
+	</update_record>
+	<last_update_ts>1737366656</last_update_ts>
+</Annotation>

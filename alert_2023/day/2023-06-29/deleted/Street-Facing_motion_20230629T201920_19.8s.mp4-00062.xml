@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Street-Facing_motion_20230629T201920_19.8s.mp4-00062.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>golf cart</name>
+		<bndbox>
+			<xmin>702</xmin>
+			<xmax>931</xmax>
+			<ymin>249</ymin>
+			<ymax>465</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>790</xmin>
+			<xmax>845</xmax>
+			<ymin>309</ymin>
+			<ymax>402</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1742890135</timestamp>
+	</update_record>
+	<last_update_ts>1742890135</last_update_ts>
+</Annotation>

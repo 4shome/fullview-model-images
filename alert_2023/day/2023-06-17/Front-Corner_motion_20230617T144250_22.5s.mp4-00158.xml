@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Corner_motion_20230617T144250_22.5s.mp4-00158.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1538</xmin>
+			<xmax>1658</xmax>
+			<ymin>75</ymin>
+			<ymax>137</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1737363422</timestamp>
+	</update_record>
+	<last_update_ts>1737363422</last_update_ts>
+</Annotation>

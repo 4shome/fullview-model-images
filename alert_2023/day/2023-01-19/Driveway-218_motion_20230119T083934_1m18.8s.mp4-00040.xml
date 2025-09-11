@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Driveway-218_motion_20230119T083934_1m18.8s.mp4-00040.jpeg</filename>
+	<size>
+		<width>810</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>51</xmin>
+			<xmax>242</xmax>
+			<ymin>542</ymin>
+			<ymax>640</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>230</xmin>
+			<xmax>327</xmax>
+			<ymin>525</ymin>
+			<ymax>579</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1730714287</timestamp>
+	</update_record>
+	<last_update_ts>1730714287</last_update_ts>
+</Annotation>
