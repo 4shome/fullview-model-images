@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>North-West-Window-V3-Pro_motion_20240527T203154_42.9s.mp4-00173.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1143</xmin>
+			<xmax>1236</xmax>
+			<ymin>570</ymin>
+			<ymax>646</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1754990846</timestamp>
+	</update_record>
+	<last_update_ts>1754990846</last_update_ts>
+</Annotation>

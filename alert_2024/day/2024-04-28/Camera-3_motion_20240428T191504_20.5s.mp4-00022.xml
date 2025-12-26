@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Camera-3_motion_20240428T191504_20.5s.mp4-00022.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<bndbox>
+			<xmin>1343</xmin>
+			<xmax>1700</xmax>
+			<ymin>206</ymin>
+			<ymax>435</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754473573</timestamp>
+	</update_record>
+	<last_update_ts>1754473573</last_update_ts>
+</Annotation>

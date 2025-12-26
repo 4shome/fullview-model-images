@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Voordeur_motion_20240113T230709_6.6s.mp4-00007.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>159</xmin>
+			<xmax>1084</xmax>
+			<ymin>319</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>428</xmin>
+			<xmax>1083</xmax>
+			<ymin>135</ymin>
+			<ymax>574</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747992349</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756184027</timestamp>
+	</update_record>
+	<last_update_ts>1756184027</last_update_ts>
+</Annotation>

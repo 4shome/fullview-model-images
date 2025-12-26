@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Lawn_motion_20240221T160958_5.4s.mp4-00018.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>786</xmin>
+			<xmax>1156</xmax>
+			<ymin>533</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751253502</timestamp>
+	</update_record>
+	<last_update_ts>1751253502</last_update_ts>
+</Annotation>

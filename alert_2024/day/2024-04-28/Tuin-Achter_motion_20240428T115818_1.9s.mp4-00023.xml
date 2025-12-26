@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Tuin-Achter_motion_20240428T115818_1.9s.mp4-00023.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>45</xmin>
+			<xmax>83</xmax>
+			<ymin>352</ymin>
+			<ymax>439</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754474900</timestamp>
+	</update_record>
+	<last_update_ts>1754474900</last_update_ts>
+</Annotation>

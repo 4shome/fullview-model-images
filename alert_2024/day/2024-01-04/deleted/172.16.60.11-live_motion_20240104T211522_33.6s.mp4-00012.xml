@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>172.16.60.11-live_motion_20240104T211522_33.6s.mp4-00012.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>406</xmin>
+			<xmax>1199</xmax>
+			<ymin>384</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>832</xmin>
+			<xmax>1503</xmax>
+			<ymin>712</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747823751</timestamp>
+	</update_record>
+	<last_update_ts>1747823751</last_update_ts>
+</Annotation>

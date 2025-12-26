@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>C07_motion_20240428T175546_21.7s.mp4-00014.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>634</xmin>
+			<xmax>837</xmax>
+			<ymin>102</ymin>
+			<ymax>236</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>450</xmin>
+			<xmax>622</xmax>
+			<ymin>177</ymin>
+			<ymax>326</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754473476</timestamp>
+	</update_record>
+	<last_update_ts>1754473476</last_update_ts>
+</Annotation>

@@ -1,0 +1,41 @@
+<Annotation>
+	<filename>C17-61-SW-COLT7-CAM17_motion_20240103T181116_18.4s.mp4-00226.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>semi truck</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>791</xmax>
+			<ymin>118</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>semi truck</name>
+		<bndbox>
+			<xmin>733</xmin>
+			<xmax>1320</xmax>
+			<ymin>66</ymin>
+			<ymax>255</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747808822</timestamp>
+	</update_record>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1755858010</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756187359</timestamp>
+	</update_record>
+	<last_update_ts>1756187359</last_update_ts>
+</Annotation>

@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Camera-4_motion_20240404T174323_49.3s.mp4-00140.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<bndbox>
+			<xmin>83</xmin>
+			<xmax>404</xmax>
+			<ymin>94</ymin>
+			<ymax>373</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>587</xmin>
+			<xmax>704</xmax>
+			<ymin>166</ymin>
+			<ymax>394</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1754379020</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755673795</timestamp>
+	</update_record>
+	<last_update_ts>1755673795</last_update_ts>
+</Annotation>

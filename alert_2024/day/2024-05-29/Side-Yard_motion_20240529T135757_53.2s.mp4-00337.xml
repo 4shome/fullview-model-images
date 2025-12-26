@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Side-Yard_motion_20240529T135757_53.2s.mp4-00337.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>825</xmin>
+			<xmax>906</xmax>
+			<ymin>280</ymin>
+			<ymax>453</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755154229</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755589349</timestamp>
+	</update_record>
+	<last_update_ts>1755589349</last_update_ts>
+</Annotation>

@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Oprit_motion_20240514T192114_1m8s.mp4-00110.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1011</xmin>
+			<xmax>1599</xmax>
+			<ymin>115</ymin>
+			<ymax>451</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>522</xmin>
+			<xmax>797</xmax>
+			<ymin>1</ymin>
+			<ymax>209</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1754907521</timestamp>
+	</update_record>
+	<last_update_ts>1754907521</last_update_ts>
+</Annotation>

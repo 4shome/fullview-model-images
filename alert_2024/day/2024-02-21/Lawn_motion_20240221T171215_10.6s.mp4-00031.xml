@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Lawn_motion_20240221T171215_10.6s.mp4-00031.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>948</xmin>
+			<xmax>1202</xmax>
+			<ymin>463</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1118</xmin>
+			<xmax>1272</xmax>
+			<ymin>259</ymin>
+			<ymax>987</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751253621</timestamp>
+	</update_record>
+	<last_update_ts>1751253621</last_update_ts>
+</Annotation>

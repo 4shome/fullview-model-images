@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Front-Gate_motion_20240622T213144_1m45.8s.mp4-00145.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>675</xmin>
+			<xmax>800</xmax>
+			<ymin>352</ymin>
+			<ymax>684</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>791</xmin>
+			<xmax>920</xmax>
+			<ymin>338</ymin>
+			<ymax>626</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1754275578</timestamp>
+	</update_record>
+	<last_update_ts>1754275578</last_update_ts>
+</Annotation>

@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>North-Ramp-2-(192.168.1.28)_motion_20240527T175535_24.9s.mp4-00050.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1382</xmin>
+			<xmax>1592</xmax>
+			<ymin>105</ymin>
+			<ymax>508</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1754990639</timestamp>
+	</update_record>
+	<last_update_ts>1754990639</last_update_ts>
+</Annotation>

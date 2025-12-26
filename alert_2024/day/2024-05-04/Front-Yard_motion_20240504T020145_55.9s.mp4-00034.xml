@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Front-Yard_motion_20240504T020145_55.9s.mp4-00034.jpeg</filename>
+	<size>
+		<width>1841</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1049</xmin>
+			<xmax>1571</xmax>
+			<ymin>345</ymin>
+			<ymax>875</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1288</xmin>
+			<xmax>1768</xmax>
+			<ymin>289</ymin>
+			<ymax>678</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754536969</timestamp>
+	</update_record>
+	<last_update_ts>1754536969</last_update_ts>
+</Annotation>

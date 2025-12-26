@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Lair---Garage-Overview_motion_20240514T150319_12.3s.mp4-00103.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1297</xmin>
+			<xmax>1401</xmax>
+			<ymin>634</ymin>
+			<ymax>792</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1754905537</timestamp>
+	</update_record>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1756959687</timestamp>
+	</update_record>
+	<last_update_ts>1756959687</last_update_ts>
+</Annotation>

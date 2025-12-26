@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Back-Yard_motion_20240123T175357_12.6s.mp4-00019.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>438</xmin>
+			<xmax>653</xmax>
+			<ymin>224</ymin>
+			<ymax>485</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1748418675</timestamp>
+	</update_record>
+	<last_update_ts>1748418675</last_update_ts>
+</Annotation>

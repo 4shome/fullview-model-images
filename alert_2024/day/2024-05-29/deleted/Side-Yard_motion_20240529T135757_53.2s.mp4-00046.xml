@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Side-Yard_motion_20240529T135757_53.2s.mp4-00046.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>mower</name>
+		<bndbox>
+			<xmin>233</xmin>
+			<xmax>495</xmax>
+			<ymin>818</ymin>
+			<ymax>1022</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755167149</timestamp>
+	</update_record>
+	<last_update_ts>1755167149</last_update_ts>
+</Annotation>

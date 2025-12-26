@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>HIGHROOF-SW-SKYLIGHTS(C3M1)_motion_20240404T120316_18.2s.mp4-00003.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1586</xmin>
+			<xmax>1681</xmax>
+			<ymin>112</ymin>
+			<ymax>233</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1754379436</timestamp>
+	</update_record>
+	<last_update_ts>1754379436</last_update_ts>
+</Annotation>
