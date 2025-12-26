@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Corner-of-Spa_motion_20240302T212715_1m40.1s.mp4-00485.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>564</xmin>
+			<xmax>1055</xmax>
+			<ymin>383</ymin>
+			<ymax>667</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1370</xmin>
+			<xmax>1549</xmax>
+			<ymin>311</ymin>
+			<ymax>429</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751264865</timestamp>
+	</update_record>
+	<last_update_ts>1751264865</last_update_ts>
+</Annotation>

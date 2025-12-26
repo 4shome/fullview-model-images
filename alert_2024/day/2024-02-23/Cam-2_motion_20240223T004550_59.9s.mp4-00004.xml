@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Cam-2_motion_20240223T004550_59.9s.mp4-00004.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>79</xmin>
+			<xmax>809</xmax>
+			<ymin>489</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>365</xmin>
+			<xmax>1104</xmax>
+			<ymin>253</ymin>
+			<ymax>625</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751254209</timestamp>
+	</update_record>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1756954834</timestamp>
+	</update_record>
+	<last_update_ts>1756954834</last_update_ts>
+</Annotation>

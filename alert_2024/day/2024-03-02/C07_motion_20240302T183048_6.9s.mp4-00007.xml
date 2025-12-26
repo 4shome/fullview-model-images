@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>C07_motion_20240302T183048_6.9s.mp4-00007.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1831</xmin>
+			<xmax>1893</xmax>
+			<ymin>266</ymin>
+			<ymax>386</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751264393</timestamp>
+	</update_record>
+	<last_update_ts>1751264393</last_update_ts>
+</Annotation>

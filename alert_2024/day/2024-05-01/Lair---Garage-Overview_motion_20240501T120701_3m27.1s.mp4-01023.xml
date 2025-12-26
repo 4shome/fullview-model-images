@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Lair---Garage-Overview_motion_20240501T120701_3m27.1s.mp4-01023.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>998</xmin>
+			<xmax>1323</xmax>
+			<ymin>480</ymin>
+			<ymax>667</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1531</xmin>
+			<xmax>1733</xmax>
+			<ymin>528</ymin>
+			<ymax>693</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754535194</timestamp>
+	</update_record>
+	<last_update_ts>1754535194</last_update_ts>
+</Annotation>

@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Garage_motion_20240301T231736_51.3s.mp4-00033.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>36</xmin>
+			<xmax>1204</xmax>
+			<ymin>62</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751264024</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755685529</timestamp>
+	</update_record>
+	<last_update_ts>1755685529</last_update_ts>
+</Annotation>

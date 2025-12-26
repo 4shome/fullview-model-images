@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>PORTA_motion_20240511T193541_3m42.9s.mp4-00179.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1642</xmin>
+			<xmax>1702</xmax>
+			<ymin>221</ymin>
+			<ymax>357</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754555444</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755599829</timestamp>
+	</update_record>
+	<last_update_ts>1755599829</last_update_ts>
+</Annotation>

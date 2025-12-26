@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>C01_motion_20240612T044911_19.4s.mp4-00072.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1070</xmin>
+			<xmax>1227</xmax>
+			<ymin>163</ymin>
+			<ymax>251</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755069254</timestamp>
+	</update_record>
+	<update_record>
+		<user>test</user>
+		<timestamp>1756807984</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756953559</timestamp>
+	</update_record>
+	<last_update_ts>1756953559</last_update_ts>
+</Annotation>

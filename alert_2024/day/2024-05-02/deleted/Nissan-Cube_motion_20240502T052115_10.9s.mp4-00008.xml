@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Nissan-Cube_motion_20240502T052115_10.9s.mp4-00008.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>525</xmin>
+			<xmax>1405</xmax>
+			<ymin>294</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>162</xmin>
+			<xmax>281</xmax>
+			<ymin>226</ymin>
+			<ymax>314</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754536708</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755656688</timestamp>
+	</update_record>
+	<last_update_ts>1755656688</last_update_ts>
+</Annotation>

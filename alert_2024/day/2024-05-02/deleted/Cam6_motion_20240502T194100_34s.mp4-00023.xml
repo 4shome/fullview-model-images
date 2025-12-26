@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Cam6_motion_20240502T194100_34s.mp4-00023.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>275</xmax>
+			<ymin>514</ymin>
+			<ymax>960</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>558</xmin>
+			<xmax>812</xmax>
+			<ymin>139</ymin>
+			<ymax>310</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754536410</timestamp>
+	</update_record>
+	<last_update_ts>1754536410</last_update_ts>
+</Annotation>

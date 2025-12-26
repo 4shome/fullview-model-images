@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>CAM-12---UNVTEC-IPT5E28X_motion_20240301T144434_49.3s.mp4-00076.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>semi truck</name>
+		<bndbox>
+			<xmin>819</xmin>
+			<xmax>1442</xmax>
+			<ymin>0</ymin>
+			<ymax>409</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751263969</timestamp>
+	</update_record>
+	<last_update_ts>1751263969</last_update_ts>
+</Annotation>

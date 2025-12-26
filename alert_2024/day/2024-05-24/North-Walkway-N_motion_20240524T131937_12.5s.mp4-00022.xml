@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>North-Walkway-N_motion_20240524T131937_12.5s.mp4-00022.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>159</xmin>
+			<xmax>278</xmax>
+			<ymin>103</ymin>
+			<ymax>537</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755065832</timestamp>
+	</update_record>
+	<last_update_ts>1755065832</last_update_ts>
+</Annotation>

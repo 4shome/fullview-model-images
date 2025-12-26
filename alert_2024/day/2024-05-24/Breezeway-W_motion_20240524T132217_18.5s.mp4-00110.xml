@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Breezeway-W_motion_20240524T132217_18.5s.mp4-00110.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1525</xmin>
+			<xmax>1619</xmax>
+			<ymin>215</ymin>
+			<ymax>430</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755052280</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755593104</timestamp>
+	</update_record>
+	<last_update_ts>1755593104</last_update_ts>
+</Annotation>

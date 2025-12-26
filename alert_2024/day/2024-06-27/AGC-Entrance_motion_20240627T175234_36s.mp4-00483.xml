@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>AGC-Entrance_motion_20240627T175234_36s.mp4-00483.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>851</xmin>
+			<xmax>1214</xmax>
+			<ymin>91</ymin>
+			<ymax>722</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753930148</timestamp>
+	</update_record>
+	<last_update_ts>1753930148</last_update_ts>
+</Annotation>

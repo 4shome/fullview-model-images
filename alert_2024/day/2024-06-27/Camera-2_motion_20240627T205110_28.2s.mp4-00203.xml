@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Camera-2_motion_20240627T205110_28.2s.mp4-00203.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1424</xmin>
+			<xmax>1507</xmax>
+			<ymin>439</ymin>
+			<ymax>615</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1638</xmin>
+			<xmax>1656</xmax>
+			<ymin>245</ymin>
+			<ymax>289</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753948967</timestamp>
+	</update_record>
+	<last_update_ts>1753948967</last_update_ts>
+</Annotation>

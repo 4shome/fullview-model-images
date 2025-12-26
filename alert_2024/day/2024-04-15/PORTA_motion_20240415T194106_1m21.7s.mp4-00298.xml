@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>PORTA_motion_20240415T194106_1m21.7s.mp4-00298.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>484</xmin>
+			<xmax>516</xmax>
+			<ymin>98</ymin>
+			<ymax>182</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754460609</timestamp>
+	</update_record>
+	<last_update_ts>1754460609</last_update_ts>
+</Annotation>

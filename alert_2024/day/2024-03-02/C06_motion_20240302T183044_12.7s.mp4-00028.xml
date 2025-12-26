@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>C06_motion_20240302T183044_12.7s.mp4-00028.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>189</xmin>
+			<xmax>250</xmax>
+			<ymin>213</ymin>
+			<ymax>366</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>204</xmin>
+			<xmax>289</xmax>
+			<ymin>0</ymin>
+			<ymax>40</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751264480</timestamp>
+	</update_record>
+	<last_update_ts>1751264480</last_update_ts>
+</Annotation>

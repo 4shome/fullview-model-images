@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Porch_motion_20240210T192009_56.9s.mp4-00150.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>692</xmin>
+			<xmax>884</xmax>
+			<ymin>550</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751011129</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755743038</timestamp>
+	</update_record>
+	<last_update_ts>1755743038</last_update_ts>
+</Annotation>

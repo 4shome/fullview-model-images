@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>C06_motion_20240302T183044_12.7s.mp4-00027.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>219</xmin>
+			<xmax>296</xmax>
+			<ymin>0</ymin>
+			<ymax>36</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>188</xmin>
+			<xmax>250</xmax>
+			<ymin>210</ymin>
+			<ymax>366</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751264333</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755685134</timestamp>
+	</update_record>
+	<last_update_ts>1755685134</last_update_ts>
+</Annotation>

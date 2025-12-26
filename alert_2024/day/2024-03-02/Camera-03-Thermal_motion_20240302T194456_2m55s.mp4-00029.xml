@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Camera-03-Thermal_motion_20240302T194456_2m55s.mp4-00029.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>853</xmin>
+			<xmax>976</xmax>
+			<ymin>900</ymin>
+			<ymax>1069</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751264572</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755685216</timestamp>
+	</update_record>
+	<last_update_ts>1755685216</last_update_ts>
+</Annotation>

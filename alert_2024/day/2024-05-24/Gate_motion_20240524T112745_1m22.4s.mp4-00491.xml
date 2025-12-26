@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Gate_motion_20240524T112745_1m22.4s.mp4-00491.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>494</xmin>
+			<xmax>982</xmax>
+			<ymin>176</ymin>
+			<ymax>575</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755065447</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755593949</timestamp>
+	</update_record>
+	<last_update_ts>1755593949</last_update_ts>
+</Annotation>
