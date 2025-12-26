@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>C10-61-E-COLT4-CAM10_motion_20240111T012403_51.1s.mp4-00312.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>semi truck</name>
+		<bndbox>
+			<xmin>338</xmin>
+			<xmax>1084</xmax>
+			<ymin>52</ymin>
+			<ymax>305</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747989643</timestamp>
+	</update_record>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1756113234</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756184261</timestamp>
+	</update_record>
+	<last_update_ts>1756184261</last_update_ts>
+</Annotation>

@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Front-Porch-Cam_motion_20240321T120114_21.5s.mp4-00100.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1433</xmin>
+			<xmax>1884</xmax>
+			<ymin>244</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751362568</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755680108</timestamp>
+	</update_record>
+	<last_update_ts>1755680108</last_update_ts>
+</Annotation>

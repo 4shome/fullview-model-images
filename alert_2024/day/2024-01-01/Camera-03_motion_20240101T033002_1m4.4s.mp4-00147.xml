@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Camera-03_motion_20240101T033002_1m4.4s.mp4-00147.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>481</xmin>
+			<xmax>1401</xmax>
+			<ymin>359</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1471</xmin>
+			<xmax>1872</xmax>
+			<ymin>344</ymin>
+			<ymax>949</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747644264</timestamp>
+	</update_record>
+	<last_update_ts>1747644264</last_update_ts>
+</Annotation>

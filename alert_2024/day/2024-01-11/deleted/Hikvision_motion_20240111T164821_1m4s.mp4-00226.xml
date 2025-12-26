@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Hikvision_motion_20240111T164821_1m4s.mp4-00226.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1282</xmin>
+			<xmax>1491</xmax>
+			<ymin>0</ymin>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747992150</timestamp>
+	</update_record>
+	<last_update_ts>1747992150</last_update_ts>
+</Annotation>

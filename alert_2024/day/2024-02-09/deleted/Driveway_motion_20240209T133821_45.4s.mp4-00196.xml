@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Driveway_motion_20240209T133821_45.4s.mp4-00196.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1446</xmin>
+			<xmax>1920</xmax>
+			<ymin>67</ymin>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>1284</xmin>
+			<xmax>1833</xmax>
+			<ymin>0</ymin>
+			<ymax>122</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747650094</timestamp>
+	</update_record>
+	<last_update_ts>1747650094</last_update_ts>
+</Annotation>

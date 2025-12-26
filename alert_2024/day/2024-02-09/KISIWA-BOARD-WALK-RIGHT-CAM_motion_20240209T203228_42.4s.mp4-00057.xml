@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>KISIWA-BOARD-WALK-RIGHT-CAM_motion_20240209T203228_42.4s.mp4-00057.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>76</xmin>
+			<xmax>149</xmax>
+			<ymin>501</ymin>
+			<ymax>725</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751010721</timestamp>
+	</update_record>
+	<last_update_ts>1751010721</last_update_ts>
+</Annotation>

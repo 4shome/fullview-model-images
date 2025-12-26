@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Front-Yard-Cam_motion_20240604T180051_20.3s.mp4-00147.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1354</xmin>
+			<xmax>1701</xmax>
+			<ymin>150</ymin>
+			<ymax>324</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755251862</timestamp>
+	</update_record>
+	<last_update_ts>1755251862</last_update_ts>
+</Annotation>

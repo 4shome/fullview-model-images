@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Driveway_motion_20240425T110741_1m46.6s.mp4-00922.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>859</xmin>
+			<xmax>929</xmax>
+			<ymin>104</ymin>
+			<ymax>261</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1515</xmin>
+			<xmax>1536</xmax>
+			<ymin>157</ymin>
+			<ymax>227</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754472458</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755660455</timestamp>
+	</update_record>
+	<last_update_ts>1755660455</last_update_ts>
+</Annotation>

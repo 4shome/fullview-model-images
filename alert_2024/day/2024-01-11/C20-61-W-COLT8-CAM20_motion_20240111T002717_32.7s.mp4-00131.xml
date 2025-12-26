@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>C20-61-W-COLT8-CAM20_motion_20240111T002717_32.7s.mp4-00131.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>semi truck</name>
+		<bndbox>
+			<xmin>674</xmin>
+			<xmax>1282</xmax>
+			<ymin>95</ymin>
+			<ymax>350</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747991709</timestamp>
+	</update_record>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1756115325</timestamp>
+	</update_record>
+	<last_update_ts>1756115325</last_update_ts>
+</Annotation>

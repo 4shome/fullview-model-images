@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Parking-Hoek-Bureau_motion_20240507T223426_43.9s.mp4-00057.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>595</xmin>
+			<xmax>748</xmax>
+			<ymin>260</ymin>
+			<ymax>311</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754551600</timestamp>
+	</update_record>
+	<last_update_ts>1754551600</last_update_ts>
+</Annotation>

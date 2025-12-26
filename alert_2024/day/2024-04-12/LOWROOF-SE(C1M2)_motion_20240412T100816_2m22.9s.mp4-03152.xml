@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>LOWROOF-SE(C1M2)_motion_20240412T100816_2m22.9s.mp4-03152.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>315</xmin>
+			<xmax>419</xmax>
+			<ymin>191</ymin>
+			<ymax>241</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754451129</timestamp>
+	</update_record>
+	<last_update_ts>1754451129</last_update_ts>
+</Annotation>

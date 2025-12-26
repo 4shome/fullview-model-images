@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>ANATOLIKH-2_motion_20240423T132837_1m31.6s.mp4-00085.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>forklift</name>
+		<bndbox>
+			<xmin>544</xmin>
+			<xmax>667</xmax>
+			<ymin>185</ymin>
+			<ymax>371</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>579</xmin>
+			<xmax>648</xmax>
+			<ymin>152</ymin>
+			<ymax>262</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754470393</timestamp>
+	</update_record>
+	<last_update_ts>1754470393</last_update_ts>
+</Annotation>

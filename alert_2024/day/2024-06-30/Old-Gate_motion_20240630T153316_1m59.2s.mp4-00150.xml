@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Old-Gate_motion_20240630T153316_1m59.2s.mp4-00150.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1423</xmin>
+			<xmax>1453</xmax>
+			<ymin>188</ymin>
+			<ymax>289</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1451</xmin>
+			<xmax>1480</xmax>
+			<ymin>173</ymin>
+			<ymax>262</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756970096</timestamp>
+	</update_record>
+	<last_update_ts>1756970096</last_update_ts>
+</Annotation>

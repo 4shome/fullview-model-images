@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>C14-61-S-COLT6-CAM14_motion_20240111T012316_1m2.1s.mp4-00267.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>semi truck</name>
+		<bndbox>
+			<xmin>673</xmin>
+			<xmax>1188</xmax>
+			<ymin>117</ymin>
+			<ymax>309</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747991543</timestamp>
+	</update_record>
+	<last_update_ts>1747991543</last_update_ts>
+</Annotation>

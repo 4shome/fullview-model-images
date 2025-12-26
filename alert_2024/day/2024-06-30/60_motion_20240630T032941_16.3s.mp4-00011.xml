@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>60_motion_20240630T032941_16.3s.mp4-00011.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1615</xmin>
+			<xmax>1692</xmax>
+			<ymin>364</ymin>
+			<ymax>519</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753859511</timestamp>
+	</update_record>
+	<last_update_ts>1753859511</last_update_ts>
+</Annotation>

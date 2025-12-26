@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Oprit_motion_20240425T103906_44.9s.mp4-00316.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>62</xmin>
+			<xmax>491</xmax>
+			<ymin>313</ymin>
+			<ymax>540</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>475</xmin>
+			<xmax>568</xmax>
+			<ymin>288</ymin>
+			<ymax>489</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754472680</timestamp>
+	</update_record>
+	<last_update_ts>1754472680</last_update_ts>
+</Annotation>

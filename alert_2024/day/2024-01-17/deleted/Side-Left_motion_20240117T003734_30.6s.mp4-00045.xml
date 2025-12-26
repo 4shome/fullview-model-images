@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Side-Left_motion_20240117T003734_30.6s.mp4-00045.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>419</xmin>
+			<xmax>668</xmax>
+			<ymin>128</ymin>
+			<ymax>215</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747996923</timestamp>
+	</update_record>
+	<last_update_ts>1747996923</last_update_ts>
+</Annotation>

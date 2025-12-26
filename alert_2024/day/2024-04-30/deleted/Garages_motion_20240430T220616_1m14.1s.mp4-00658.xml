@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Garages_motion_20240430T220616_1m14.1s.mp4-00658.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>341</xmax>
+			<ymin>424</ymin>
+			<ymax>650</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1754473520</timestamp>
+	</update_record>
+	<last_update_ts>1754473520</last_update_ts>
+</Annotation>
