@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>AY-Front-Yard_motion_20240524T225432_1m26s.mp4-00396.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tractor</name>
+		<bndbox>
+			<xmin>899</xmin>
+			<xmax>1106</xmax>
+			<ymin>247</ymin>
+			<ymax>408</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755051803</timestamp>
+	</update_record>
+	<last_update_ts>1755051803</last_update_ts>
+</Annotation>

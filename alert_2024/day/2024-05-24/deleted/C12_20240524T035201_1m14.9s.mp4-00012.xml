@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>C12_20240524T035201_1m14.9s.mp4-00012.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>651</xmin>
+			<xmax>670</xmax>
+			<ymin>179</ymin>
+			<ymax>221</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>627</xmin>
+			<xmax>645</xmax>
+			<ymin>196</ymin>
+			<ymax>239</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755080646</timestamp>
+	</update_record>
+	<last_update_ts>1755080646</last_update_ts>
+</Annotation>

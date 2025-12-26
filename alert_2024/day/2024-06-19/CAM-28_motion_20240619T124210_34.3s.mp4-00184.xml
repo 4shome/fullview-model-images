@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>CAM-28_motion_20240619T124210_34.3s.mp4-00184.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>579</xmin>
+			<xmax>711</xmax>
+			<ymin>428</ymin>
+			<ymax>673</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>766</xmin>
+			<xmax>862</xmax>
+			<ymin>404</ymin>
+			<ymax>671</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1759138055</timestamp>
+	</update_record>
+	<last_update_ts>1759138055</last_update_ts>
+</Annotation>

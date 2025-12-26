@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>C11_20240524T035137_1m33s.mp4-00022.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1627</xmin>
+			<xmax>1651</xmax>
+			<ymin>211</ymin>
+			<ymax>260</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755080873</timestamp>
+	</update_record>
+	<last_update_ts>1755080873</last_update_ts>
+</Annotation>

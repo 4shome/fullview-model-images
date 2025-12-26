@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>CAM-27_motion_20240619T104348_51.2s.mp4-00300.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>927</xmin>
+			<xmax>1052</xmax>
+			<ymin>246</ymin>
+			<ymax>528</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1759137758</timestamp>
+	</update_record>
+	<last_update_ts>1759137758</last_update_ts>
+</Annotation>
