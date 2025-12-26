@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Voorgevel_motion_20240320T115650_1m4.6s.mp4-00194.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1622</xmin>
+			<xmax>1732</xmax>
+			<ymin>75</ymin>
+			<ymax>147</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1819</xmin>
+			<xmax>1887</xmax>
+			<ymin>135</ymin>
+			<ymax>180</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751361937</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755680889</timestamp>
+	</update_record>
+	<last_update_ts>1755680889</last_update_ts>
+</Annotation>

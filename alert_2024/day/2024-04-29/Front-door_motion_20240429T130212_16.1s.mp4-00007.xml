@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Front-door_motion_20240429T130212_16.1s.mp4-00007.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>538</xmin>
+			<xmax>1072</xmax>
+			<ymin>112</ymin>
+			<ymax>359</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>186</xmin>
+			<xmax>502</xmax>
+			<ymin>131</ymin>
+			<ymax>316</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754475783</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755659392</timestamp>
+	</update_record>
+	<last_update_ts>1755659392</last_update_ts>
+</Annotation>

@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>HIGHROOF-SE(C1M3)_motion_20240411T120905_7m49.4s.mp4-00088.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1300</xmin>
+			<xmax>1426</xmax>
+			<ymin>340</ymin>
+			<ymax>393</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754450091</timestamp>
+	</update_record>
+	<last_update_ts>1754450091</last_update_ts>
+</Annotation>

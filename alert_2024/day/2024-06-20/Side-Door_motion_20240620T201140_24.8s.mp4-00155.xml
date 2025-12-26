@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Side-Door_motion_20240620T201140_24.8s.mp4-00155.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1260</xmin>
+			<xmax>1920</xmax>
+			<ymin>512</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1754304134</timestamp>
+	</update_record>
+	<last_update_ts>1754304134</last_update_ts>
+</Annotation>

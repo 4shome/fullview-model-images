@@ -1,0 +1,26 @@
+<Annotation>
+	<filename>Gate-Inside_motion_20240115T160106_1m34.6s.mp4-00220.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1451</xmin>
+			<xmax>1893</xmax>
+			<ymin>333</ymin>
+			<ymax>560</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747995364</timestamp>
+	</update_record>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1748338365</timestamp>
+	</update_record>
+	<last_update_ts>1748338365</last_update_ts>
+</Annotation>

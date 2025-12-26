@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>OutFrontEast_motion_20240320T111752_20.8s.mp4-00038.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>253</xmin>
+			<xmax>531</xmax>
+			<ymin>49</ymin>
+			<ymax>229</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751361402</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755680600</timestamp>
+	</update_record>
+	<last_update_ts>1755680600</last_update_ts>
+</Annotation>

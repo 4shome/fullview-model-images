@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Front-Gate_motion_20240116T182728_54.4s.mp4-00396.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>678</xmin>
+			<xmax>887</xmax>
+			<ymin>145</ymin>
+			<ymax>225</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1748240380</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756179204</timestamp>
+	</update_record>
+	<last_update_ts>1756179204</last_update_ts>
+</Annotation>

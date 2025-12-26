@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Garage-Front_motion_20240429T095333_38.4s.mp4-00293.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>835</xmin>
+			<xmax>1139</xmax>
+			<ymin>0</ymin>
+			<ymax>265</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754532100</timestamp>
+	</update_record>
+	<last_update_ts>1754532100</last_update_ts>
+</Annotation>

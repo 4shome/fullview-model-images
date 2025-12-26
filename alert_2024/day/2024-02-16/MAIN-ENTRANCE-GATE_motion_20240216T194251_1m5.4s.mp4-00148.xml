@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>MAIN-ENTRANCE-GATE_motion_20240216T194251_1m5.4s.mp4-00148.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>497</xmin>
+			<xmax>952</xmax>
+			<ymin>507</ymin>
+			<ymax>782</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751252797</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755742624</timestamp>
+	</update_record>
+	<last_update_ts>1755742624</last_update_ts>
+</Annotation>

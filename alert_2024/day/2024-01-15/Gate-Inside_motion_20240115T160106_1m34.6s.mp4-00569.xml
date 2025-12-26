@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Gate-Inside_motion_20240115T160106_1m34.6s.mp4-00569.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<bndbox>
+			<xmin>124</xmin>
+			<xmax>412</xmax>
+			<ymin>282</ymin>
+			<ymax>528</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1255</xmin>
+			<xmax>1340</xmax>
+			<ymin>350</ymin>
+			<ymax>481</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747995076</timestamp>
+	</update_record>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1756116097</timestamp>
+	</update_record>
+	<last_update_ts>1756116097</last_update_ts>
+</Annotation>

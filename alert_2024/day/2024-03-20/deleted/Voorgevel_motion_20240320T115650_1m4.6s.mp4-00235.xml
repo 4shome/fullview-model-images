@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Voorgevel_motion_20240320T115650_1m4.6s.mp4-00235.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1655</xmin>
+			<xmax>1758</xmax>
+			<ymin>71</ymin>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751361953</timestamp>
+	</update_record>
+	<last_update_ts>1751361953</last_update_ts>
+</Annotation>

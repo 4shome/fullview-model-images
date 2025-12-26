@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>SECLUSION-BEACH-SIDE_motion_20240116T010712_14s.mp4-00128.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>992</xmin>
+			<xmax>1061</xmax>
+			<ymin>537</ymin>
+			<ymax>713</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1748240609</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756285366</timestamp>
+	</update_record>
+	<last_update_ts>1756285366</last_update_ts>
+</Annotation>

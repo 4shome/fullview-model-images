@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>PTZ_motion_20240616T021500_9.6s.mp4-00038.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1466</xmin>
+			<xmax>1625</xmax>
+			<ymin>237</ymin>
+			<ymax>342</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755054822</timestamp>
+	</update_record>
+	<last_update_ts>1755054822</last_update_ts>
+</Annotation>

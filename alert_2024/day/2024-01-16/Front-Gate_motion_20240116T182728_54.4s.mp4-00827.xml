@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Gate_motion_20240116T182728_54.4s.mp4-00827.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>474</xmin>
+			<xmax>592</xmax>
+			<ymin>134</ymin>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1748240464</timestamp>
+	</update_record>
+	<last_update_ts>1748240464</last_update_ts>
+</Annotation>

@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Dumpsters_motion_20240320T212348_9.1s.mp4-00054.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>743</xmin>
+			<xmax>835</xmax>
+			<ymin>198</ymin>
+			<ymax>451</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751361299</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755680506</timestamp>
+	</update_record>
+	<last_update_ts>1755680506</last_update_ts>
+</Annotation>

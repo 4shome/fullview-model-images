@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>RESIDENCE-#2-BEACH-CAM_motion_20240115T214400_30.7s.mp4-00009.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1141</xmin>
+			<xmax>1255</xmax>
+			<ymin>602</ymin>
+			<ymax>871</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747996702</timestamp>
+	</update_record>
+	<last_update_ts>1747996702</last_update_ts>
+</Annotation>

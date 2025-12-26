@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Axis_motion_20240115T224340_22.1s.mp4-00205.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>779</xmin>
+			<xmax>1357</xmax>
+			<ymin>381</ymin>
+			<ymax>779</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1258</xmin>
+			<xmax>1374</xmax>
+			<ymin>385</ymin>
+			<ymax>594</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747993174</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756285409</timestamp>
+	</update_record>
+	<last_update_ts>1756285409</last_update_ts>
+</Annotation>

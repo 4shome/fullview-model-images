@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Back-LHS_motion_20240620T042818_53.8s.mp4-00219.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>733</xmin>
+			<xmax>1038</xmax>
+			<ymin>313</ymin>
+			<ymax>525</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>457</xmin>
+			<xmax>689</xmax>
+			<ymin>327</ymin>
+			<ymax>457</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756964440</timestamp>
+	</update_record>
+	<last_update_ts>1756964440</last_update_ts>
+</Annotation>

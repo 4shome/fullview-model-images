@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>MAIN-ENTRANCE-GATE_motion_20240216T194251_1m5.4s.mp4-00198.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>211</xmin>
+			<xmax>869</xmax>
+			<ymin>530</ymin>
+			<ymax>966</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751252829</timestamp>
+	</update_record>
+	<last_update_ts>1751252829</last_update_ts>
+</Annotation>

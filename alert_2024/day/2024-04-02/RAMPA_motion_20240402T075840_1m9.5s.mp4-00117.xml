@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>RAMPA_motion_20240402T075840_1m9.5s.mp4-00117.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1386</xmin>
+			<xmax>1620</xmax>
+			<ymin>132</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>34</xmin>
+			<xmax>243</xmax>
+			<ymin>25</ymin>
+			<ymax>181</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1754378340</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755674389</timestamp>
+	</update_record>
+	<last_update_ts>1755674389</last_update_ts>
+</Annotation>
