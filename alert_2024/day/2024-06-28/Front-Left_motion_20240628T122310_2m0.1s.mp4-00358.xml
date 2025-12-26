@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Front-Left_motion_20240628T122310_2m0.1s.mp4-00358.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>871</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>714</xmax>
+			<ymin>459</ymin>
+			<ymax>871</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>614</xmin>
+			<xmax>831</xmax>
+			<ymin>132</ymin>
+			<ymax>308</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753929204</timestamp>
+	</update_record>
+	<last_update_ts>1753929204</last_update_ts>
+</Annotation>

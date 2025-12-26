@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Deliveries-OA-RZ_motion_20240530T060245_1m46.7s.mp4-00622.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1454</xmin>
+			<xmax>1687</xmax>
+			<ymin>119</ymin>
+			<ymax>281</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1665</xmin>
+			<xmax>1806</xmax>
+			<ymin>176</ymin>
+			<ymax>308</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755251192</timestamp>
+	</update_record>
+	<last_update_ts>1755251192</last_update_ts>
+</Annotation>

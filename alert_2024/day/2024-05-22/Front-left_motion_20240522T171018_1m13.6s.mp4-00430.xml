@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Front-left_motion_20240522T171018_1m13.6s.mp4-00430.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1088</xmin>
+			<xmax>1135</xmax>
+			<ymin>108</ymin>
+			<ymax>203</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754994454</timestamp>
+	</update_record>
+	<last_update_ts>1754994454</last_update_ts>
+</Annotation>

@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Camera-2_motion_20240602T144419_44.6s.mp4-00001.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tractor</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>520</xmax>
+			<ymin>228</ymin>
+			<ymax>1057</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>tractor</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>579</xmax>
+			<ymin>13</ymin>
+			<ymax>606</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1755251034</timestamp>
+	</update_record>
+	<last_update_ts>1755251034</last_update_ts>
+</Annotation>

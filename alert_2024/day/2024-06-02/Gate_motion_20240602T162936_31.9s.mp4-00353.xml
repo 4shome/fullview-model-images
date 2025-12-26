@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Gate_motion_20240602T162936_31.9s.mp4-00353.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1013</xmin>
+			<xmax>1166</xmax>
+			<ymin>82</ymin>
+			<ymax>480</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1755251551</timestamp>
+	</update_record>
+	<last_update_ts>1755251551</last_update_ts>
+</Annotation>

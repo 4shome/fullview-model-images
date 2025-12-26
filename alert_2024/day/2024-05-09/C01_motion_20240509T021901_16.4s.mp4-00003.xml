@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>C01_motion_20240509T021901_16.4s.mp4-00003.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1289</xmin>
+			<xmax>1547</xmax>
+			<ymin>242</ymin>
+			<ymax>370</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754554026</timestamp>
+	</update_record>
+	<last_update_ts>1754554026</last_update_ts>
+</Annotation>

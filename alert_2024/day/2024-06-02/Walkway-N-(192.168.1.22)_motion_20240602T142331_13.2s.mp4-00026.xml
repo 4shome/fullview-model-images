@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Walkway-N-(192.168.1.22)_motion_20240602T142331_13.2s.mp4-00026.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>306</xmin>
+			<xmax>408</xmax>
+			<ymin>24</ymin>
+			<ymax>260</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>237</xmin>
+			<xmax>322</xmax>
+			<ymin>27</ymin>
+			<ymax>252</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1755251807</timestamp>
+	</update_record>
+	<last_update_ts>1755251807</last_update_ts>
+</Annotation>

@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>PORTA_motion_20240318T071248_1m7s.mp4-00164.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>256</xmin>
+			<xmax>461</xmax>
+			<ymin>150</ymin>
+			<ymax>300</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751360308</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755681853</timestamp>
+	</update_record>
+	<last_update_ts>1755681853</last_update_ts>
+</Annotation>

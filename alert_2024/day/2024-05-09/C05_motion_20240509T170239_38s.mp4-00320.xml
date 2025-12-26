@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>C05_motion_20240509T170239_38s.mp4-00320.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>353</xmin>
+			<xmax>1396</xmax>
+			<ymin>395</ymin>
+			<ymax>1066</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>982</xmin>
+			<xmax>1217</xmax>
+			<ymin>715</ymin>
+			<ymax>1012</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754553698</timestamp>
+	</update_record>
+	<last_update_ts>1754553698</last_update_ts>
+</Annotation>

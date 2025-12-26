@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>RSU-1-Camera-1_motion_20240506T181830_44.9s.mp4-00036.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1689</xmin>
+			<xmax>1736</xmax>
+			<ymin>325</ymin>
+			<ymax>434</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754548817</timestamp>
+	</update_record>
+	<last_update_ts>1754548817</last_update_ts>
+</Annotation>

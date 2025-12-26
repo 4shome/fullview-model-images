@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>70-(85)-Camera_motion_20240205T154619_45.1s.mp4-00164.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>562</xmin>
+			<xmax>641</xmax>
+			<ymin>575</ymin>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747649451</timestamp>
+	</update_record>
+	<last_update_ts>1747649451</last_update_ts>
+</Annotation>

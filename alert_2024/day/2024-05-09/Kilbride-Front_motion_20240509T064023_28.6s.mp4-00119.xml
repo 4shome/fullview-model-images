@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Kilbride-Front_motion_20240509T064023_28.6s.mp4-00119.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1181</xmin>
+			<xmax>1634</xmax>
+			<ymin>202</ymin>
+			<ymax>626</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754554166</timestamp>
+	</update_record>
+	<last_update_ts>1754554166</last_update_ts>
+</Annotation>

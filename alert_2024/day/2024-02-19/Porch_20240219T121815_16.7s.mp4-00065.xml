@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Porch_20240219T121815_16.7s.mp4-00065.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>322</xmin>
+			<xmax>548</xmax>
+			<ymin>691</ymin>
+			<ymax>1056</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751253048</timestamp>
+	</update_record>
+	<last_update_ts>1751253048</last_update_ts>
+</Annotation>

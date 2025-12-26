@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>LH-SQ-CP-Bike-Rack_20240509T140111_56.9s.mp4-00069.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1216</xmin>
+			<xmax>1375</xmax>
+			<ymin>197</ymin>
+			<ymax>462</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754554544</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755600104</timestamp>
+	</update_record>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1756959359</timestamp>
+	</update_record>
+	<last_update_ts>1756959359</last_update_ts>
+</Annotation>

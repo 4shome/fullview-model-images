@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Camera-2_motion_20240623T131536_1m43s.mp4-00652.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>808</xmin>
+			<xmax>1086</xmax>
+			<ymin>249</ymin>
+			<ymax>358</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1754272951</timestamp>
+	</update_record>
+	<last_update_ts>1754272951</last_update_ts>
+</Annotation>
