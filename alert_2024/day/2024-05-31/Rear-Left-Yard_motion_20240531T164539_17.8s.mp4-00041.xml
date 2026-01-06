@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Rear-Left-Yard_motion_20240531T164539_17.8s.mp4-00041.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>255</xmin>
+			<xmax>442</xmax>
+			<ymin>823</ymin>
+			<ymax>1079</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1755244520</timestamp>
+	</update_record>
+	<last_update_ts>1755244520</last_update_ts>
+</Annotation>

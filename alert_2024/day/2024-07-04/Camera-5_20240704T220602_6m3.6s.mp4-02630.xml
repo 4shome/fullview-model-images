@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Camera-5_20240704T220602_6m3.6s.mp4-02630.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1243</xmin>
+			<xmax>1311</xmax>
+			<ymin>180</ymin>
+			<ymax>337</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1168</xmin>
+			<xmax>1232</xmax>
+			<ymin>160</ymin>
+			<ymax>292</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753843171</timestamp>
+	</update_record>
+	<last_update_ts>1753843171</last_update_ts>
+</Annotation>

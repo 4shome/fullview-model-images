@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>North-Ramp-(192.168.1.44)_motion_20240531T142617_40.8s.mp4-00101.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>262</xmin>
+			<xmax>442</xmax>
+			<ymin>123</ymin>
+			<ymax>205</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1755250539</timestamp>
+	</update_record>
+	<last_update_ts>1755250539</last_update_ts>
+</Annotation>

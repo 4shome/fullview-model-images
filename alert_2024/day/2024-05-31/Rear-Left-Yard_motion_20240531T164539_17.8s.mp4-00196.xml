@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Rear-Left-Yard_motion_20240531T164539_17.8s.mp4-00196.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1203</xmin>
+			<xmax>1337</xmax>
+			<ymin>704</ymin>
+			<ymax>1047</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1451</xmin>
+			<xmax>1611</xmax>
+			<ymin>465</ymin>
+			<ymax>735</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1755244665</timestamp>
+	</update_record>
+	<last_update_ts>1755244665</last_update_ts>
+</Annotation>

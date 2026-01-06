@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Fenced-area_motion_20240531T003438_16s.mp4-00241.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>456</xmin>
+			<xmax>746</xmax>
+			<ymin>362</ymin>
+			<ymax>851</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1755154062</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755586122</timestamp>
+	</update_record>
+	<last_update_ts>1755586122</last_update_ts>
+</Annotation>

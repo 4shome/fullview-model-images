@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Camera-5_20240704T220602_6m3.6s.mp4-02459.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1146</xmin>
+			<xmax>1198</xmax>
+			<ymin>163</ymin>
+			<ymax>299</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753843046</timestamp>
+	</update_record>
+	<last_update_ts>1753843046</last_update_ts>
+</Annotation>

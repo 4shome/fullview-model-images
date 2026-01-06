@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>AGC-1-Entrance-Event_20240704T123835_25s.mp4-00407.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1133</xmin>
+			<xmax>1297</xmax>
+			<ymin>0</ymin>
+			<ymax>518</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>795</xmin>
+			<xmax>931</xmax>
+			<ymin>61</ymin>
+			<ymax>579</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753842196</timestamp>
+	</update_record>
+	<last_update_ts>1753842196</last_update_ts>
+</Annotation>

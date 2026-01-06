@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Camera-3_motion_20240427T144131_20.7s.mp4-00003.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>tractor</name>
+		<bndbox>
+			<xmin>12</xmin>
+			<xmax>194</xmax>
+			<ymin>205</ymin>
+			<ymax>406</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754473277</timestamp>
+	</update_record>
+	<last_update_ts>1754473277</last_update_ts>
+</Annotation>

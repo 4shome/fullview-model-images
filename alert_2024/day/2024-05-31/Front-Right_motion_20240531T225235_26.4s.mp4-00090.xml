@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Front-Right_motion_20240531T225235_26.4s.mp4-00090.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>374</xmin>
+			<xmax>566</xmax>
+			<ymin>138</ymin>
+			<ymax>231</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1755245052</timestamp>
+	</update_record>
+	<last_update_ts>1755245052</last_update_ts>
+</Annotation>

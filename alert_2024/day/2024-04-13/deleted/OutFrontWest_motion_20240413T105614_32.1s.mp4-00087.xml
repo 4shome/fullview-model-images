@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>OutFrontWest_motion_20240413T105614_32.1s.mp4-00087.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1403</xmin>
+			<xmax>1727</xmax>
+			<ymin>0</ymin>
+			<ymax>148</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754451752</timestamp>
+	</update_record>
+	<last_update_ts>1754451752</last_update_ts>
+</Annotation>

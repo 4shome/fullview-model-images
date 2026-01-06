@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>16.-Barn-PTZ-Dome_20240531T023056_20240531T024900.mp4-00017.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<bndbox>
+			<xmin>193</xmin>
+			<xmax>501</xmax>
+			<ymin>0</ymin>
+			<ymax>231</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1755153509</timestamp>
+	</update_record>
+	<last_update_ts>1755153509</last_update_ts>
+</Annotation>

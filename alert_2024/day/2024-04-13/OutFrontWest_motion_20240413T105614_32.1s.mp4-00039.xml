@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>OutFrontWest_motion_20240413T105614_32.1s.mp4-00039.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>264</xmin>
+			<xmax>749</xmax>
+			<ymin>39</ymin>
+			<ymax>324</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1397</xmin>
+			<xmax>1475</xmax>
+			<ymin>18</ymin>
+			<ymax>73</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754451665</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755671707</timestamp>
+	</update_record>
+	<last_update_ts>1755671707</last_update_ts>
+</Annotation>
