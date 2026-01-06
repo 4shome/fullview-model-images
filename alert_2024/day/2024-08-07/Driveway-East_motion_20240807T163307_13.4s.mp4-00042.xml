@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Driveway-East_motion_20240807T163307_13.4s.mp4-00042.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1360</xmin>
+			<xmax>1556</xmax>
+			<ymin>509</ymin>
+			<ymax>901</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>626</xmin>
+			<xmax>822</xmax>
+			<ymin>53</ymin>
+			<ymax>160</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1752823754</timestamp>
+	</update_record>
+	<last_update_ts>1752823754</last_update_ts>
+</Annotation>
