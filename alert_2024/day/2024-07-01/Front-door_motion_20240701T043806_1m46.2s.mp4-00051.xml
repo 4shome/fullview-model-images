@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Front-door_motion_20240701T043806_1m46.2s.mp4-00051.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>619</xmin>
+			<xmax>1071</xmax>
+			<ymin>71</ymin>
+			<ymax>254</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753859282</timestamp>
+	</update_record>
+	<last_update_ts>1753859282</last_update_ts>
+</Annotation>

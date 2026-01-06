@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Daycare-Side_motion_20240815T113421_32.2s.mp4-00108.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1281</xmin>
+			<xmax>1523</xmax>
+			<ymin>330</ymin>
+			<ymax>882</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747817568</timestamp>
+	</update_record>
+	<last_update_ts>1747817568</last_update_ts>
+</Annotation>
