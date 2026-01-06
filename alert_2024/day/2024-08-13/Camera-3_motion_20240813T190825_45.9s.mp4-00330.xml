@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Camera-3_motion_20240813T190825_45.9s.mp4-00330.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>423</xmax>
+			<ymin>236</ymin>
+			<ymax>463</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1750148805</timestamp>
+	</update_record>
+	<last_update_ts>1750148805</last_update_ts>
+</Annotation>

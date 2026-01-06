@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>ONVIF_motion_20240813T202529_1m52.5s.mp4-00279.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>512</xmin>
+			<xmax>765</xmax>
+			<ymin>162</ymin>
+			<ymax>712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>383</xmin>
+			<xmax>607</xmax>
+			<ymin>266</ymin>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1750149532</timestamp>
+	</update_record>
+	<last_update_ts>1750149532</last_update_ts>
+</Annotation>
