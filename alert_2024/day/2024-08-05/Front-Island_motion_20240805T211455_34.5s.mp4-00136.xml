@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Front-Island_motion_20240805T211455_34.5s.mp4-00136.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1035</xmin>
+			<xmax>1271</xmax>
+			<ymin>42</ymin>
+			<ymax>143</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753174436</timestamp>
+	</update_record>
+	<last_update_ts>1753174436</last_update_ts>
+</Annotation>

@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>PARKING_motion_20240805T150926_20.6s.mp4-00035.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>602</xmin>
+			<xmax>1148</xmax>
+			<ymin>397</ymin>
+			<ymax>765</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1760436389</timestamp>
+	</update_record>
+	<last_update_ts>1760436389</last_update_ts>
+</Annotation>
