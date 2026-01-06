@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Left_motion_20240307T075808_21.7s.mp4-00126.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1135</xmin>
+			<xmax>1777</xmax>
+			<ymin>641</ymin>
+			<ymax>1037</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751340960</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755684189</timestamp>
+	</update_record>
+	<last_update_ts>1755684189</last_update_ts>
+</Annotation>

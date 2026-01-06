@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Left_motion_20240307T075244_18.7s.mp4-00100.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1445</xmin>
+			<xmax>1873</xmax>
+			<ymin>513</ymin>
+			<ymax>887</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751340847</timestamp>
+	</update_record>
+	<last_update_ts>1751340847</last_update_ts>
+</Annotation>

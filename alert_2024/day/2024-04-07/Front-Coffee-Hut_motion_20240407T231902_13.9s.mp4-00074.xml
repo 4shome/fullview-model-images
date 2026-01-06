@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Front-Coffee-Hut_motion_20240407T231902_13.9s.mp4-00074.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1223</xmin>
+			<xmax>1549</xmax>
+			<ymin>462</ymin>
+			<ymax>785</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1754390567</timestamp>
+	</update_record>
+	<last_update_ts>1754390567</last_update_ts>
+</Annotation>

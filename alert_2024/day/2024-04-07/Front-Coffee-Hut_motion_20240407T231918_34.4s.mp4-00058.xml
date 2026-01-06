@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Front-Coffee-Hut_motion_20240407T231918_34.4s.mp4-00058.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1223</xmin>
+			<xmax>1549</xmax>
+			<ymin>462</ymin>
+			<ymax>785</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>895</xmin>
+			<xmax>1056</xmax>
+			<ymin>252</ymin>
+			<ymax>311</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1754390640</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755672995</timestamp>
+	</update_record>
+	<last_update_ts>1755672995</last_update_ts>
+</Annotation>

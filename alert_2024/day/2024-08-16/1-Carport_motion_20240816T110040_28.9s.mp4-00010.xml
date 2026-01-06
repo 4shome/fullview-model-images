@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>1-Carport_motion_20240816T110040_28.9s.mp4-00010.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>432</xmin>
+			<xmax>816</xmax>
+			<ymin>56</ymin>
+			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>620</xmin>
+			<xmax>657</xmax>
+			<ymin>107</ymin>
+			<ymax>203</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747813968</timestamp>
+	</update_record>
+	<last_update_ts>1747813968</last_update_ts>
+</Annotation>

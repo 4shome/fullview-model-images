@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Parking-Front_motion_20240811T195027_43.8s.mp4-00860.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>861</xmin>
+			<xmax>1031</xmax>
+			<ymin>13</ymin>
+			<ymax>100</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1759140479</timestamp>
+	</update_record>
+	<last_update_ts>1759140479</last_update_ts>
+</Annotation>
