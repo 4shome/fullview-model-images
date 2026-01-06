@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Driveway_motion_20240607T183951_7.3s.mp4-00044.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>424</xmin>
+			<xmax>1399</xmax>
+			<ymin>119</ymin>
+			<ymax>889</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755140124</timestamp>
+	</update_record>
+	<last_update_ts>1755140124</last_update_ts>
+</Annotation>

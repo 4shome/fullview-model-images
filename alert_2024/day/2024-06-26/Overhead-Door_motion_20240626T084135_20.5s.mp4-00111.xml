@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Overhead-Door_motion_20240626T084135_20.5s.mp4-00111.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>769</xmin>
+			<xmax>1416</xmax>
+			<ymin>256</ymin>
+			<ymax>675</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1754029079</timestamp>
+	</update_record>
+	<last_update_ts>1754029079</last_update_ts>
+</Annotation>
