@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Garage_motion_20240613T132422_18.2s.mp4-00088.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1424</xmin>
+			<xmax>1529</xmax>
+			<ymin>410</ymin>
+			<ymax>649</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755066979</timestamp>
+	</update_record>
+	<last_update_ts>1755066979</last_update_ts>
+</Annotation>

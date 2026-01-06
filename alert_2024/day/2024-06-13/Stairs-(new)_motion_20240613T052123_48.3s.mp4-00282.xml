@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Stairs-(new)_motion_20240613T052123_48.3s.mp4-00282.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>584</xmin>
+			<xmax>1014</xmax>
+			<ymin>533</ymin>
+			<ymax>852</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1464</xmin>
+			<xmax>1591</xmax>
+			<ymin>283</ymin>
+			<ymax>567</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755067956</timestamp>
+	</update_record>
+	<last_update_ts>1755067956</last_update_ts>
+</Annotation>
