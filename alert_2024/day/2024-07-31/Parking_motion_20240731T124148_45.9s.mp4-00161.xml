@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Parking_motion_20240731T124148_45.9s.mp4-00161.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>785</xmin>
+			<xmax>1197</xmax>
+			<ymin>305</ymin>
+			<ymax>1043</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>558</xmin>
+			<xmax>611</xmax>
+			<ymin>0</ymin>
+			<ymax>82</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753254662</timestamp>
+	</update_record>
+	<last_update_ts>1753254662</last_update_ts>
+</Annotation>
