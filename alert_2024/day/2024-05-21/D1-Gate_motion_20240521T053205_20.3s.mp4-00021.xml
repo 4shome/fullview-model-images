@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>D1-Gate_motion_20240521T053205_20.3s.mp4-00021.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1455</xmin>
+			<xmax>1673</xmax>
+			<ymin>0</ymin>
+			<ymax>170</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1295</xmin>
+			<xmax>1459</xmax>
+			<ymin>0</ymin>
+			<ymax>76</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754993435</timestamp>
+	</update_record>
+	<last_update_ts>1754993435</last_update_ts>
+</Annotation>

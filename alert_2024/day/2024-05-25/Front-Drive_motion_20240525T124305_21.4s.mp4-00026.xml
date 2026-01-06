@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Front-Drive_motion_20240525T124305_21.4s.mp4-00026.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>533</xmin>
+			<xmax>1278</xmax>
+			<ymin>354</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1754991934</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755592720</timestamp>
+	</update_record>
+	<last_update_ts>1755592720</last_update_ts>
+</Annotation>

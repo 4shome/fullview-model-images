@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Front-Door_motion_20240521T130944_2m57.6s.mp4-01362.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1054</xmin>
+			<xmax>1427</xmax>
+			<ymin>346</ymin>
+			<ymax>1008</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1694</xmin>
+			<xmax>1920</xmax>
+			<ymin>0</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754993752</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755595103</timestamp>
+	</update_record>
+	<last_update_ts>1755595103</last_update_ts>
+</Annotation>

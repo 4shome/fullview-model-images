@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Camera-10_motion_20240516T201950_11.6s.mp4-00182.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1028</xmin>
+			<xmax>1316</xmax>
+			<ymin>110</ymin>
+			<ymax>267</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1774</xmin>
+			<xmax>1869</xmax>
+			<ymin>242</ymin>
+			<ymax>318</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1754989504</timestamp>
+	</update_record>
+	<last_update_ts>1754989504</last_update_ts>
+</Annotation>

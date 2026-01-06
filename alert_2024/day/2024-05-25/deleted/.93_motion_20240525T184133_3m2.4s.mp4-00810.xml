@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>.93_motion_20240525T184133_3m2.4s.mp4-00810.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>64</xmin>
+			<xmax>184</xmax>
+			<ymin>235</ymin>
+			<ymax>328</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>35</xmin>
+			<xmax>125</xmax>
+			<ymin>195</ymin>
+			<ymax>259</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1754991750</timestamp>
+	</update_record>
+	<last_update_ts>1754991750</last_update_ts>
+</Annotation>

@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>PARKING-FORTIGON-1_motion_20240516T210712_1m15.8s.mp4-00208.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>476</xmax>
+			<ymin>67</ymin>
+			<ymax>752</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1754989571</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755596115</timestamp>
+	</update_record>
+	<last_update_ts>1755596115</last_update_ts>
+</Annotation>
