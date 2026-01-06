@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Workshop-Entrance_motion_20240517T030937_5.5s.mp4-00002.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>559</xmin>
+			<xmax>1754</xmax>
+			<ymin>220</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>295</xmin>
+			<xmax>599</xmax>
+			<ymin>205</ymin>
+			<ymax>583</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754991154</timestamp>
+	</update_record>
+	<last_update_ts>1754991154</last_update_ts>
+</Annotation>

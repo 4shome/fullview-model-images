@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Back-Door_motion_20240610T052712_1m26.7s.mp4-00423.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>764</xmin>
+			<xmax>1242</xmax>
+			<ymin>79</ymin>
+			<ymax>331</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755071662</timestamp>
+	</update_record>
+	<last_update_ts>1755071662</last_update_ts>
+</Annotation>

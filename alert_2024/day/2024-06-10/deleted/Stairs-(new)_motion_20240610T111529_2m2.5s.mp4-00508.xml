@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Stairs-(new)_motion_20240610T111529_2m2.5s.mp4-00508.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1461</xmin>
+			<xmax>1596</xmax>
+			<ymin>285</ymin>
+			<ymax>569</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755071973</timestamp>
+	</update_record>
+	<last_update_ts>1755071973</last_update_ts>
+</Annotation>

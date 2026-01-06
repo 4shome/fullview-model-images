@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>192.168.0.70_motion_20240610T082103_4.3s.mp4-00009.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1051</xmin>
+			<xmax>1283</xmax>
+			<ymin>107</ymin>
+			<ymax>215</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755071561</timestamp>
+	</update_record>
+	<last_update_ts>1755071561</last_update_ts>
+</Annotation>

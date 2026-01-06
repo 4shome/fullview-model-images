@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>192.168.128.186-person_motion_20240610T111234_29.7s.mp4-00099.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1045</xmin>
+			<xmax>1143</xmax>
+			<ymin>552</ymin>
+			<ymax>795</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755071635</timestamp>
+	</update_record>
+	<last_update_ts>1755071635</last_update_ts>
+</Annotation>

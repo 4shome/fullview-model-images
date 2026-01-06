@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>SE-Corner-N-facing_motion_20240107T160824_11.7s.mp4-00147.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1589</xmin>
+			<xmax>1770</xmax>
+			<ymin>190</ymin>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747902830</timestamp>
+	</update_record>
+	<last_update_ts>1747902830</last_update_ts>
+</Annotation>

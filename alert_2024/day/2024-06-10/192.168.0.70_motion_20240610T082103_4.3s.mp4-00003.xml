@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>192.168.0.70_motion_20240610T082103_4.3s.mp4-00003.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1051</xmin>
+			<xmax>1283</xmax>
+			<ymin>107</ymin>
+			<ymax>215</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1475</xmin>
+			<xmax>1594</xmax>
+			<ymin>115</ymin>
+			<ymax>163</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755071555</timestamp>
+	</update_record>
+	<last_update_ts>1755071555</last_update_ts>
+</Annotation>
