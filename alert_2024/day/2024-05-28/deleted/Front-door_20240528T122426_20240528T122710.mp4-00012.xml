@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Front-door_20240528T122426_20240528T122710.mp4-00012.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1381</xmin>
+			<xmax>1699</xmax>
+			<ymin>545</ymin>
+			<ymax>739</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755167195</timestamp>
+	</update_record>
+	<last_update_ts>1755167195</last_update_ts>
+</Annotation>

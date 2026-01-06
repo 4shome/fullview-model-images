@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Back-Yard_motion_20240528T174218_17s.mp4-00132.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>728</xmin>
+			<xmax>832</xmax>
+			<ymin>87</ymin>
+			<ymax>178</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>840</xmin>
+			<xmax>879</xmax>
+			<ymin>61</ymin>
+			<ymax>92</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755156200</timestamp>
+	</update_record>
+	<last_update_ts>1755156200</last_update_ts>
+</Annotation>

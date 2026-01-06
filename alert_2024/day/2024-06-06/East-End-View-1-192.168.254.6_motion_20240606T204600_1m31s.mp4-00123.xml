@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>East-End-View-1-192.168.254.6_motion_20240606T204600_1m31s.mp4-00123.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1534</xmin>
+			<xmax>1697</xmax>
+			<ymin>243</ymin>
+			<ymax>437</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1254</xmin>
+			<xmax>1340</xmax>
+			<ymin>133</ymin>
+			<ymax>303</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755140310</timestamp>
+	</update_record>
+	<last_update_ts>1755140310</last_update_ts>
+</Annotation>

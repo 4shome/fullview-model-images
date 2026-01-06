@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Camera-13_motion_20240730T032332_19s.mp4-00020.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>637</xmin>
+			<xmax>1440</xmax>
+			<ymin>632</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>723</xmin>
+			<xmax>1440</xmax>
+			<ymin>476</ymin>
+			<ymax>725</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753266945</timestamp>
+	</update_record>
+	<last_update_ts>1753266945</last_update_ts>
+</Annotation>

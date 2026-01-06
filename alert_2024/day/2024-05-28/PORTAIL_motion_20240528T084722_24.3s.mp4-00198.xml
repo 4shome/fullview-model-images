@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>PORTAIL_motion_20240528T084722_24.3s.mp4-00198.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1288</xmin>
+			<xmax>1481</xmax>
+			<ymin>231</ymin>
+			<ymax>562</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755243839</timestamp>
+	</update_record>
+	<last_update_ts>1755243839</last_update_ts>
+</Annotation>

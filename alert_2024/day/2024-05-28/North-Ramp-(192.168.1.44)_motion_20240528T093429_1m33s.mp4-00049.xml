@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>North-Ramp-(192.168.1.44)_motion_20240528T093429_1m33s.mp4-00049.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1419</xmin>
+			<xmax>1590</xmax>
+			<ymin>340</ymin>
+			<ymax>765</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>404</xmin>
+			<xmax>672</xmax>
+			<ymin>101</ymin>
+			<ymax>209</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1755245673</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755590457</timestamp>
+	</update_record>
+	<last_update_ts>1755590457</last_update_ts>
+</Annotation>

@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>East-End-View-1-192.168.254.6_motion_20240606T204600_1m31s.mp4-00084.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1644</xmin>
+			<xmax>1842</xmax>
+			<ymin>241</ymin>
+			<ymax>436</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755141360</timestamp>
+	</update_record>
+	<last_update_ts>1755141360</last_update_ts>
+</Annotation>

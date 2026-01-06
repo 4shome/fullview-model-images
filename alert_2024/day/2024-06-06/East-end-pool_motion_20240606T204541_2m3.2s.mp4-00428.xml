@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>East-end-pool_motion_20240606T204541_2m3.2s.mp4-00428.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1835</xmin>
+			<xmax>1910</xmax>
+			<ymin>218</ymin>
+			<ymax>346</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1739</xmin>
+			<xmax>1822</xmax>
+			<ymin>196</ymin>
+			<ymax>396</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755140994</timestamp>
+	</update_record>
+	<last_update_ts>1755140994</last_update_ts>
+</Annotation>
