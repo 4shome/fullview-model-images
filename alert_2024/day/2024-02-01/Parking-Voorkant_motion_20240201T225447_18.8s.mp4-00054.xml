@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Parking-Voorkant_motion_20240201T225447_18.8s.mp4-00054.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>363</xmin>
+			<xmax>1115</xmax>
+			<ymin>459</ymin>
+			<ymax>1023</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>788</xmin>
+			<xmax>1421</xmax>
+			<ymin>352</ymin>
+			<ymax>717</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1750833393</timestamp>
+	</update_record>
+	<last_update_ts>1750833393</last_update_ts>
+</Annotation>

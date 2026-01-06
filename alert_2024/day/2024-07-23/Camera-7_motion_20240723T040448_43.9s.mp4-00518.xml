@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Camera-7_motion_20240723T040448_43.9s.mp4-00518.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>442</xmin>
+			<xmax>1440</xmax>
+			<ymin>352</ymin>
+			<ymax>1017</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>612</xmin>
+			<xmax>1299</xmax>
+			<ymin>240</ymin>
+			<ymax>499</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753428257</timestamp>
+	</update_record>
+	<last_update_ts>1753428257</last_update_ts>
+</Annotation>

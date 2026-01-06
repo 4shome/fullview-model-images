@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Front-Doorbell-109_20240422T121604_29.3s.mp4-00009.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>178</xmax>
+			<ymin>517</ymin>
+			<ymax>637</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754467486</timestamp>
+	</update_record>
+	<last_update_ts>1754467486</last_update_ts>
+</Annotation>

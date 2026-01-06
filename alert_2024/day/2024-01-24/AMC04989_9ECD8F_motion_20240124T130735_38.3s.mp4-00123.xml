@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>AMC04989_9ECD8F_motion_20240124T130735_38.3s.mp4-00123.jpeg</filename>
+	<size>
+		<width>1841</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1394</xmin>
+			<xmax>1494</xmax>
+			<ymin>162</ymin>
+			<ymax>391</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1748428793</timestamp>
+	</update_record>
+	<last_update_ts>1748428793</last_update_ts>
+</Annotation>
