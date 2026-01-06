@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Outside-Right_20240208T013508_4m1.5s.mp4-00048.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>284</xmin>
+			<xmax>1124</xmax>
+			<ymin>128</ymin>
+			<ymax>597</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751009975</timestamp>
+	</update_record>
+	<last_update_ts>1751009975</last_update_ts>
+</Annotation>

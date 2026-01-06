@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Side-of-house_motion_20240313T080639_24.5s.mp4-00184.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>773</xmin>
+			<xmax>1346</xmax>
+			<ymin>418</ymin>
+			<ymax>647</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751357171</timestamp>
+	</update_record>
+	<last_update_ts>1751357171</last_update_ts>
+</Annotation>

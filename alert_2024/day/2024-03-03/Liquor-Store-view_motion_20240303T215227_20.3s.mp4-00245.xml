@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Liquor-Store-view_motion_20240303T215227_20.3s.mp4-00245.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>342</xmin>
+			<xmax>389</xmax>
+			<ymin>603</ymin>
+			<ymax>679</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751265130</timestamp>
+	</update_record>
+	<last_update_ts>1751265130</last_update_ts>
+</Annotation>

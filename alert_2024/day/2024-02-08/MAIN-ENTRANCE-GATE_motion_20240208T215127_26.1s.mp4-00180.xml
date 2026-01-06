@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>MAIN-ENTRANCE-GATE_motion_20240208T215127_26.1s.mp4-00180.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>209</xmin>
+			<xmax>860</xmax>
+			<ymin>490</ymin>
+			<ymax>1026</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751009915</timestamp>
+	</update_record>
+	<last_update_ts>1751009915</last_update_ts>
+</Annotation>

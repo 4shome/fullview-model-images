@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Workshop-Entrance_motion_20240208T040258_13s.mp4-00011.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>939</xmin>
+			<xmax>1909</xmax>
+			<ymin>362</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>289</xmin>
+			<xmax>1047</xmax>
+			<ymin>132</ymin>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751010114</timestamp>
+	</update_record>
+	<last_update_ts>1751010114</last_update_ts>
+</Annotation>
