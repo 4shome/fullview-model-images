@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Workshop-Entrance_motion_20240715T235223_2m36.1s.mp4-00183.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>270</xmin>
+			<xmax>991</xmax>
+			<ymin>141</ymin>
+			<ymax>773</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753769051</timestamp>
+	</update_record>
+	<last_update_ts>1753769051</last_update_ts>
+</Annotation>
