@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>HIGHROOF-NE(C2M1)_motion_20240327T160725_1m59.6s.mp4-00955.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>90</xmin>
+			<xmax>183</xmax>
+			<ymin>402</ymin>
+			<ymax>497</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1754376802</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755679553</timestamp>
+	</update_record>
+	<last_update_ts>1755679553</last_update_ts>
+</Annotation>

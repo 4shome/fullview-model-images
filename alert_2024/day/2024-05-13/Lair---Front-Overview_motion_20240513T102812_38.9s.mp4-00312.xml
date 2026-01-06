@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Lair---Front-Overview_motion_20240513T102812_38.9s.mp4-00312.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>764</xmin>
+			<xmax>828</xmax>
+			<ymin>498</ymin>
+			<ymax>654</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754908943</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755599496</timestamp>
+	</update_record>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1756959611</timestamp>
+	</update_record>
+	<last_update_ts>1756959611</last_update_ts>
+</Annotation>

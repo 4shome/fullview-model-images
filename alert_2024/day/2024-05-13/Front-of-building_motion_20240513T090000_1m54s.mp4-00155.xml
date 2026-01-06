@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Front-of-building_motion_20240513T090000_1m54s.mp4-00155.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>473</xmin>
+			<xmax>561</xmax>
+			<ymin>299</ymin>
+			<ymax>459</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754557760</timestamp>
+	</update_record>
+	<last_update_ts>1754557760</last_update_ts>
+</Annotation>
