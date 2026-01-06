@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Backyard_motion_20240108T102743_20.1s.mp4-00022.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<bndbox>
+			<xmin>660</xmin>
+			<xmax>866</xmax>
+			<ymin>34</ymin>
+			<ymax>283</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747812501</timestamp>
+	</update_record>
+	<last_update_ts>1747812501</last_update_ts>
+</Annotation>

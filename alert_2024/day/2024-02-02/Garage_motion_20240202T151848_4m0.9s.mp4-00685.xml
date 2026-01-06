@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Garage_motion_20240202T151848_4m0.9s.mp4-00685.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>803</xmin>
+			<xmax>830</xmax>
+			<ymin>270</ymin>
+			<ymax>352</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1750844747</timestamp>
+	</update_record>
+	<last_update_ts>1750844747</last_update_ts>
+</Annotation>
