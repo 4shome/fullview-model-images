@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Oprit_motion_20240319T195044_19s.mp4-00032.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>191</xmin>
+			<xmax>1019</xmax>
+			<ymin>127</ymin>
+			<ymax>589</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1540</xmin>
+			<xmax>1680</xmax>
+			<ymin>60</ymin>
+			<ymax>163</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751360867</timestamp>
+	</update_record>
+	<last_update_ts>1751360867</last_update_ts>
+</Annotation>

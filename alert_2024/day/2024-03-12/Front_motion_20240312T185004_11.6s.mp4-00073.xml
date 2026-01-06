@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Front_motion_20240312T185004_11.6s.mp4-00073.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>386</xmin>
+			<xmax>1216</xmax>
+			<ymin>396</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>287</xmin>
+			<xmax>859</xmax>
+			<ymin>286</ymin>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751355593</timestamp>
+	</update_record>
+	<last_update_ts>1751355593</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Camera-1_motion_20240122T181340_5s.mp4-00016.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>excavator</name>
+		<bndbox>
+			<xmin>924</xmin>
+			<xmax>1651</xmax>
+			<ymin>0</ymin>
+			<ymax>494</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1422</xmin>
+			<xmax>1520</xmax>
+			<ymin>206</ymin>
+			<ymax>376</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1748426049</timestamp>
+	</update_record>
+	<last_update_ts>1748426049</last_update_ts>
+</Annotation>

@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Main-Lightwell_motion_20240624T100900_49.8s.mp4-00165.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>852</xmin>
+			<xmax>1064</xmax>
+			<ymin>259</ymin>
+			<ymax>788</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756969760</timestamp>
+	</update_record>
+	<last_update_ts>1756969760</last_update_ts>
+</Annotation>

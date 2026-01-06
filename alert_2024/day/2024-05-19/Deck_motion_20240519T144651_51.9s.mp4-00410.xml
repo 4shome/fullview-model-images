@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Deck_motion_20240519T144651_51.9s.mp4-00410.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>607</xmin>
+			<xmax>924</xmax>
+			<ymin>777</ymin>
+			<ymax>1065</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754993033</timestamp>
+	</update_record>
+	<last_update_ts>1754993033</last_update_ts>
+</Annotation>

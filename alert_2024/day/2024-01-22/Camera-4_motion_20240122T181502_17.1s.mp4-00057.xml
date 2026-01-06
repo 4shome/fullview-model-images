@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Camera-4_motion_20240122T181502_17.1s.mp4-00057.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1416</xmin>
+			<xmax>1549</xmax>
+			<ymin>516</ymin>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1748420018</timestamp>
+	</update_record>
+	<last_update_ts>1748420018</last_update_ts>
+</Annotation>
