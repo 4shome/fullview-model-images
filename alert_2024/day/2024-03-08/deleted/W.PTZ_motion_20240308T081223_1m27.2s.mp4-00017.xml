@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>W.PTZ_motion_20240308T081223_1m27.2s.mp4-00017.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>10</xmin>
+			<xmax>415</xmax>
+			<ymin>450</ymin>
+			<ymax>836</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751351702</timestamp>
+	</update_record>
+	<last_update_ts>1751351702</last_update_ts>
+</Annotation>

@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Camera-13_motion_20240324T211325_1m15.8s.mp4-00077.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>589</xmin>
+			<xmax>1395</xmax>
+			<ymin>459</ymin>
+			<ymax>914</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1754375975</timestamp>
+	</update_record>
+	<last_update_ts>1754375975</last_update_ts>
+</Annotation>

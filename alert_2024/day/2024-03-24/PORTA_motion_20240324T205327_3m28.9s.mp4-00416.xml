@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>PORTA_motion_20240324T205327_3m28.9s.mp4-00416.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>224</xmin>
+			<xmax>293</xmax>
+			<ymin>191</ymin>
+			<ymax>354</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1754376214</timestamp>
+	</update_record>
+	<last_update_ts>1754376214</last_update_ts>
+</Annotation>

@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Trailer-and-Seacan_motion_20240515T201604_8.9s.mp4-00005.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1851</xmin>
+			<xmax>1890</xmax>
+			<ymin>393</ymin>
+			<ymax>504</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1754986995</timestamp>
+	</update_record>
+	<last_update_ts>1754986995</last_update_ts>
+</Annotation>

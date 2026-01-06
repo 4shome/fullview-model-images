@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Corner-Parking-(Long-Beach-Blvd-&amp;-E-17th)_motion_20240515T073948_1m29.8s.mp4-00476.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>24</xmin>
+			<xmax>152</xmax>
+			<ymin>11</ymin>
+			<ymax>91</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1848</xmin>
+			<xmax>1871</xmax>
+			<ymin>170</ymin>
+			<ymax>229</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>jianmei</user>
+		<timestamp>1754986813</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755596271</timestamp>
+	</update_record>
+	<last_update_ts>1755596271</last_update_ts>
+</Annotation>

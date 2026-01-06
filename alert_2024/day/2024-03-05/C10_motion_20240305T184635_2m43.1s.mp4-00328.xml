@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>C10_motion_20240305T184635_2m43.1s.mp4-00328.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1327</xmin>
+			<xmax>1739</xmax>
+			<ymin>285</ymin>
+			<ymax>1031</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751265585</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755684491</timestamp>
+	</update_record>
+	<last_update_ts>1755684491</last_update_ts>
+</Annotation>

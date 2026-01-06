@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Front-Porch-Cam_motion_20240305T184714_20.6s.mp4-00119.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>977</xmin>
+			<xmax>1541</xmax>
+			<ymin>19</ymin>
+			<ymax>252</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751339597</timestamp>
+	</update_record>
+	<last_update_ts>1751339597</last_update_ts>
+</Annotation>

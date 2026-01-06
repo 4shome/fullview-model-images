@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Inside-Compound_motion_20240305T003116_20.4s.mp4-00092.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>bus</name>
+		<bndbox>
+			<xmin>791</xmin>
+			<xmax>1450</xmax>
+			<ymin>273</ymin>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751339811</timestamp>
+	</update_record>
+	<last_update_ts>1751339811</last_update_ts>
+</Annotation>
