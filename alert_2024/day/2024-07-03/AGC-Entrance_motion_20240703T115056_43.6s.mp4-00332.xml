@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>AGC-Entrance_motion_20240703T115056_43.6s.mp4-00332.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>62</xmin>
+			<xmax>640</xmax>
+			<ymin>283</ymin>
+			<ymax>847</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>377</xmin>
+			<xmax>543</xmax>
+			<ymin>1</ymin>
+			<ymax>341</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756970269</timestamp>
+	</update_record>
+	<last_update_ts>1756970269</last_update_ts>
+</Annotation>

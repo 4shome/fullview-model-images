@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Front-Door_motion_20240703T151412_2m18.9s.mp4-00050.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>633</xmin>
+			<xmax>754</xmax>
+			<ymin>438</ymin>
+			<ymax>825</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753857800</timestamp>
+	</update_record>
+	<last_update_ts>1753857800</last_update_ts>
+</Annotation>

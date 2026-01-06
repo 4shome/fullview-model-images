@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Cars_motion_20240706T165040_2m20.3s.mp4-00270.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1116</xmin>
+			<xmax>1920</xmax>
+			<ymin>0</ymin>
+			<ymax>793</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>851</xmax>
+			<ymin>0</ymin>
+			<ymax>637</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753780942</timestamp>
+	</update_record>
+	<last_update_ts>1753780942</last_update_ts>
+</Annotation>
