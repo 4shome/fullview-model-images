@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Camera-5_motion_20240820T205203_24.1s.mp4-00081.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>990</xmin>
+			<xmax>1103</xmax>
+			<ymin>183</ymin>
+			<ymax>269</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747812737</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755484473</timestamp>
+	</update_record>
+	<update_record>
+		<user>test</user>
+		<timestamp>1756880742</timestamp>
+	</update_record>
+	<last_update_ts>1756880742</last_update_ts>
+</Annotation>

@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>terras_motion_20240410T074858_26.5s.mp4-00070.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>280</xmin>
+			<xmax>417</xmax>
+			<ymin>318</ymin>
+			<ymax>620</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754450196</timestamp>
+	</update_record>
+	<last_update_ts>1754450196</last_update_ts>
+</Annotation>
