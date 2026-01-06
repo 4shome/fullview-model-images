@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Driveway_motion_20240722T195310_25.2s.mp4-00145.jpeg</filename>
+	<size>
+		<width>1440</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>403</xmin>
+			<xmax>1391</xmax>
+			<ymin>101</ymin>
+			<ymax>879</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1062</xmin>
+			<xmax>1144</xmax>
+			<ymin>0</ymin>
+			<ymax>152</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753438050</timestamp>
+	</update_record>
+	<last_update_ts>1753438050</last_update_ts>
+</Annotation>
