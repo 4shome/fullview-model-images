@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>192.168.0.104-Back-Right_motion_20240810T113737_7.6s.mp4-00007.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1658</xmin>
+			<xmax>1843</xmax>
+			<ymin>266</ymin>
+			<ymax>427</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1070</xmin>
+			<xmax>1238</xmax>
+			<ymin>96</ymin>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1750153710</timestamp>
+	</update_record>
+	<last_update_ts>1750153710</last_update_ts>
+</Annotation>
