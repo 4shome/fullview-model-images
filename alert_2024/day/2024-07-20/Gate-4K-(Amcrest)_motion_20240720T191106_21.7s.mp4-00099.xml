@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Gate-4K-(Amcrest)_motion_20240720T191106_21.7s.mp4-00099.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>0</xmin>
+			<xmax>79</xmax>
+			<ymin>253</ymin>
+			<ymax>531</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1759140046</timestamp>
+	</update_record>
+	<update_record>
+		<user>test</user>
+		<timestamp>1766482302</timestamp>
+	</update_record>
+	<last_update_ts>1766482302</last_update_ts>
+</Annotation>
