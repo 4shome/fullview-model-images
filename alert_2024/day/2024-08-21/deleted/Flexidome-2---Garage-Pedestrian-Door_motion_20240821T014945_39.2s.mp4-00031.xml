@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Flexidome-2---Garage-Pedestrian-Door_motion_20240821T014945_39.2s.mp4-00031.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1357</xmin>
+			<xmax>1882</xmax>
+			<ymin>229</ymin>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1019</xmin>
+			<xmax>1412</xmax>
+			<ymin>239</ymin>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747810999</timestamp>
+	</update_record>
+	<last_update_ts>1747810999</last_update_ts>
+</Annotation>

@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Front-Left_motion_20240617T165744_1m17.8s.mp4-00468.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>871</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>608</xmin>
+			<xmax>858</xmax>
+			<ymin>145</ymin>
+			<ymax>364</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1754983488</timestamp>
+	</update_record>
+	<last_update_ts>1754983488</last_update_ts>
+</Annotation>

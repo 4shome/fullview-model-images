@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>SIDE-DOOR-10602_motion_20240125T232132_2m33s.mp4-00334.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1284</xmin>
+			<xmax>1590</xmax>
+			<ymin>0</ymin>
+			<ymax>330</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1750404345</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756176945</timestamp>
+	</update_record>
+	<last_update_ts>1756176945</last_update_ts>
+</Annotation>

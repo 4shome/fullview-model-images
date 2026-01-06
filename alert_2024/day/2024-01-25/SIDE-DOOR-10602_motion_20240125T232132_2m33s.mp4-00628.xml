@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>SIDE-DOOR-10602_motion_20240125T232132_2m33s.mp4-00628.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1603</xmin>
+			<xmax>1755</xmax>
+			<ymin>494</ymin>
+			<ymax>845</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1750404385</timestamp>
+	</update_record>
+	<last_update_ts>1750404385</last_update_ts>
+</Annotation>

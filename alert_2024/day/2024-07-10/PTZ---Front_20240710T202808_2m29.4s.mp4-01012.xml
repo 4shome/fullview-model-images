@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>PTZ---Front_20240710T202808_2m29.4s.mp4-01012.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1422</xmin>
+			<xmax>1736</xmax>
+			<ymin>163</ymin>
+			<ymax>373</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>849</xmin>
+			<xmax>987</xmax>
+			<ymin>910</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753774298</timestamp>
+	</update_record>
+	<last_update_ts>1753774298</last_update_ts>
+</Annotation>
