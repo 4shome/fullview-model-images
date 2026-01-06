@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>CAM-25_motion_20240814T123821_33.6s.mp4-00211.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1147</xmin>
+			<xmax>1405</xmax>
+			<ymin>410</ymin>
+			<ymax>826</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1757060094</timestamp>
+	</update_record>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1757062248</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1760438130</timestamp>
+	</update_record>
+	<last_update_ts>1760438130</last_update_ts>
+</Annotation>

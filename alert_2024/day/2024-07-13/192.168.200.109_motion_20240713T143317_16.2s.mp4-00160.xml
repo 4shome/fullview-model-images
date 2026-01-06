@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>192.168.200.109_motion_20240713T143317_16.2s.mp4-00160.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>504</xmin>
+			<xmax>780</xmax>
+			<ymin>73</ymin>
+			<ymax>317</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753769988</timestamp>
+	</update_record>
+	<last_update_ts>1753769988</last_update_ts>
+</Annotation>

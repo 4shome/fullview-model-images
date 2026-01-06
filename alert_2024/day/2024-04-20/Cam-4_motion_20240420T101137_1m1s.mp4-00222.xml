@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Cam-4_motion_20240420T101137_1m1s.mp4-00222.jpeg</filename>
+	<size>
+		<width>1841</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>962</xmin>
+			<xmax>1085</xmax>
+			<ymin>78</ymin>
+			<ymax>163</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754466153</timestamp>
+	</update_record>
+	<last_update_ts>1754466153</last_update_ts>
+</Annotation>

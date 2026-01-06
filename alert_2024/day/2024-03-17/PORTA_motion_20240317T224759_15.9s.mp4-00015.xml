@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>PORTA_motion_20240317T224759_15.9s.mp4-00015.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>58</xmin>
+			<xmax>459</xmax>
+			<ymin>295</ymin>
+			<ymax>636</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751357969</timestamp>
+	</update_record>
+	<last_update_ts>1751357969</last_update_ts>
+</Annotation>

@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>Cam6_motion_20240420T235302_40s.mp4-00053.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>741</xmin>
+			<xmax>1130</xmax>
+			<ymin>148</ymin>
+			<ymax>306</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754476931</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755671131</timestamp>
+	</update_record>
+	<update_record>
+		<user>test</user>
+		<timestamp>1757327200</timestamp>
+	</update_record>
+	<last_update_ts>1757327200</last_update_ts>
+</Annotation>

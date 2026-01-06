@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Axis_motion_20240215T190851_31.6s.mp4-00059.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>75</xmin>
+			<xmax>727</xmax>
+			<ymin>441</ymin>
+			<ymax>749</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751252386</timestamp>
+	</update_record>
+	<last_update_ts>1751252386</last_update_ts>
+</Annotation>

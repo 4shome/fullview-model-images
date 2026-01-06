@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>C04_motion_20240814T085223_38.1s.mp4-00121.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>118</xmin>
+			<xmax>480</xmax>
+			<ymin>215</ymin>
+			<ymax>476</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>1226</xmin>
+			<xmax>1428</xmax>
+			<ymin>0</ymin>
+			<ymax>115</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747818581</timestamp>
+	</update_record>
+	<last_update_ts>1747818581</last_update_ts>
+</Annotation>

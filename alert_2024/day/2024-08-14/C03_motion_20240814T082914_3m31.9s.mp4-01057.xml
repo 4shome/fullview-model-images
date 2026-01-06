@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>C03_motion_20240814T082914_3m31.9s.mp4-01057.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>school bus</name>
+		<bndbox>
+			<xmin>564</xmin>
+			<xmax>927</xmax>
+			<ymin>0</ymin>
+			<ymax>156</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>1066</xmin>
+			<xmax>1182</xmax>
+			<ymin>63</ymin>
+			<ymax>117</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747818445</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1760436602</timestamp>
+	</update_record>
+	<last_update_ts>1760436602</last_update_ts>
+</Annotation>

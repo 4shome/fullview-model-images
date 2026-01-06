@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Ganleys-Lane_motion_20240814T201818_2m6.3s.mp4-00340.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1314</xmin>
+			<xmax>1383</xmax>
+			<ymin>536</ymin>
+			<ymax>709</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747820443</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1757060169</timestamp>
+	</update_record>
+	<last_update_ts>1757060169</last_update_ts>
+</Annotation>

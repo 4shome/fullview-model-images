@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>KISIWA-MAIN-ENTRANCE-GATE_motion_20240215T193621_23.3s.mp4-00472.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1655</xmin>
+			<xmax>1824</xmax>
+			<ymin>471</ymin>
+			<ymax>633</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1751252565</timestamp>
+	</update_record>
+	<last_update_ts>1751252565</last_update_ts>
+</Annotation>
