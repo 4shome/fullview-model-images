@@ -1,0 +1,47 @@
+<Annotation>
+	<filename>Camera-6_motion_20240824T043026_44.2s.mp4-00026.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>semi truck</name>
+		<bndbox>
+			<xmin>422</xmin>
+			<xmax>1618</xmax>
+			<ymin>461</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>semi truck</name>
+		<bndbox>
+			<xmin>307</xmin>
+			<xmax>1187</xmax>
+			<ymin>343</ymin>
+			<ymax>853</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>347</xmin>
+			<xmax>688</xmax>
+			<ymin>279</ymin>
+			<ymax>488</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747798123</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756980702</timestamp>
+	</update_record>
+	<last_update_ts>1756980702</last_update_ts>
+</Annotation>

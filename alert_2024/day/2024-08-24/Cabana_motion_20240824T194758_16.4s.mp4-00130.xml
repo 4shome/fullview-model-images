@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Cabana_motion_20240824T194758_16.4s.mp4-00130.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1248</xmin>
+			<xmax>1287</xmax>
+			<ymin>252</ymin>
+			<ymax>319</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747797860</timestamp>
+	</update_record>
+	<last_update_ts>1747797860</last_update_ts>
+</Annotation>
