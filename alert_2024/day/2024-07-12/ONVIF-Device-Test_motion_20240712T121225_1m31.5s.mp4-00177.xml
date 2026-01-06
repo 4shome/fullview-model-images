@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>ONVIF-Device-Test_motion_20240712T121225_1m31.5s.mp4-00177.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1239</xmin>
+			<xmax>1626</xmax>
+			<ymin>0</ymin>
+			<ymax>387</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1753771606</timestamp>
+	</update_record>
+	<last_update_ts>1753771606</last_update_ts>
+</Annotation>

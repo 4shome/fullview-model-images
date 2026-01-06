@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>Garage_motion_20240419T012431_38.9s.mp4-00054.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1252</xmin>
+			<xmax>1908</xmax>
+			<ymin>465</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>1277</xmin>
+			<xmax>1390</xmax>
+			<ymin>276</ymin>
+			<ymax>348</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1756959106</timestamp>
+	</update_record>
+	<last_update_ts>1756959106</last_update_ts>
+</Annotation>

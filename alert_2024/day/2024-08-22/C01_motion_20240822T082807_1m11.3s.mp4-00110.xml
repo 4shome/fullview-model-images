@@ -1,0 +1,31 @@
+<Annotation>
+	<filename>C01_motion_20240822T082807_1m11.3s.mp4-00110.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>985</xmin>
+			<xmax>1282</xmax>
+			<ymin>772</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>143</xmin>
+			<xmax>329</xmax>
+			<ymin>347</ymin>
+			<ymax>685</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747809831</timestamp>
+	</update_record>
+	<last_update_ts>1747809831</last_update_ts>
+</Annotation>

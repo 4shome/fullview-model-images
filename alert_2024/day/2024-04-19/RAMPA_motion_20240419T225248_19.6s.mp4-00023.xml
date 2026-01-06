@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>RAMPA_motion_20240419T225248_19.6s.mp4-00023.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>948</xmin>
+			<xmax>1213</xmax>
+			<ymin>48</ymin>
+			<ymax>199</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754465053</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755671208</timestamp>
+	</update_record>
+	<last_update_ts>1755671208</last_update_ts>
+</Annotation>

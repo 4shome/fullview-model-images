@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Garage_motion_20240822T170224_30.1s.mp4-00066.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>truck</name>
+		<bndbox>
+			<xmin>939</xmin>
+			<xmax>1209</xmax>
+			<ymin>116</ymin>
+			<ymax>264</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>647</xmin>
+			<xmax>728</xmax>
+			<ymin>61</ymin>
+			<ymax>94</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747810095</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756980316</timestamp>
+	</update_record>
+	<last_update_ts>1756980316</last_update_ts>
+</Annotation>

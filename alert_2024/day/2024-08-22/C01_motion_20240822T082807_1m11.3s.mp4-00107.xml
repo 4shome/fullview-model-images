@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>C01_motion_20240822T082807_1m11.3s.mp4-00107.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1046</xmin>
+			<xmax>1345</xmax>
+			<ymin>651</ymin>
+			<ymax>1080</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>168</xmin>
+			<xmax>358</xmax>
+			<ymin>383</ymin>
+			<ymax>766</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747809807</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1756264414</timestamp>
+	</update_record>
+	<last_update_ts>1756264414</last_update_ts>
+</Annotation>

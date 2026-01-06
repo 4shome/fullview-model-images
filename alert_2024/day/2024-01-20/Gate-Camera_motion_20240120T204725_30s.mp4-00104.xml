@@ -1,0 +1,22 @@
+<Annotation>
+	<filename>Gate-Camera_motion_20240120T204725_30s.mp4-00104.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>591</xmin>
+			<xmax>708</xmax>
+			<ymin>254</ymin>
+			<ymax>526</ymax>
+		</bndbox>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1748241342</timestamp>
+	</update_record>
+	<last_update_ts>1748241342</last_update_ts>
+</Annotation>

@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>Apron-South_motion_20240520T143122_13.7s.mp4-00055.jpeg</filename>
+	<size>
+		<width>1909</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>160</xmin>
+			<xmax>265</xmax>
+			<ymin>433</ymin>
+			<ymax>704</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>zexuan</user>
+		<timestamp>1754993183</timestamp>
+	</update_record>
+	<last_update_ts>1754993183</last_update_ts>
+</Annotation>
