@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>702_motion_20240803T005422_1m23.6s.mp4-00212.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>599</xmin>
+			<xmax>758</xmax>
+			<ymin>634</ymin>
+			<ymax>902</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>pickup</name>
+		<bndbox>
+			<xmin>317</xmin>
+			<xmax>504</xmax>
+			<ymin>204</ymin>
+			<ymax>312</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1760437708</timestamp>
+	</update_record>
+	<last_update_ts>1760437708</last_update_ts>
+</Annotation>

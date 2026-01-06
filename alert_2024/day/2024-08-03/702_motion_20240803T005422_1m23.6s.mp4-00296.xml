@@ -1,0 +1,33 @@
+<Annotation>
+	<filename>702_motion_20240803T005422_1m23.6s.mp4-00296.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>606</xmin>
+			<xmax>758</xmax>
+			<ymin>633</ymin>
+			<ymax>901</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>379</xmin>
+			<xmax>484</xmax>
+			<ymin>192</ymin>
+			<ymax>254</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1760437715</timestamp>
+	</update_record>
+	<last_update_ts>1760437715</last_update_ts>
+</Annotation>

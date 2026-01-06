@@ -1,0 +1,23 @@
+<Annotation>
+	<filename>702_motion_20240803T004904_39.8s.mp4-00043.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>623</xmin>
+			<xmax>757</xmax>
+			<ymin>639</ymin>
+			<ymax>846</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1760437494</timestamp>
+	</update_record>
+	<last_update_ts>1760437494</last_update_ts>
+</Annotation>
