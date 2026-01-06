@@ -1,0 +1,37 @@
+<Annotation>
+	<filename>Camera-6_motion_20240825T180046_42.8s.mp4-00002.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>car</name>
+		<bndbox>
+			<xmin>753</xmin>
+			<xmax>1360</xmax>
+			<ymin>350</ymin>
+			<ymax>702</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<object>
+		<name>tractor</name>
+		<bndbox>
+			<xmin>960</xmin>
+			<xmax>1172</xmax>
+			<ymin>195</ymin>
+			<ymax>299</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747797127</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1755483395</timestamp>
+	</update_record>
+	<last_update_ts>1755483395</last_update_ts>
+</Annotation>

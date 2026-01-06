@@ -1,0 +1,27 @@
+<Annotation>
+	<filename>Alley-No.1_motion_20240825T211847_1m57.2s.mp4-00466.jpeg</filename>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>person</name>
+		<bndbox>
+			<xmin>1223</xmin>
+			<xmax>1344</xmax>
+			<ymin>311</ymin>
+			<ymax>481</ymax>
+		</bndbox>
+		<fall_status></fall_status>
+	</object>
+	<update_record>
+		<user>test</user>
+		<timestamp>1747796613</timestamp>
+	</update_record>
+	<update_record>
+		<user>xueqing</user>
+		<timestamp>1759141052</timestamp>
+	</update_record>
+	<last_update_ts>1759141052</last_update_ts>
+</Annotation>
